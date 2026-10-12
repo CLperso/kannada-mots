@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "updated": "2026-10-12",
  "words": [
   {
@@ -552,6 +552,856 @@
    },
    "kw": "snééé… hite",
    "img": "Près de {lieu}, ton amie éternue « snééé… hite ! »"
+  },
+  {
+   "id": "a1-01",
+   "cat": "Affection",
+   "fr": "je t'aime",
+   "tr": "nānu ninnannu prītisuttēne",
+   "kn": "ನಾನು ನಿನ್ನನ್ನು ಪ್ರೀತಿಸುತ್ತೇನೆ",
+   "kw": "Nanou, Nina, pré, tisse, tes nez",
+   "img": "Près de {lieu}, un couple tisse un cœur dans un pré avec Nina : je t'aime.",
+   "note": "forme complète ; à l'oral on entend aussi « nā ninna prītistīni »"
+  },
+  {
+   "id": "a1-02",
+   "cat": "Affection",
+   "fr": "l'amour",
+   "tr": "prīti",
+   "kn": "ಪ್ರೀತಿ",
+   "kw": "pré, petit",
+   "img": "Près de {lieu}, deux petits amoureux s'embrassent dans un pré."
+  },
+  {
+   "id": "a1-03",
+   "cat": "Affection",
+   "fr": "mon trésor / ma chérie",
+   "tr": "chinna",
+   "kn": "ಚಿನ್ನ",
+   "kw": "Chine-a",
+   "img": "Près de {lieu}, on t'offre un lingot d'or venu de Chine : mon trésor !",
+   "note": "littéralement « or »"
+  },
+  {
+   "id": "a1-04",
+   "cat": "Affection",
+   "fr": "un bisou",
+   "tr": "muttu",
+   "kn": "ಮುತ್ತು",
+   "kw": "mou-tout",
+   "img": "Près de {lieu}, Micky te fait un bisou tout mou."
+  },
+  {
+   "id": "a1-05",
+   "cat": "Affection",
+   "fr": "tu es belle",
+   "tr": "nīnu sundaravāgiddīya",
+   "kn": "ನೀನು ಸುಂದರವಾಗಿದ್ದೀಯ",
+   "kw": "nid nu, sundae, ravage",
+   "img": "Près de {lieu}, quelqu'un t'offre un sundae et te dit que tu es belle."
+  },
+  {
+   "id": "a1-06",
+   "cat": "Affection",
+   "fr": "je suis heureuse",
+   "tr": "nanage khushi āgide",
+   "kn": "ನನಗೆ ಖುಷಿ ಆಗಿದೆ",
+   "kw": "nana âgée, coussin",
+   "img": "Près de {lieu}, une nana âgée saute sur un coussin, folle de joie."
+  },
+  {
+   "id": "a1-07",
+   "cat": "Affection",
+   "fr": "tu me manques (variante)",
+   "tr": "ninna nenapu baruttide",
+   "kn": "ನಿನ್ನ ನೆನಪು ಬರುತ್ತಿದೆ",
+   "kw": "Nina, nez, nappe, barre",
+   "img": "Près de {lieu}, Nina pose une barre de chocolat sur une nappe et pense à toi."
+  },
+  {
+   "id": "r1-01",
+   "cat": "Repas",
+   "fr": "que veux-tu manger ?",
+   "tr": "ninage ēnu tinnōke bēku?",
+   "kn": "ನಿನಗೆ ಏನು ತಿನ್ನೋಕೆ ಬೇಕು?",
+   "kw": "ni nage, et nous, tine, bec-cou",
+   "img": "Près de {lieu}, Micky nage dans une tine et demande ce que tu veux manger."
+  },
+  {
+   "id": "r1-02",
+   "cat": "Repas",
+   "fr": "tu as mangé ?",
+   "tr": "ūṭa āytā?",
+   "kn": "ಊಟ ಆಯ್ತಾ?",
+   "kw": "hutte, aïe ta",
+   "img": "Près de {lieu}, dans une hutte, une grand-mère te demande si tu as mangé.",
+   "note": "question très courante, ça remplace souvent « ça va ? »"
+  },
+  {
+   "id": "r1-03",
+   "cat": "Repas",
+   "fr": "viens manger",
+   "tr": "ūṭakke bā",
+   "kn": "ಊಟಕ್ಕೆ ಬಾ",
+   "kw": "hutte, quai, bas",
+   "img": "Près de {lieu}, on t'appelle depuis une hutte : viens manger !"
+  },
+  {
+   "id": "r1-04",
+   "cat": "Repas",
+   "fr": "j'ai faim",
+   "tr": "nanage hasivu āgide",
+   "kn": "ನನಗೆ ಹಸಿವು ಆಗಿದೆ",
+   "kw": "nana, as-y-vous",
+   "img": "Près de {lieu}, une nana âgée tire les as d'un jeu de cartes, son ventre gargouille."
+  },
+  {
+   "id": "r1-05",
+   "cat": "Repas",
+   "fr": "j'ai soif",
+   "tr": "nanage bāyārike āgide",
+   "kn": "ನನಗೆ ಬಾಯಾರಿಕೆ ಆಗಿದೆ",
+   "kw": "baille, à rire",
+   "img": "Près de {lieu}, quelqu'un baille et rit, la langue sèche : j'ai soif."
+  },
+  {
+   "id": "r1-06",
+   "cat": "Repas",
+   "fr": "c'est délicieux",
+   "tr": "tumbā ruchiyāgide",
+   "kn": "ತುಂಬಾ ರುಚಿಯಾಗಿದೆ",
+   "kw": "tomba, ruche",
+   "img": "Près de {lieu}, tu tombes dans une ruche pleine de miel : délicieux !"
+  },
+  {
+   "id": "r1-07",
+   "cat": "Repas",
+   "fr": "épicé",
+   "tr": "khāra",
+   "kn": "ಖಾರ",
+   "kw": "carat",
+   "img": "Près de {lieu}, un piment en or 24 carats qui brûle la langue."
+  },
+  {
+   "id": "r1-08",
+   "cat": "Repas",
+   "fr": "pas épicé, s'il vous plaît",
+   "tr": "khāra bēḍa, dayaviṭṭu",
+   "kn": "ಖಾರ ಬೇಡ, ದಯವಿಟ್ಟು",
+   "kw": "carat, BD",
+   "img": "Près de {lieu}, tu repousses le piment en or : pas épicé !"
+  },
+  {
+   "id": "r1-09",
+   "cat": "Repas",
+   "fr": "manger",
+   "tr": "tinnu",
+   "kn": "ತಿನ್ನು",
+   "kw": "tine-nous",
+   "img": "Près de {lieu}, on mange à même une grosse tine."
+  },
+  {
+   "id": "r1-10",
+   "cat": "Repas",
+   "fr": "boire",
+   "tr": "kuḍi",
+   "kn": "ಕುಡಿ",
+   "kw": "coudée",
+   "img": "Près de {lieu}, tu bois un verre long d'une coudée."
+  },
+  {
+   "id": "r1-11",
+   "cat": "Repas",
+   "fr": "le riz",
+   "tr": "anna",
+   "kn": "ಅನ್ನ",
+   "kw": "Anna",
+   "img": "Près de {lieu}, Anna verse une montagne de riz."
+  },
+  {
+   "id": "r1-12",
+   "cat": "Repas",
+   "fr": "le lait",
+   "tr": "hālu",
+   "kn": "ಹಾಲು",
+   "kw": "halo",
+   "img": "Près de {lieu}, un bol de lait entouré d'un halo lumineux."
+  },
+  {
+   "id": "r1-13",
+   "cat": "Repas",
+   "fr": "le café",
+   "tr": "kāphi",
+   "kn": "ಕಾಫಿ",
+   "kw": "café",
+   "img": "Près de {lieu}, une tasse de café fumante (facile !)."
+  },
+  {
+   "id": "r1-14",
+   "cat": "Repas",
+   "fr": "le thé",
+   "tr": "ṭī",
+   "kn": "ಟೀ",
+   "kw": "tea",
+   "img": "Près de {lieu}, une théière anglaise qui siffle « tea »."
+  },
+  {
+   "id": "r1-15",
+   "cat": "Repas",
+   "fr": "le fruit",
+   "tr": "haṇṇu",
+   "kn": "ಹಣ್ಣು",
+   "kw": "âne-nous",
+   "img": "Près de {lieu}, un âne croque un panier de fruits."
+  },
+  {
+   "id": "r1-16",
+   "cat": "Repas",
+   "fr": "les légumes",
+   "tr": "tarakāri",
+   "kn": "ತರಕಾರಿ",
+   "kw": "tare, carry",
+   "img": "Près de {lieu}, des légumes qui cuisent dans un curry."
+  },
+  {
+   "id": "r1-17",
+   "cat": "Repas",
+   "fr": "la banane",
+   "tr": "bāḷehaṇṇu",
+   "kn": "ಬಾಳೆಹಣ್ಣು",
+   "kw": "balai, âne",
+   "img": "Près de {lieu}, un âne balaie avec une banane géante."
+  },
+  {
+   "id": "r1-18",
+   "cat": "Repas",
+   "fr": "la mangue",
+   "tr": "māvina haṇṇu",
+   "kn": "ಮಾವಿನ ಹಣ್ಣು",
+   "kw": "mauve, âne",
+   "img": "Près de {lieu}, un âne mauve mange une mangue juteuse."
+  },
+  {
+   "id": "r1-19",
+   "cat": "Repas",
+   "fr": "l'œuf",
+   "tr": "moṭṭe",
+   "kn": "ಮೊಟ್ಟೆ",
+   "kw": "motte",
+   "img": "Près de {lieu}, un œuf posé sur une motte de beurre."
+  },
+  {
+   "id": "r1-20",
+   "cat": "Repas",
+   "fr": "le poisson",
+   "tr": "mīnu",
+   "kn": "ಮೀನು",
+   "kw": "mie nue",
+   "img": "Près de {lieu}, un poisson qui mange de la mie de pain toute nue."
+  },
+  {
+   "id": "r1-21",
+   "cat": "Repas",
+   "fr": "le sel",
+   "tr": "uppu",
+   "kn": "ಉಪ್ಪು",
+   "kw": "houp !",
+   "img": "Près de {lieu}, une salière qui saute : houp !"
+  },
+  {
+   "id": "r1-22",
+   "cat": "Repas",
+   "fr": "le sucre",
+   "tr": "sakkare",
+   "kn": "ಸಕ್ಕರೆ",
+   "kw": "sac carré",
+   "img": "Près de {lieu}, un sac carré rempli de sucre."
+  },
+  {
+   "id": "r1-23",
+   "cat": "Repas",
+   "fr": "je suis végétarienne",
+   "tr": "nānu sasyāhāri",
+   "kn": "ನಾನು ಸಸ್ಯಾಹಾರಿ",
+   "kw": "Nanou, sa salade, haricots",
+   "img": "Près de {lieu}, Nanou mange sa salade de haricots : végétarienne."
+  },
+  {
+   "id": "r1-24",
+   "cat": "Repas",
+   "fr": "encore un peu",
+   "tr": "innu svalpa",
+   "kn": "ಇನ್ನು ಸ್ವಲ್ಪ",
+   "kw": "inné, salle pas",
+   "img": "Près de {lieu}, tu tends ton assiette : encore un peu !"
+  },
+  {
+   "id": "r1-25",
+   "cat": "Repas",
+   "fr": "ça suffit / assez",
+   "tr": "sāku",
+   "kn": "ಸಾಕು",
+   "kw": "sac-où",
+   "img": "Près de {lieu}, tu fermes le sac : ça suffit !"
+  },
+  {
+   "id": "r1-26",
+   "cat": "Repas",
+   "fr": "l'addition, s'il vous plaît",
+   "tr": "bill koḍi",
+   "kn": "ಬಿಲ್ ಕೊಡಿ",
+   "kw": "bille, code",
+   "img": "Près de {lieu}, on te tend une bille avec un code : l'addition."
+  },
+  {
+   "id": "k1-01",
+   "cat": "Apprendre le kannada",
+   "fr": "j'apprends le kannada",
+   "tr": "nānu Kannaḍa kalītiddīni",
+   "kn": "ನಾನು ಕನ್ನಡ ಕಲೀತಿದ್ದೀನಿ",
+   "kw": "Nanou, canard, calé",
+   "img": "Près de {lieu}, Nanou apprend le kannada à un canard, bien calé dans un cahier."
+  },
+  {
+   "id": "k1-02",
+   "cat": "Apprendre le kannada",
+   "fr": "je parle un peu kannada",
+   "tr": "nanage svalpa Kannaḍa baratte",
+   "kn": "ನನಗೆ ಸ್ವಲ್ಪ ಕನ್ನಡ ಬರುತ್ತೆ",
+   "kw": "salle pas, canard, barrette",
+   "img": "Près de {lieu}, un canard avec une barrette parle un tout petit peu."
+  },
+  {
+   "id": "k1-03",
+   "cat": "Apprendre le kannada",
+   "fr": "parlez lentement",
+   "tr": "nidhānavāgi mātāḍi",
+   "kn": "ನಿಧಾನವಾಗಿ ಮಾತಾಡಿ",
+   "kw": "nid d'âne, vague, mât",
+   "img": "Près de {lieu}, un âne dans son nid parle très lentement depuis un mât."
+  },
+  {
+   "id": "k1-04",
+   "cat": "Apprendre le kannada",
+   "fr": "répétez, s'il vous plaît",
+   "tr": "innond sala hēḷi",
+   "kn": "ಇನ್ನೊಂದ್ ಸಲ ಹೇಳಿ",
+   "kw": "inonde, salade, hélice",
+   "img": "Près de {lieu}, une hélice inonde la salade : encore une fois !"
+  },
+  {
+   "id": "k1-05",
+   "cat": "Apprendre le kannada",
+   "fr": "comment dit-on… en kannada ?",
+   "tr": "… Kannaḍadalli hēge hēḷōdu?",
+   "kn": "ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಹೇಳೋದು?",
+   "kw": "canard d'Ali, et gué, hélo",
+   "img": "Près de {lieu}, le canard d'Ali traverse le gué et te demande comment on dit."
+  },
+  {
+   "id": "k1-06",
+   "cat": "Apprendre le kannada",
+   "fr": "que veut dire… ?",
+   "tr": "… andre ēnu?",
+   "kn": "ಅಂದ್ರೆ ಏನು?",
+   "kw": "André et nous",
+   "img": "Près de {lieu}, André se gratte la tête : ça veut dire quoi ?"
+  },
+  {
+   "id": "k1-07",
+   "cat": "Apprendre le kannada",
+   "fr": "je sais",
+   "tr": "gottu",
+   "kn": "ಗೊತ್ತು",
+   "kw": "goutte",
+   "img": "Près de {lieu}, une goutte d'eau qui sait tout."
+  },
+  {
+   "id": "k1-08",
+   "cat": "Apprendre le kannada",
+   "fr": "je ne sais pas",
+   "tr": "gottilla",
+   "kn": "ಗೊತ್ತಿಲ್ಲ",
+   "kw": "goutte, il a ?",
+   "img": "Près de {lieu}, une goutte hausse les épaules : je ne sais pas."
+  },
+  {
+   "id": "k1-09",
+   "cat": "Apprendre le kannada",
+   "fr": "un peu",
+   "tr": "svalpa",
+   "kn": "ಸ್ವಲ್ಪ",
+   "kw": "salle pas",
+   "img": "Près de {lieu}, une salle presque vide, juste un peu de monde."
+  },
+  {
+   "id": "k1-10",
+   "cat": "Apprendre le kannada",
+   "fr": "beaucoup / très",
+   "tr": "tumbā",
+   "kn": "ತುಂಬಾ",
+   "kw": "tomba",
+   "img": "Près de {lieu}, une pile énorme qui tomba d'un coup : beaucoup !"
+  },
+  {
+   "id": "q1-01",
+   "cat": "Questions",
+   "fr": "qui ?",
+   "tr": "yāru?",
+   "kn": "ಯಾರು?",
+   "kw": "il a roue ?",
+   "img": "Près de {lieu}, une roue frappe à la porte : qui est là ?"
+  },
+  {
+   "id": "q1-02",
+   "cat": "Questions",
+   "fr": "quand ?",
+   "tr": "yāvāga?",
+   "kn": "ಯಾವಾಗ?",
+   "kw": "ya vague",
+   "img": "Près de {lieu}, « la vague arrive quand ? »"
+  },
+  {
+   "id": "q1-03",
+   "cat": "Questions",
+   "fr": "pourquoi ?",
+   "tr": "yāke?",
+   "kn": "ಯಾಕೆ?",
+   "kw": "ya qué",
+   "img": "Près de {lieu}, un enfant répète « pourquoi ? pourquoi ? »"
+  },
+  {
+   "id": "q1-04",
+   "cat": "Questions",
+   "fr": "comment ?",
+   "tr": "hēge?",
+   "kn": "ಹೇಗೆ?",
+   "kw": "et gué",
+   "img": "Près de {lieu}, comment traverser ce gué ?"
+  },
+  {
+   "id": "q1-05",
+   "cat": "Questions",
+   "fr": "qu'est-ce que c'est ?",
+   "tr": "idu ēnu?",
+   "kn": "ಇದು ಏನು?",
+   "kw": "idole, et nous",
+   "img": "Près de {lieu}, une drôle d'idole : qu'est-ce que c'est ?"
+  },
+  {
+   "id": "q1-06",
+   "cat": "Questions",
+   "fr": "c'est combien ?",
+   "tr": "idu eṣṭu?",
+   "kn": "ಇದು ಎಷ್ಟು?",
+   "kw": "idole, est-ce tout",
+   "img": "Près de {lieu}, l'idole porte une étiquette : combien ?"
+  },
+  {
+   "id": "q1-07",
+   "cat": "Questions",
+   "fr": "d'où venez-vous ?",
+   "tr": "nīvu yāva ūrinavaru?",
+   "kn": "ನೀವು ಯಾವ ಊರಿನವರು?",
+   "kw": "java, hourra",
+   "img": "Près de {lieu}, on crie hourra en dansant la java : d'où viens-tu ?"
+  },
+  {
+   "id": "q1-08",
+   "cat": "Se présenter",
+   "fr": "je viens de France",
+   "tr": "nānu France-ninda bandiddīni",
+   "kn": "ನಾನು ಫ್ರಾನ್ಸ್‌ನಿಂದ ಬಂದಿದ್ದೀನಿ",
+   "kw": "France, bandit",
+   "img": "Près de {lieu}, un bandit français arrive avec une baguette."
+  },
+  {
+   "id": "t1-01",
+   "cat": "Temps",
+   "fr": "maintenant",
+   "tr": "īga",
+   "kn": "ಈಗ",
+   "kw": "igloo",
+   "img": "Près de {lieu}, un igloo apparaît maintenant, tout de suite."
+  },
+  {
+   "id": "t1-02",
+   "cat": "Temps",
+   "fr": "aujourd'hui",
+   "tr": "ivattu",
+   "kn": "ಇವತ್ತು",
+   "kw": "il va, tout",
+   "img": "Près de {lieu}, aujourd'hui il va tout faire."
+  },
+  {
+   "id": "t1-03",
+   "cat": "Temps",
+   "fr": "demain",
+   "tr": "nāḷe",
+   "kn": "ನಾಳೆ",
+   "kw": "Nala",
+   "img": "Près de {lieu}, Nala le lion dort jusqu'à demain."
+  },
+  {
+   "id": "t1-04",
+   "cat": "Temps",
+   "fr": "hier",
+   "tr": "ninne",
+   "kn": "ನಿನ್ನೆ",
+   "kw": "Ninette",
+   "img": "Près de {lieu}, Ninette raconte ce qu'elle a fait hier."
+  },
+  {
+   "id": "t1-05",
+   "cat": "Temps",
+   "fr": "une minute",
+   "tr": "ondu nimiṣa",
+   "kn": "ಒಂದು ನಿಮಿಷ",
+   "kw": "onde, nid mis",
+   "img": "Près de {lieu}, une onde fait trembler un nid pendant une minute.",
+   "note": "sert aussi à dire « attends une minute »"
+  },
+  {
+   "id": "t1-06",
+   "cat": "Lieux",
+   "fr": "ici",
+   "tr": "illi",
+   "kn": "ಇಲ್ಲಿ",
+   "kw": "île y",
+   "img": "Près de {lieu}, une petite île juste ici."
+  },
+  {
+   "id": "t1-07",
+   "cat": "Lieux",
+   "fr": "là-bas",
+   "tr": "alli",
+   "kn": "ಅಲ್ಲಿ",
+   "kw": "allez-y",
+   "img": "Près de {lieu}, « allez-y, là-bas ! »"
+  },
+  {
+   "id": "t1-08",
+   "cat": "Lieux",
+   "fr": "où sont les toilettes ?",
+   "tr": "ṭāyleṭ elli ide?",
+   "kn": "ಟಾಯ್ಲೆಟ್ ಎಲ್ಲಿದೆ?",
+   "kw": "toilettes, Élie",
+   "img": "Près de {lieu}, Élie cherche les toilettes partout."
+  },
+  {
+   "id": "t1-09",
+   "cat": "Lieux",
+   "fr": "la maison",
+   "tr": "mane",
+   "kn": "ಮನೆ",
+   "kw": "manège",
+   "img": "Près de {lieu}, un manège tourne dans ta maison."
+  },
+  {
+   "id": "t1-10",
+   "cat": "Lieux",
+   "fr": "trop cher",
+   "tr": "tumbā jāsti",
+   "kn": "ತುಂಬಾ ಜಾಸ್ತಿ",
+   "kw": "tomba, jaste",
+   "img": "Près de {lieu}, le prix tomba sur toi : beaucoup trop !"
+  },
+  {
+   "id": "v1-01",
+   "cat": "Verbes",
+   "fr": "viens",
+   "tr": "bā",
+   "kn": "ಬಾ",
+   "kw": "bah",
+   "img": "Près de {lieu}, « bah, viens donc ! »"
+  },
+  {
+   "id": "v1-02",
+   "cat": "Verbes",
+   "fr": "va / aller",
+   "tr": "hōgu",
+   "kn": "ಹೋಗು",
+   "kw": "au goût",
+   "img": "Près de {lieu}, va, c'est à ton goût."
+  },
+  {
+   "id": "v1-03",
+   "cat": "Verbes",
+   "fr": "dormir",
+   "tr": "malagu",
+   "kn": "ಮಲಗು",
+   "kw": "malle à gou",
+   "img": "Près de {lieu}, tu dors dans une grande malle."
+  },
+  {
+   "id": "v1-04",
+   "cat": "Verbes",
+   "fr": "parler",
+   "tr": "mātāḍu",
+   "kn": "ಮಾತಾಡು",
+   "kw": "mât, ta doudou",
+   "img": "Près de {lieu}, ton doudou parle en haut d'un mât."
+  },
+  {
+   "id": "v1-05",
+   "cat": "Verbes",
+   "fr": "regarder / voir",
+   "tr": "nōḍu",
+   "kn": "ನೋಡು",
+   "kw": "nœud doux",
+   "img": "Près de {lieu}, tu regardes un nœud tout doux."
+  },
+  {
+   "id": "v1-06",
+   "cat": "Verbes",
+   "fr": "donner",
+   "tr": "koḍu",
+   "kn": "ಕೊಡು",
+   "kw": "code-où",
+   "img": "Près de {lieu}, on te donne un code secret."
+  },
+  {
+   "id": "v1-07",
+   "cat": "Verbes",
+   "fr": "faire",
+   "tr": "māḍu",
+   "kn": "ಮಾಡು",
+   "kw": "Mado",
+   "img": "Près de {lieu}, Mado fait tout dans la maison."
+  },
+  {
+   "id": "v1-08",
+   "cat": "Verbes",
+   "fr": "prends",
+   "tr": "tago",
+   "kn": "ತಗೋ",
+   "kw": "tag-o",
+   "img": "Près de {lieu}, prends ce tag tout frais."
+  },
+  {
+   "id": "v1-09",
+   "cat": "Sentiments",
+   "fr": "je suis fatiguée",
+   "tr": "nanage susthu āgide",
+   "kn": "ನನಗೆ ಸುಸ್ತು ಆಗಿದೆ",
+   "kw": "suce tout",
+   "img": "Près de {lieu}, une nana épuisée suce tout son jus."
+  },
+  {
+   "id": "v1-10",
+   "cat": "Sentiments",
+   "fr": "gentil / bon",
+   "tr": "oḷḷeya",
+   "kn": "ಒಳ್ಳೆಯ",
+   "kw": "olé !",
+   "img": "Près de {lieu}, une foule crie « olé » à quelqu'un de très gentil."
+  },
+  {
+   "id": "v1-11",
+   "cat": "Sentiments",
+   "fr": "beau / joli",
+   "tr": "sundara",
+   "kn": "ಸುಂದರ",
+   "kw": "sundae",
+   "img": "Près de {lieu}, un sundae magnifique."
+  },
+  {
+   "id": "n1-01",
+   "cat": "Nombres",
+   "fr": "un (1)",
+   "tr": "ondu",
+   "kn": "ಒಂದು",
+   "kw": "onde",
+   "img": "Près de {lieu}, une seule onde dans l'eau."
+  },
+  {
+   "id": "n1-02",
+   "cat": "Nombres",
+   "fr": "deux (2)",
+   "tr": "eraḍu",
+   "kn": "ಎರಡು",
+   "kw": "héros doux",
+   "img": "Près de {lieu}, deux héros tout doux."
+  },
+  {
+   "id": "n1-03",
+   "cat": "Nombres",
+   "fr": "trois (3)",
+   "tr": "mūru",
+   "kn": "ಮೂರು",
+   "kw": "mûre",
+   "img": "Près de {lieu}, trois mûres dans ta main."
+  },
+  {
+   "id": "n1-04",
+   "cat": "Nombres",
+   "fr": "quatre (4)",
+   "tr": "nālku",
+   "kn": "ನಾಲ್ಕು",
+   "kw": "Nal… cou",
+   "img": "Près de {lieu}, un girafon à quatre cous."
+  },
+  {
+   "id": "n1-05",
+   "cat": "Nombres",
+   "fr": "cinq (5)",
+   "tr": "aidu",
+   "kn": "ಐದು",
+   "kw": "aïe doux",
+   "img": "Près de {lieu}, tu te pinces les cinq doigts : aïe !"
+  },
+  {
+   "id": "n1-06",
+   "cat": "Nombres",
+   "fr": "six (6)",
+   "tr": "āru",
+   "kn": "ಆರು",
+   "kw": "aroue",
+   "img": "Près de {lieu}, une roue à six rayons."
+  },
+  {
+   "id": "n1-07",
+   "cat": "Nombres",
+   "fr": "sept (7)",
+   "tr": "ēḷu",
+   "kn": "ಏಳು",
+   "kw": "aile",
+   "img": "Près de {lieu}, sept ailes qui battent."
+  },
+  {
+   "id": "n1-08",
+   "cat": "Nombres",
+   "fr": "huit (8)",
+   "tr": "eṇṭu",
+   "kn": "ಎಂಟು",
+   "kw": "entou(rer)",
+   "img": "Près de {lieu}, on entoure le chiffre huit."
+  },
+  {
+   "id": "n1-09",
+   "cat": "Nombres",
+   "fr": "neuf (9)",
+   "tr": "ombattu",
+   "kn": "ಒಂಬತ್ತು",
+   "kw": "on bat tout",
+   "img": "Près de {lieu}, neuf joueurs qui battent tout le monde."
+  },
+  {
+   "id": "n1-10",
+   "cat": "Nombres",
+   "fr": "dix (10)",
+   "tr": "hattu",
+   "kn": "ಹತ್ತು",
+   "kw": "hâte",
+   "img": "Près de {lieu}, dix doigts qui ont hâte."
+  },
+  {
+   "id": "f2-01",
+   "cat": "Proches",
+   "fr": "le grand frère",
+   "tr": "aṇṇa",
+   "kn": "ಅಣ್ಣ",
+   "kw": "Anna",
+   "img": "Près de {lieu}, Anna se déguise en grand frère."
+  },
+  {
+   "id": "f2-02",
+   "cat": "Proches",
+   "fr": "la grande sœur",
+   "tr": "akka",
+   "kn": "ಅಕ್ಕ",
+   "kw": "acca(blée)",
+   "img": "Près de {lieu}, ta grande sœur, accablée de devoirs."
+  },
+  {
+   "id": "f2-03",
+   "cat": "Proches",
+   "fr": "le petit frère",
+   "tr": "tamma",
+   "kn": "ತಮ್ಮ",
+   "kw": "tamtam",
+   "img": "Près de {lieu}, le petit frère joue du tam-tam."
+  },
+  {
+   "id": "f2-04",
+   "cat": "Proches",
+   "fr": "la petite sœur",
+   "tr": "tangi",
+   "kn": "ತಂಗಿ",
+   "kw": "tangente",
+   "img": "Près de {lieu}, la petite sœur prend la tangente."
+  },
+  {
+   "id": "f2-05",
+   "cat": "Proches",
+   "fr": "la grand-mère",
+   "tr": "ajji",
+   "kn": "ಅಜ್ಜಿ",
+   "kw": "agi(le)",
+   "img": "Près de {lieu}, une grand-mère très agile."
+  },
+  {
+   "id": "f2-06",
+   "cat": "Proches",
+   "fr": "le grand-père",
+   "tr": "ajja",
+   "kn": "ಅಜ್ಜ",
+   "kw": "âgé",
+   "img": "Près de {lieu}, un grand-père bien âgé."
+  },
+  {
+   "id": "f2-07",
+   "cat": "Proches",
+   "fr": "le mari",
+   "tr": "ganda",
+   "kn": "ಗಂಡ",
+   "kw": "gant d'a(mour)",
+   "img": "Près de {lieu}, un mari qui t'offre un gant."
+  },
+  {
+   "id": "f2-08",
+   "cat": "Proches",
+   "fr": "l'épouse",
+   "tr": "hendati",
+   "kn": "ಹೆಂಡತಿ",
+   "kw": "hennée, tatie",
+   "img": "Près de {lieu}, une tatie aux mains au henné, jeune mariée."
+  },
+  {
+   "id": "f2-09",
+   "cat": "Animaux",
+   "fr": "le chat",
+   "tr": "bekku",
+   "kn": "ಬೆಕ್ಕು",
+   "kw": "bécot",
+   "img": "Près de {lieu}, Micky te fait un bécot : c'est une chatte câline."
+  },
+  {
+   "id": "f2-10",
+   "cat": "Animaux",
+   "fr": "le chien",
+   "tr": "nāyi",
+   "kn": "ನಾಯಿ",
+   "kw": "naïf",
+   "img": "Près de {lieu}, un chien naïf qui court après sa queue."
+  },
+  {
+   "id": "f2-11",
+   "cat": "Bases",
+   "fr": "ceci / ça",
+   "tr": "idu",
+   "kn": "ಇದು",
+   "kw": "idole",
+   "img": "Près de {lieu}, tu pointes une idole : ceci."
+  },
+  {
+   "id": "f2-12",
+   "cat": "Bases",
+   "fr": "cela / ça là-bas",
+   "tr": "adu",
+   "kn": "ಅದು",
+   "kw": "adieu",
+   "img": "Près de {lieu}, tu dis adieu à cette chose là-bas."
   }
  ]
 }
