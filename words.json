@@ -1,67 +1,557 @@
 {
-  "version": 1,
-  "updated": "2026-10-12",
-  "words": [
-    {"id": "b1-01", "cat": "Bases", "fr": "je veux / il faut", "tr": "bēku", "kn": "ಬೇಕು", "ex": {"tr": "Nīru bēku.", "fr": "Je veux de l'eau."}},
-    {"id": "b1-02", "cat": "Bases", "fr": "je ne veux pas / pas besoin", "tr": "bēḍa", "kn": "ಬೇಡ", "ex": {"tr": "Ūṭa bēḍa.", "fr": "Je ne veux pas manger."}},
-    {"id": "b1-03", "cat": "Politesse", "fr": "bravo", "tr": "shabhāsh", "kn": "ಶಭಾಷ್"},
-    {"id": "b1-04", "cat": "Politesse", "fr": "au revoir", "tr": "bartīni", "kn": "ಬರ್ತೀನಿ", "note": "littéralement « je reviens »"},
-    {"id": "b1-05", "cat": "Politesse", "fr": "merci", "tr": "dhanyavāda", "kn": "ಧನ್ಯವಾದ"},
-    {"id": "b1-06", "cat": "Politesse", "fr": "merci beaucoup", "tr": "dhanyavādagaḷu", "kn": "ಧನ್ಯವಾದಗಳು"},
-    {"id": "b1-07", "cat": "Politesse", "fr": "bienvenue / entrez", "tr": "banni", "kn": "ಬನ್ನಿ", "note": "littéralement « venez »"},
-    {"id": "b1-08", "cat": "Politesse", "fr": "bienvenue (formel)", "tr": "susvāgata", "kn": "ಸುಸ್ವಾಗತ"},
-    {"id": "b1-09", "cat": "Phrases utiles", "fr": "pouvez-vous m'aider ?", "tr": "nanage sahāya māḍuttīrā?", "kn": "ನನಗೆ ಸಹಾಯ ಮಾಡುತ್ತೀರಾ?"},
-    {"id": "b1-10", "cat": "Salutations", "fr": "bonjour (le matin)", "tr": "shubhōdaya", "kn": "ಶುಭೋದಯ"},
-    {"id": "b1-11", "cat": "Salutations", "fr": "bonne nuit", "tr": "shubha rātri", "kn": "ಶುಭ ರಾತ್ರಿ"},
-    {"id": "b1-12", "cat": "Salutations", "fr": "comment allez-vous ?", "tr": "nīvu hēgiddīra?", "kn": "ನೀವು ಹೇಗಿದ್ದೀರಾ?"},
-    {"id": "b1-13", "cat": "Salutations", "fr": "je vais bien", "tr": "nānu chennāgiddīni", "kn": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೀನಿ"},
-    {"id": "b1-14", "cat": "Bases", "fr": "c'est bien / c'est bon", "tr": "chennāgide", "kn": "ಚೆನ್ನಾಗಿದೆ"},
-
-    {"id": "b2-01", "cat": "Phrases utiles", "fr": "je ne comprends pas", "tr": "nanage arthavāguttilla", "kn": "ನನಗೆ ಅರ್ಥವಾಗುತ್ತಿಲ್ಲ"},
-    {"id": "b2-02", "cat": "Bases", "fr": "oui", "tr": "haudu", "kn": "ಹೌದು"},
-    {"id": "b2-03", "cat": "Bases", "fr": "non (il n'y a pas)", "tr": "illa", "kn": "ಇಲ್ಲ"},
-    {"id": "b2-04", "cat": "Bases", "fr": "ce n'est pas (ça)", "tr": "alla", "kn": "ಅಲ್ಲ"},
-    {"id": "b2-05", "cat": "Bases", "fr": "d'accord", "tr": "sari", "kn": "ಸರಿ"},
-    {"id": "b2-06", "cat": "Phrases utiles", "fr": "tu parles anglais ?", "tr": "English gottā?", "kn": "ಇಂಗ್ಲಿಷ್ ಗೊತ್ತಾ?", "note": "littéralement « tu connais l'anglais ? »"},
-    {"id": "b2-07", "cat": "Politesse", "fr": "pardon / désolée", "tr": "kṣamisi", "kn": "ಕ್ಷಮಿಸಿ"},
-    {"id": "b2-08", "cat": "Politesse", "fr": "s'il vous plaît", "tr": "dayaviṭṭu", "kn": "ದಯವಿಟ್ಟು"},
-    {"id": "b2-09", "cat": "Phrases utiles", "fr": "je ne connais pas le kannada", "tr": "Kannaḍa gottilla", "kn": "ಕನ್ನಡ ಗೊತ್ತಿಲ್ಲ"},
-    {"id": "b2-10", "cat": "Questions", "fr": "quoi ?", "tr": "ēnu?", "kn": "ಏನು?"},
-    {"id": "b2-11", "cat": "Questions", "fr": "combien ?", "tr": "eṣṭu?", "kn": "ಎಷ್ಟು?"},
-    {"id": "b2-12", "cat": "Phrases utiles", "fr": "allons-y", "tr": "hōgōṇa", "kn": "ಹೋಗೋಣ"},
-    {"id": "b2-13", "cat": "Bases", "fr": "pas de problème / ce n'est pas grave", "tr": "paravāgilla", "kn": "ಪರವಾಗಿಲ್ಲ"},
-    {"id": "b2-14", "cat": "Phrases utiles", "fr": "tu me manques", "tr": "ninna nenapāguttide", "kn": "ನಿನ್ನ ನೆನಪಾಗುತ್ತಿದೆ"},
-
-    {"id": "p1-01", "cat": "Se présenter", "fr": "comment vous appelez-vous ?", "tr": "nimma hesaru ēnu?", "kn": "ನಿಮ್ಮ ಹೆಸರು ಏನು?"},
-    {"id": "p1-02", "cat": "Se présenter", "fr": "je m'appelle…", "tr": "nanna hesaru…", "kn": "ನನ್ನ ಹೆಸರು…"},
-    {"id": "p1-03", "cat": "Se présenter", "fr": "je suis un garçon", "tr": "nānu huḍuga", "kn": "ನಾನು ಹುಡುಗ"},
-    {"id": "p1-04", "cat": "Se présenter", "fr": "je suis une fille", "tr": "nānu huḍugi", "kn": "ನಾನು ಹುಡುಗಿ"},
-    {"id": "p1-05", "cat": "Se présenter", "fr": "je suis une personne", "tr": "nānu manuṣya", "kn": "ನಾನು ಮನುಷ್ಯ"},
-    {"id": "p1-06", "cat": "Se présenter", "fr": "je suis étudiante", "tr": "nānu vidyārthini", "kn": "ನಾನು ವಿದ್ಯಾರ್ಥಿನಿ", "note": "au masculin : vidyārthi"},
-    {"id": "p1-07", "cat": "Se présenter", "fr": "je suis enseignante", "tr": "nānu shikṣaki", "kn": "ನಾನು ಶಿಕ್ಷಕಿ", "note": "au masculin : shikṣaka"},
-    {"id": "p1-08", "cat": "Se présenter", "fr": "je suis ingénieur·e", "tr": "nānu abhiyantara", "kn": "ನಾನು ಅಭಿಯಂತರ", "note": "à l'oral on dit souvent simplement « engineer »"},
-    {"id": "p1-09", "cat": "Se présenter", "fr": "je suis médecin", "tr": "nānu vaidya", "kn": "ನಾನು ವೈದ್ಯ"},
-    {"id": "p1-10", "cat": "Se présenter", "fr": "je suis scientifique", "tr": "nānu vijñāni", "kn": "ನಾನು ವಿಜ್ಞಾನಿ"},
-    {"id": "p1-11", "cat": "Se présenter", "fr": "mon âge est…", "tr": "nanna vayassu…", "kn": "ನನ್ನ ವಯಸ್ಸು…"},
-
-    {"id": "g1-01", "cat": "Pronoms", "fr": "je", "tr": "nānu", "kn": "ನಾನು"},
-    {"id": "g1-02", "cat": "Pronoms", "fr": "mon / ma", "tr": "nanna", "kn": "ನನ್ನ"},
-    {"id": "g1-03", "cat": "Pronoms", "fr": "vous (formel ou pluriel)", "tr": "nīvu", "kn": "ನೀವು"},
-    {"id": "g1-04", "cat": "Pronoms", "fr": "tu", "tr": "nīnu", "kn": "ನೀನು"},
-    {"id": "g1-05", "cat": "Pronoms", "fr": "nous", "tr": "nāvu", "kn": "ನಾವು"},
-    {"id": "g1-06", "cat": "Pronoms", "fr": "il / elle (respectueux) / ils", "tr": "avaru", "kn": "ಅವರು"},
-    {"id": "g1-07", "cat": "Pronoms", "fr": "elle (familier)", "tr": "avaḷu", "kn": "ಅವಳು"},
-    {"id": "g1-08", "cat": "Pronoms", "fr": "il (familier)", "tr": "avanu", "kn": "ಅವನು"},
-    {"id": "g1-09", "cat": "Noms", "fr": "l'eau", "tr": "nīru", "kn": "ನೀರು", "ex": {"tr": "Nīru bēku.", "fr": "Je veux de l'eau."}},
-    {"id": "g1-10", "cat": "Noms", "fr": "le repas / la nourriture", "tr": "ūṭa", "kn": "ಊಟ", "ex": {"tr": "Ūṭa bēḍa.", "fr": "Je ne veux pas manger."}},
-    {"id": "g1-11", "cat": "Noms", "fr": "le nom", "tr": "hesaru", "kn": "ಹೆಸರು"},
-    {"id": "g1-12", "cat": "Noms", "fr": "la ville / le lieu d'origine", "tr": "ūru", "kn": "ಊರು"},
-    {"id": "g1-13", "cat": "Questions", "fr": "où ?", "tr": "elli?", "kn": "ಎಲ್ಲಿ?"},
-    {"id": "g1-14", "cat": "Bases", "fr": "un (pour une personne, masculin)", "tr": "obba", "kn": "ಒಬ್ಬ"},
-
-    {"id": "f1-01", "cat": "Proches", "fr": "maman", "tr": "amma", "kn": "ಅಮ್ಮ", "ex": {"tr": "Avaru nanna amma.", "fr": "C'est ma mère."}},
-    {"id": "f1-02", "cat": "Proches", "fr": "papa", "tr": "appa", "kn": "ಅಪ್ಪ", "ex": {"tr": "Avaru nanna appa.", "fr": "C'est mon père."}},
-    {"id": "f1-03", "cat": "Proches", "fr": "un ami", "tr": "snēhita", "kn": "ಸ್ನೇಹಿತ", "ex": {"tr": "Avanu nanna snēhita.", "fr": "C'est mon ami."}},
-    {"id": "f1-04", "cat": "Proches", "fr": "une amie", "tr": "snēhite", "kn": "ಸ್ನೇಹಿತೆ", "ex": {"tr": "Avaḷu nanna snēhite.", "fr": "C'est mon amie."}}
-  ]
+ "version": 2,
+ "updated": "2026-10-12",
+ "words": [
+  {
+   "id": "b1-01",
+   "cat": "Bases",
+   "fr": "je veux / il faut",
+   "tr": "bēku",
+   "kn": "ಬೇಕು",
+   "ex": {
+    "tr": "Nīru bēku.",
+    "fr": "Je veux de l'eau."
+   },
+   "kw": "bec-cou",
+   "img": "Près de {lieu}, un oiseau donne un coup de bec dans le cou de Micky : il VEUT ses croquettes."
+  },
+  {
+   "id": "b1-02",
+   "cat": "Bases",
+   "fr": "je ne veux pas / pas besoin",
+   "tr": "bēḍa",
+   "kn": "ಬೇಡ",
+   "ex": {
+    "tr": "Ūṭa bēḍa.",
+    "fr": "Je ne veux pas manger."
+   },
+   "kw": "BD",
+   "img": "Près de {lieu}, une pile de BD qu'on te tend, et tu la repousses : je n'en veux pas !"
+  },
+  {
+   "id": "b1-03",
+   "cat": "Politesse",
+   "fr": "bravo",
+   "tr": "shabhāsh",
+   "kn": "ಶಭಾಷ್",
+   "kw": "chat-bâche",
+   "img": "Près de {lieu}, Micky surgit de sous une bâche comme un magicien : bravo !"
+  },
+  {
+   "id": "b1-04",
+   "cat": "Politesse",
+   "fr": "au revoir",
+   "tr": "bartīni",
+   "kn": "ಬರ್ತೀನಿ",
+   "note": "littéralement « je reviens »",
+   "kw": "bar tiny",
+   "img": "Près de {lieu}, un bar minuscule dont le serveur te salue : « au revoir, je reviens ! »"
+  },
+  {
+   "id": "b1-05",
+   "cat": "Politesse",
+   "fr": "merci",
+   "tr": "dhanyavāda",
+   "kn": "ಧನ್ಯವಾದ",
+   "kw": "Danny va dada",
+   "img": "Près de {lieu}, Danny arrive sur un cheval à bascule (un dada) et te dit merci."
+  },
+  {
+   "id": "b1-06",
+   "cat": "Politesse",
+   "fr": "merci beaucoup",
+   "tr": "dhanyavādagaḷu",
+   "kn": "ಧನ್ಯವಾದಗಳು",
+   "kw": "Danny va dada… galop",
+   "img": "Près de {lieu}, Danny repart au grand galop sur son dada en criant merci beaucoup."
+  },
+  {
+   "id": "b1-07",
+   "cat": "Politesse",
+   "fr": "bienvenue / entrez",
+   "tr": "banni",
+   "kn": "ಬನ್ನಿ",
+   "note": "littéralement « venez »",
+   "kw": "banni",
+   "img": "Près de {lieu}, un banni frappe timidement et tu lui ouvres : « entrez, bienvenue ! »"
+  },
+  {
+   "id": "b1-08",
+   "cat": "Politesse",
+   "fr": "bienvenue (formel)",
+   "tr": "susvāgata",
+   "kn": "ಸುಸ್ವಾಗತ",
+   "kw": "sous la vague, gâteau",
+   "img": "Près de {lieu}, un gâteau géant surfe sur une vague : bienvenue officielle !"
+  },
+  {
+   "id": "b1-09",
+   "cat": "Phrases utiles",
+   "fr": "pouvez-vous m'aider ?",
+   "tr": "nanage sahāya māḍuttīrā?",
+   "kn": "ನನಗೆ ಸಹಾಯ ಮಾಡುತ್ತೀರಾ?",
+   "kw": "nana âgée, Sahara, ma doudou tirée",
+   "img": "Près de {lieu}, une nana âgée revenue du Sahara tire sur ton doudou : « vous pouvez m'aider ? »"
+  },
+  {
+   "id": "b1-10",
+   "cat": "Salutations",
+   "fr": "bonjour (le matin)",
+   "tr": "shubhōdaya",
+   "kn": "ಶುಭೋದಯ",
+   "kw": "chou beau d'aïe",
+   "img": "Près de {lieu}, un très beau chou s'étire au soleil levant et te dit bonjour."
+  },
+  {
+   "id": "b1-11",
+   "cat": "Salutations",
+   "fr": "bonne nuit",
+   "tr": "shubha rātri",
+   "kn": "ಶುಭ ರಾತ್ರಿ",
+   "kw": "chou bas, rat trie",
+   "img": "Près de {lieu}, un chou en pyjama borde un rat : bonne nuit."
+  },
+  {
+   "id": "b1-12",
+   "cat": "Salutations",
+   "fr": "comment allez-vous ?",
+   "tr": "nīvu hēgiddīra?",
+   "kn": "ನೀವು ಹೇಗಿದ್ದೀರಾ?",
+   "kw": "nid-vous, et guide-y-rat",
+   "img": "Près de {lieu}, un rat guide sort d'un nid et te demande comment tu vas."
+  },
+  {
+   "id": "b1-13",
+   "cat": "Salutations",
+   "fr": "je vais bien",
+   "tr": "nānu chennāgiddīni",
+   "kn": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೀನಿ",
+   "kw": "Nanou, chêne, à guide, dîner",
+   "img": "Près de {lieu}, Nanou dîne sous un chêne et répète qu'elle va très bien."
+  },
+  {
+   "id": "b1-14",
+   "cat": "Bases",
+   "fr": "c'est bien / c'est bon",
+   "tr": "chennāgide",
+   "kn": "ಚೆನ್ನಾಗಿದೆ",
+   "kw": "chêne à guide",
+   "img": "Près de {lieu}, un chêne te montre le chemin : c'est bien, c'est bon !"
+  },
+  {
+   "id": "b2-01",
+   "cat": "Phrases utiles",
+   "fr": "je ne comprends pas",
+   "tr": "nanage arthavāguttilla",
+   "kn": "ನನಗೆ ಅರ್ಥವಾಗುತ್ತಿಲ್ಲ",
+   "kw": "nana âgée, art à vague, tilla",
+   "img": "Près de {lieu}, une nana âgée fixe un tableau de vagues et ne comprend rien."
+  },
+  {
+   "id": "b2-02",
+   "cat": "Bases",
+   "fr": "oui",
+   "tr": "haudu",
+   "kn": "ಹೌದು",
+   "kw": "ah, doux",
+   "img": "Près de {lieu}, Micky ronronne « ah, doux ! » quand tu le caresses : oui, encore !"
+  },
+  {
+   "id": "b2-03",
+   "cat": "Bases",
+   "fr": "non (il n'y a pas)",
+   "tr": "illa",
+   "kn": "ಇಲ್ಲ",
+   "kw": "il a ?",
+   "img": "Près de {lieu}, « il a quelque chose ? » — non, il n'y a rien, c'est vide."
+  },
+  {
+   "id": "b2-04",
+   "cat": "Bases",
+   "fr": "ce n'est pas (ça)",
+   "tr": "alla",
+   "kn": "ಅಲ್ಲ",
+   "kw": "à la",
+   "img": "Près de {lieu}, on te sert un plat « à la crème » : non, ce n'est pas ça !"
+  },
+  {
+   "id": "b2-05",
+   "cat": "Bases",
+   "fr": "d'accord",
+   "tr": "sari",
+   "kn": "ಸರಿ",
+   "kw": "sari",
+   "img": "Près de {lieu}, tu essaies un sari magnifique : d'accord, je le prends !"
+  },
+  {
+   "id": "b2-06",
+   "cat": "Phrases utiles",
+   "fr": "tu parles anglais ?",
+   "tr": "English gottā?",
+   "kn": "ಇಂಗ್ಲಿಷ್ ಗೊತ್ತಾ?",
+   "note": "littéralement « tu connais l'anglais ? »",
+   "kw": "gotha",
+   "img": "Près de {lieu}, le gotha britannique boit le thé : « tu parles anglais ? »"
+  },
+  {
+   "id": "b2-07",
+   "cat": "Politesse",
+   "fr": "pardon / désolée",
+   "tr": "kṣamisi",
+   "kn": "ಕ್ಷಮಿಸಿ",
+   "kw": "que sa mie scie",
+   "img": "Près de {lieu}, tu scies par erreur la mie du pain de quelqu'un : pardon !"
+  },
+  {
+   "id": "b2-08",
+   "cat": "Politesse",
+   "fr": "s'il vous plaît",
+   "tr": "dayaviṭṭu",
+   "kn": "ದಯವಿಟ್ಟು",
+   "kw": "dés à vie, tout",
+   "img": "Près de {lieu}, tu supplies à genoux pour garder les dés à vie : s'il vous plaît !"
+  },
+  {
+   "id": "b2-09",
+   "cat": "Phrases utiles",
+   "fr": "je ne connais pas le kannada",
+   "tr": "Kannaḍa gottilla",
+   "kn": "ಕನ್ನಡ ಗೊತ್ತಿಲ್ಲ",
+   "kw": "canard goth",
+   "img": "Près de {lieu}, un canard gothique avoue qu'il ne connaît pas le kannada."
+  },
+  {
+   "id": "b2-10",
+   "cat": "Questions",
+   "fr": "quoi ?",
+   "tr": "ēnu?",
+   "kn": "ಏನು?",
+   "kw": "et nous ?",
+   "img": "Près de {lieu}, Micky te fixe : « quoi ? et nous alors ? »"
+  },
+  {
+   "id": "b2-11",
+   "cat": "Questions",
+   "fr": "combien ?",
+   "tr": "eṣṭu?",
+   "kn": "ಎಷ್ಟು?",
+   "kw": "est-ce tout ?",
+   "img": "Près de {lieu}, un marchand : « combien ? est-ce tout ? »"
+  },
+  {
+   "id": "b2-12",
+   "cat": "Phrases utiles",
+   "fr": "allons-y",
+   "tr": "hōgōṇa",
+   "kn": "ಹೋಗೋಣ",
+   "kw": "au gong",
+   "img": "Près de {lieu}, on frappe un énorme gong : allons-y !"
+  },
+  {
+   "id": "b2-13",
+   "cat": "Bases",
+   "fr": "pas de problème / ce n'est pas grave",
+   "tr": "paravāgilla",
+   "kn": "ಪರವಾಗಿಲ್ಲ",
+   "kw": "parapluie, vague, il a",
+   "img": "Près de {lieu}, une vague déferle mais tu as ton parapluie : pas de problème."
+  },
+  {
+   "id": "b2-14",
+   "cat": "Phrases utiles",
+   "fr": "tu me manques",
+   "tr": "ninna nenapāguttide",
+   "kn": "ನಿನ್ನ ನೆನಪಾಗುತ್ತಿದೆ",
+   "kw": "Nina, nappe, goutte",
+   "img": "Près de {lieu}, Nina pleure goutte à goutte sur une nappe : tu me manques."
+  },
+  {
+   "id": "p1-01",
+   "cat": "Se présenter",
+   "fr": "comment vous appelez-vous ?",
+   "tr": "nimma hesaru ēnu?",
+   "kn": "ನಿಮ್ಮ ಹೆಸರು ಏನು?",
+   "kw": "nid-ma, et ça roue, et nous",
+   "img": "Près de {lieu}, un nid posé sur une roue te demande comment tu t'appelles."
+  },
+  {
+   "id": "p1-02",
+   "cat": "Se présenter",
+   "fr": "je m'appelle…",
+   "tr": "nanna hesaru…",
+   "kn": "ನನ್ನ ಹೆಸರು…",
+   "kw": "nana, et ça roue",
+   "img": "Près de {lieu}, une nana sur une roue qui tourne se présente : je m'appelle…"
+  },
+  {
+   "id": "p1-03",
+   "cat": "Se présenter",
+   "fr": "je suis un garçon",
+   "tr": "nānu huḍuga",
+   "kn": "ನಾನು ಹುಡುಗ",
+   "kw": "houdou-gars",
+   "img": "Près de {lieu}, un petit gars danse le vaudou : c'est un garçon."
+  },
+  {
+   "id": "p1-04",
+   "cat": "Se présenter",
+   "fr": "je suis une fille",
+   "tr": "nānu huḍugi",
+   "kn": "ನಾನು ಹುಡುಗಿ",
+   "kw": "houdou-gui",
+   "img": "Près de {lieu}, une fille accroche du gui en dansant : c'est une fille."
+  },
+  {
+   "id": "p1-05",
+   "cat": "Se présenter",
+   "fr": "je suis une personne",
+   "tr": "nānu manuṣya",
+   "kn": "ನಾನು ಮನುಷ್ಯ",
+   "kw": "manucure",
+   "img": "Près de {lieu}, une personne se fait une manucure : ma-nou-chia."
+  },
+  {
+   "id": "p1-06",
+   "cat": "Se présenter",
+   "fr": "je suis étudiante",
+   "tr": "nānu vidyārthini",
+   "kn": "ನಾನು ವಿದ್ಯಾರ್ಥಿನಿ",
+   "note": "au masculin : vidyārthi",
+   "kw": "vide ya art, Tini",
+   "img": "Près de {lieu}, une étudiante vide son sac d'art plein de cahiers."
+  },
+  {
+   "id": "p1-07",
+   "cat": "Se présenter",
+   "fr": "je suis enseignante",
+   "tr": "nānu shikṣaki",
+   "kn": "ನಾನು ಶಿಕ್ಷಕಿ",
+   "note": "au masculin : shikṣaka",
+   "kw": "chic sac",
+   "img": "Près de {lieu}, une enseignante très chic avec un sac rempli de craies."
+  },
+  {
+   "id": "p1-08",
+   "cat": "Se présenter",
+   "fr": "je suis ingénieur·e",
+   "tr": "nānu abhiyantara",
+   "kn": "ನಾನು ಅಭಿಯಂತರ",
+   "note": "à l'oral on dit souvent simplement « engineer »",
+   "kw": "habit, hyène, tara",
+   "img": "Près de {lieu}, une hyène en habit d'ingénieur dessine des plans."
+  },
+  {
+   "id": "p1-09",
+   "cat": "Se présenter",
+   "fr": "je suis médecin",
+   "tr": "nānu vaidya",
+   "kn": "ನಾನು ವೈದ್ಯ",
+   "kw": "vaille… dia(gnostic)",
+   "img": "Près de {lieu}, un médecin fait son diagnostic, vaille que vaille."
+  },
+  {
+   "id": "p1-10",
+   "cat": "Se présenter",
+   "fr": "je suis scientifique",
+   "tr": "nānu vijñāni",
+   "kn": "ನಾನು ವಿಜ್ಞಾನಿ",
+   "kw": "vigne à nid",
+   "img": "Près de {lieu}, une scientifique étudie un nid caché dans une vigne."
+  },
+  {
+   "id": "p1-11",
+   "cat": "Se présenter",
+   "fr": "mon âge est…",
+   "tr": "nanna vayassu…",
+   "kn": "ನನ್ನ ವಯಸ್ಸು…",
+   "kw": "nana va ya sous",
+   "img": "Près de {lieu}, une nana compte ses sous, autant que son âge."
+  },
+  {
+   "id": "g1-01",
+   "cat": "Pronoms",
+   "fr": "je",
+   "tr": "nānu",
+   "kn": "ನಾನು",
+   "kw": "Nanou",
+   "img": "Près de {lieu}, Nanou se pointe du doigt : moi, je !"
+  },
+  {
+   "id": "g1-02",
+   "cat": "Pronoms",
+   "fr": "mon / ma",
+   "tr": "nanna",
+   "kn": "ನನ್ನ",
+   "kw": "ma nana",
+   "img": "Près de {lieu}, quelqu'un serre sa nana dans ses bras : mon trésor, ma nana."
+  },
+  {
+   "id": "g1-03",
+   "cat": "Pronoms",
+   "fr": "vous (formel ou pluriel)",
+   "tr": "nīvu",
+   "kn": "ನೀವು",
+   "kw": "nid-vous",
+   "img": "Près de {lieu}, un nid plein d'oiseaux bien élevés : vous tous."
+  },
+  {
+   "id": "g1-04",
+   "cat": "Pronoms",
+   "fr": "tu",
+   "tr": "nīnu",
+   "kn": "ನೀನು",
+   "kw": "nid nu",
+   "img": "Près de {lieu}, un tout petit nid tout nu : toi, tu."
+  },
+  {
+   "id": "g1-05",
+   "cat": "Pronoms",
+   "fr": "nous",
+   "tr": "nāvu",
+   "kn": "ನಾವು",
+   "kw": "n'avouons",
+   "img": "Près de {lieu}, nous sommes tous ensemble et nous n'avouons rien."
+  },
+  {
+   "id": "g1-06",
+   "cat": "Pronoms",
+   "fr": "il / elle (respectueux) / ils",
+   "tr": "avaru",
+   "kn": "ಅವರು",
+   "kw": "avare-ou",
+   "img": "Près de {lieu}, un vieil avare très respectable : lui, elle, eux."
+  },
+  {
+   "id": "g1-07",
+   "cat": "Pronoms",
+   "fr": "elle (familier)",
+   "tr": "avaḷu",
+   "kn": "ಅವಳು",
+   "kw": "avale-ou",
+   "img": "Près de {lieu}, ELLE avale tout le gâteau."
+  },
+  {
+   "id": "g1-08",
+   "cat": "Pronoms",
+   "fr": "il (familier)",
+   "tr": "avanu",
+   "kn": "ಅವನು",
+   "kw": "avant nous",
+   "img": "Près de {lieu}, LUI passe avant nous dans la file."
+  },
+  {
+   "id": "g1-09",
+   "cat": "Noms",
+   "fr": "l'eau",
+   "tr": "nīru",
+   "kn": "ನೀರು",
+   "ex": {
+    "tr": "Nīru bēku.",
+    "fr": "Je veux de l'eau."
+   },
+   "kw": "Néron",
+   "img": "Près de {lieu}, Néron vide un énorme seau d'eau, Micky s'enfuit."
+  },
+  {
+   "id": "g1-10",
+   "cat": "Noms",
+   "fr": "le repas / la nourriture",
+   "tr": "ūṭa",
+   "kn": "ಊಟ",
+   "ex": {
+    "tr": "Ūṭa bēḍa.",
+    "fr": "Je ne veux pas manger."
+   },
+   "kw": "hutte",
+   "img": "Près de {lieu}, un repas fumant servi dans une petite hutte."
+  },
+  {
+   "id": "g1-11",
+   "cat": "Noms",
+   "fr": "le nom",
+   "tr": "hesaru",
+   "kn": "ಹೆಸರು",
+   "kw": "et ça roue",
+   "img": "Près de {lieu}, ton nom est écrit sur une roue qui tourne."
+  },
+  {
+   "id": "g1-12",
+   "cat": "Noms",
+   "fr": "la ville / le lieu d'origine",
+   "tr": "ūru",
+   "kn": "ಊರು",
+   "kw": "hourra",
+   "img": "Près de {lieu}, toute la ville crie « hourra » à ton arrivée."
+  },
+  {
+   "id": "g1-13",
+   "cat": "Questions",
+   "fr": "où ?",
+   "tr": "elli?",
+   "kn": "ಎಲ್ಲಿ?",
+   "kw": "Élie",
+   "img": "Près de {lieu}, Élie cherche partout : où ? où ?"
+  },
+  {
+   "id": "g1-14",
+   "cat": "Bases",
+   "fr": "un (pour une personne, masculin)",
+   "tr": "obba",
+   "kn": "ಒಬ್ಬ",
+   "kw": "hop-ba",
+   "img": "Près de {lieu}, un seul acrobate fait « hop ! »"
+  },
+  {
+   "id": "f1-01",
+   "cat": "Proches",
+   "fr": "maman",
+   "tr": "amma",
+   "kn": "ಅಮ್ಮ",
+   "ex": {
+    "tr": "Avaru nanna amma.",
+    "fr": "C'est ma mère."
+   },
+   "kw": "à ma (maman)",
+   "img": "Près de {lieu}, un cœur écrit « à ma maman »."
+  },
+  {
+   "id": "f1-02",
+   "cat": "Proches",
+   "fr": "papa",
+   "tr": "appa",
+   "kn": "ಅಪ್ಪ",
+   "ex": {
+    "tr": "Avaru nanna appa.",
+    "fr": "C'est mon père."
+   },
+   "kw": "à pas",
+   "img": "Près de {lieu}, papa avance à petits pas."
+  },
+  {
+   "id": "f1-03",
+   "cat": "Proches",
+   "fr": "un ami",
+   "tr": "snēhita",
+   "kn": "ಸ್ನೇಹಿತ",
+   "ex": {
+    "tr": "Avanu nanna snēhita.",
+    "fr": "C'est mon ami."
+   },
+   "kw": "snééé… hita",
+   "img": "Près de {lieu}, ton ami éternue « snééé… hita ! »"
+  },
+  {
+   "id": "f1-04",
+   "cat": "Proches",
+   "fr": "une amie",
+   "tr": "snēhite",
+   "kn": "ಸ್ನೇಹಿತೆ",
+   "ex": {
+    "tr": "Avaḷu nanna snēhite.",
+    "fr": "C'est mon amie."
+   },
+   "kw": "snééé… hite",
+   "img": "Près de {lieu}, ton amie éternue « snééé… hite ! »"
+  }
+ ]
 }
