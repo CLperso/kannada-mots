@@ -1,3759 +1,5986 @@
 {
- "version": 5,
- "updated": "2026-10-12",
+ "version": 6,
+ "updated": "2026-10-13",
  "words": [
   {
-   "id": "n1u01-01",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "bonjour (à toute heure)",
+   "id": "wfd906162cb",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "bonjour",
    "tr": "namaskāra",
    "kn": "ನಮಸ್ಕಾರ",
-   "note": "mains jointes ; le salut respectueux pour les aînés"
+   "note": "mains jointes ; le salut respectueux, à toute heure",
+   "aka": [
+    "n1u01-01"
+   ]
   },
   {
-   "id": "n1u01-02",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "comment allez-vous ?",
-   "tr": "hēgiddīra?",
-   "kn": "ಹೇಗಿದ್ದೀರ?"
+   "id": "w4de45b265b",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "oui",
+   "tr": "haudu",
+   "kn": "ಹೌದು",
+   "aka": [
+    "n1u05-01"
+   ]
   },
   {
-   "id": "n1u01-03",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "je vais bien",
-   "tr": "chennāgiddīni",
-   "kn": "ಚೆನ್ನಾಗಿದ್ದೀನಿ"
+   "id": "w6fdf75146f",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "non / il n'y en a pas",
+   "tr": "illa",
+   "kn": "ಇಲ್ಲ",
+   "aka": [
+    "n1u05-02"
+   ]
   },
   {
-   "id": "n1u01-04",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "et vous ?",
-   "tr": "nīvu?",
-   "kn": "ನೀವು?"
+   "id": "wf110d46b35",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "d'accord",
+   "tr": "sari",
+   "kn": "ಸರಿ",
+   "aka": [
+    "n1u05-05"
+   ]
   },
   {
-   "id": "n1u01-05",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "je m'appelle…",
-   "tr": "nanna hesaru…",
-   "kn": "ನನ್ನ ಹೆಸರು…"
-  },
-  {
-   "id": "n1u01-06",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "comment vous appelez-vous ?",
-   "tr": "nimma hesaru ēnu?",
-   "kn": "ನಿಮ್ಮ ಹೆಸರು ಏನು?"
-  },
-  {
-   "id": "n1u01-07",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "ravie de vous rencontrer",
-   "tr": "nimmannu nōḍi tumbā khushi āytu",
-   "kn": "ನಿಮ್ಮನ್ನು ನೋಡಿ ತುಂಬಾ ಖುಷಿ ಆಯ್ತು",
-   "note": "littéralement « vous voir m'a rendue très heureuse »"
-  },
-  {
-   "id": "n1u01-08",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "entrez / venez",
-   "tr": "banni",
-   "kn": "ಬನ್ನಿ"
-  },
-  {
-   "id": "n1u01-09",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "asseyez-vous",
-   "tr": "kūtkoḷḷi",
-   "kn": "ಕೂತ್ಕೊಳ್ಳಿ"
-  },
-  {
-   "id": "n1u01-10",
-   "cat": "Niveau 1 · 1. Saluer",
+   "id": "wb829a29e64",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
    "fr": "merci",
    "tr": "dhanyavāda",
    "kn": "ಧನ್ಯವಾದ",
-   "note": "entre proches on dit peu merci : un sourire suffit souvent"
+   "aka": [
+    "n1u01-10"
+   ]
   },
   {
-   "id": "n1u01-11",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "au revoir (« je vais et je reviens »)",
-   "tr": "hōgbartīni",
-   "kn": "ಹೋಗ್ಬರ್ತೀನಿ",
-   "note": "l'au revoir habituel : on ne dit jamais « je pars »"
+   "id": "w880c4c9a3e",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "je veux / il faut",
+   "tr": "bēku",
+   "kn": "ಬೇಕು"
   },
   {
-   "id": "n1u01-12",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "au revoir (réponse : « allez et revenez »)",
-   "tr": "hōgbanni",
-   "kn": "ಹೋಗ್ಬನ್ನಿ"
+   "id": "wfc78abe387",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "je ne veux pas",
+   "tr": "bēḍa",
+   "kn": "ಬೇಡ",
+   "aka": [
+    "n1u18-07"
+   ]
   },
   {
-   "id": "n1u01-13",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "à bientôt / je reviens",
-   "tr": "bartīni",
-   "kn": "ಬರ್ತೀನಿ"
+   "id": "w4fb404201c",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "l'eau",
+   "tr": "nīru",
+   "kn": "ನೀರು",
+   "aka": [
+    "n1u13-04"
+   ]
   },
   {
-   "id": "n1u01-14",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "merci beaucoup",
-   "tr": "dhanyavādagaḷu",
-   "kn": "ಧನ್ಯವಾದಗಳು"
+   "id": "w10e80e68b6",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "le repas",
+   "tr": "ūṭa",
+   "kn": "ಊಟ",
+   "aka": [
+    "n1u12-01"
+   ]
   },
   {
-   "id": "n1u01-15",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "bienvenue (formel)",
-   "tr": "susvāgata",
-   "kn": "ಸುಸ್ವಾಗತ",
-   "note": "plutôt écrit, sur les panneaux et les invitations"
+   "id": "w1e2e22c8d5",
+   "cat": "Niveau 1 · Semaine 1 · les tout premiers mots",
+   "fr": "venez / entrez",
+   "tr": "banni",
+   "kn": "ಬನ್ನಿ",
+   "aka": [
+    "n1u01-08"
+   ]
   },
   {
-   "id": "n1u01-16",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "bonjour (le matin, formel)",
-   "tr": "shubhōdaya",
-   "kn": "ಶುಭೋದಯ",
-   "note": "plutôt écrit ou formel ; à l'oral on dit namaskāra"
-  },
-  {
-   "id": "n1u01-17",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "bonne nuit (formel)",
-   "tr": "shubha rātri",
-   "kn": "ಶುಭ ರಾತ್ರಿ",
-   "note": "plutôt écrit ou formel"
-  },
-  {
-   "id": "n1u01-18",
-   "cat": "Niveau 1 · 1. Saluer",
-   "fr": "bravo !",
-   "tr": "shabhāsh!",
-   "kn": "ಶಭಾಷ್!"
-  },
-  {
-   "id": "n1u02-01",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "s'il vous plaît",
-   "tr": "dayaviṭṭu",
-   "kn": "ದಯವಿಟ್ಟು"
-  },
-  {
-   "id": "n1u02-02",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "pardon / excusez-moi",
-   "tr": "kṣamisi",
-   "kn": "ಕ್ಷಮಿಸಿ"
-  },
-  {
-   "id": "n1u02-03",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "pas de problème / ce n'est pas grave",
-   "tr": "paravāgilla",
-   "kn": "ಪರವಾಗಿಲ್ಲ"
-  },
-  {
-   "id": "n1u02-04",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "un peu",
-   "tr": "svalpa",
-   "kn": "ಸ್ವಲ್ಪ"
-  },
-  {
-   "id": "n1u02-05",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "beaucoup / très",
-   "tr": "tumbā",
-   "kn": "ತುಂಬಾ"
-  },
-  {
-   "id": "n1u02-06",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "une minute / attendez",
-   "tr": "ondu nimiṣa",
-   "kn": "ಒಂದು ನಿಮಿಷ"
-  },
-  {
-   "id": "n1u02-07",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "c'est bien / c'est bon",
-   "tr": "chennāgide",
-   "kn": "ಚೆನ್ನಾಗಿದೆ"
-  },
-  {
-   "id": "n1u02-08",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "pouvez-vous m'aider ?",
-   "tr": "nanage sahāya māḍtīra?",
-   "kn": "ನನಗೆ ಸಹಾಯ ಮಾಡ್ತೀರಾ?"
-  },
-  {
-   "id": "n1u02-09",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "je ne connais pas le kannada",
-   "tr": "nanage Kannaḍa gottilla",
-   "kn": "ನನಗೆ ಕನ್ನಡ ಗೊತ್ತಿಲ್ಲ"
-  },
-  {
-   "id": "n1u02-10",
-   "cat": "Niveau 1 · 2. Les mots essentiels",
-   "fr": "vous parlez anglais ? (« vous connaissez l'anglais ? »)",
-   "tr": "English gottā?",
-   "kn": "ಇಂಗ್ಲಿಷ್ ಗೊತ್ತಾ?"
-  },
-  {
-   "id": "n1u03-01",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "je",
+   "id": "w273fb5e530",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "je / moi",
    "tr": "nānu",
-   "kn": "ನಾನು"
+   "kn": "ನಾನು",
+   "aka": [
+    "n1u03-01"
+   ]
   },
   {
-   "id": "n1u03-02",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "tu (proches, plus jeunes)",
+   "id": "w55ada2bc77",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "tu / toi (proches)",
    "tr": "nīnu",
-   "kn": "ನೀನು"
+   "kn": "ನೀನು",
+   "aka": [
+    "n1u03-02"
+   ]
   },
   {
-   "id": "n1u03-03",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "vous (respect, ou pluriel)",
+   "id": "w9bcd097553",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "vous (respect)",
    "tr": "nīvu",
    "kn": "ನೀವು",
-   "note": "à utiliser avec les parents de ton partenaire"
+   "note": "avec les parents de ton partenaire"
   },
   {
-   "id": "n1u03-04",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "il (familier)",
-   "tr": "avanu",
-   "kn": "ಅವನು"
-  },
-  {
-   "id": "n1u03-05",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "elle (familier)",
-   "tr": "avaḷu",
-   "kn": "ಅವಳು"
-  },
-  {
-   "id": "n1u03-06",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "il / elle (respect) ; ils / elles",
+   "id": "w9d1aea62fd",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "il / elle (respect)",
    "tr": "avaru",
    "kn": "ಅವರು",
-   "note": "pour parler des aînés, toujours avaru"
+   "note": "pour parler des aînés",
+   "aka": [
+    "n1u03-06"
+   ]
   },
   {
-   "id": "n1u03-07",
-   "cat": "Niveau 1 · 3. Les pronoms",
+   "id": "w918fa992c0",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "il (familier)",
+   "tr": "avanu",
+   "kn": "ಅವನು",
+   "aka": [
+    "n1u03-04"
+   ]
+  },
+  {
+   "id": "wd88b411261",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "elle (familier)",
+   "tr": "avaḷu",
+   "kn": "ಅವಳು",
+   "aka": [
+    "n1u03-05"
+   ]
+  },
+  {
+   "id": "w0c494ae8a7",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
    "fr": "nous",
    "tr": "nāvu",
-   "kn": "ನಾವು"
+   "kn": "ನಾವು",
+   "aka": [
+    "n1u03-07"
+   ]
   },
   {
-   "id": "n1u03-08",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "ceci / ça (près)",
+   "id": "w75449ec986",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "ceci / ça",
    "tr": "idu",
-   "kn": "ಇದು"
+   "kn": "ಇದು",
+   "aka": [
+    "n1u03-08"
+   ]
   },
   {
-   "id": "n1u03-09",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "cela (loin)",
+   "id": "we0fc7e8e67",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "cela (là-bas)",
    "tr": "adu",
-   "kn": "ಅದು"
+   "kn": "ಅದು",
+   "aka": [
+    "n1u03-09"
+   ]
   },
   {
-   "id": "n1u03-10",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "un (pour une personne)",
-   "tr": "obba",
-   "kn": "ಒಬ್ಬ",
-   "note": "on compte les personnes autrement que les objets : obba, ibbaru (deux personnes)…"
+   "id": "w44226d1dbe",
+   "cat": "Niveau 1 · Semaine 1 · moi, toi, vous",
+   "fr": "qui ?",
+   "tr": "yāru?",
+   "kn": "ಯಾರು?",
+   "aka": [
+    "n1u08-02"
+   ]
   },
   {
-   "id": "n1u03-11",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "je suis française",
-   "tr": "nānu France-navaḷu",
-   "kn": "ನಾನು ಫ್ರಾನ್ಸ್‌ನವಳು",
-   "note": "au présent, on met juste les deux mots côte à côte : « moi étudiante »"
+   "id": "wfecf886bf6",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "quoi ?",
+   "tr": "ēnu?",
+   "kn": "ಏನು?",
+   "aka": [
+    "n1u08-01"
+   ]
   },
   {
-   "id": "n1u03-12",
-   "cat": "Niveau 1 · 3. Les pronoms",
-   "fr": "c'est ma belle-mère",
-   "tr": "avaru nanna atte",
-   "kn": "ಅವರು ನನ್ನ ಅತ್ತೆ",
-   "note": "même règle : « elle (respect) ma belle-mère »"
+   "id": "w9d4adaa0dd",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "où ?",
+   "tr": "elli?",
+   "kn": "ಎಲ್ಲಿ?",
+   "aka": [
+    "n1u08-03"
+   ]
   },
   {
-   "id": "n1u04-01",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "le nom",
-   "tr": "hesaru",
-   "kn": "ಹೆಸರು"
+   "id": "wb3e23cfeee",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "pourquoi ?",
+   "tr": "yāke?",
+   "kn": "ಯಾಕೆ?",
+   "aka": [
+    "n1u08-05"
+   ]
   },
   {
-   "id": "n1u04-02",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "la ville / le village d'origine",
-   "tr": "ūru",
-   "kn": "ಊರು"
+   "id": "wb80cc26728",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "comment ?",
+   "tr": "hēge?",
+   "kn": "ಹೇಗೆ?",
+   "aka": [
+    "n1u08-06"
+   ]
   },
   {
-   "id": "n1u04-03",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "d'où êtes-vous ?",
-   "tr": "nimma ūru yāvdu?",
-   "kn": "ನಿಮ್ಮ ಊರು ಯಾವ್ದು?"
+   "id": "w2bc66de828",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "combien ?",
+   "tr": "eṣṭu?",
+   "kn": "ಎಷ್ಟು?",
+   "aka": [
+    "n1u08-07"
+   ]
   },
   {
-   "id": "n1u04-04",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "une personne",
-   "tr": "manuṣya",
-   "kn": "ಮನುಷ್ಯ"
+   "id": "wa7c41245ef",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "quand ?",
+   "tr": "yāvāga?",
+   "kn": "ಯಾವಾಗ?",
+   "aka": [
+    "n1u08-04"
+   ]
   },
   {
-   "id": "n1u04-05",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "un garçon",
-   "tr": "huḍuga",
-   "kn": "ಹುಡುಗ"
+   "id": "w81f917896c",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "ici",
+   "tr": "illi",
+   "kn": "ಇಲ್ಲಿ",
+   "aka": [
+    "n1u11-01"
+   ]
   },
   {
-   "id": "n1u04-06",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "une fille",
-   "tr": "huḍugi",
-   "kn": "ಹುಡುಗಿ"
+   "id": "w2c67bd3c2d",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "là-bas",
+   "tr": "alli",
+   "kn": "ಅಲ್ಲಿ",
+   "aka": [
+    "n1u11-02"
+   ]
   },
   {
-   "id": "n1u04-07",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "un ami / une amie",
-   "tr": "snēhita / snēhite",
-   "kn": "ಸ್ನೇಹಿತ / ಸ್ನೇಹಿತೆ"
+   "id": "w5dbcc06eda",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "maintenant",
+   "tr": "īga",
+   "kn": "ಈಗ",
+   "aka": [
+    "n1u20-01"
+   ]
   },
   {
-   "id": "n1u04-08",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "je suis étudiante",
-   "tr": "nānu vidyārthini",
-   "kn": "ನಾನು ವಿದ್ಯಾರ್ಥಿನಿ",
-   "note": "au masculin : vidyārthi"
+   "id": "w4eaa0ee8d4",
+   "cat": "Niveau 1 · Semaine 1 · questions et petits mots",
+   "fr": "très / beaucoup",
+   "tr": "tumbā",
+   "kn": "ತುಂಬಾ",
+   "aka": [
+    "n1u02-05"
+   ]
   },
   {
-   "id": "n1u04-09",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "je suis enseignante",
-   "tr": "nānu shikṣaki",
-   "kn": "ನಾನು ಶಿಕ್ಷಕಿ",
-   "note": "au masculin : shikṣaka"
-  },
-  {
-   "id": "n1u04-10",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "un médecin",
-   "tr": "vaidya",
-   "kn": "ವೈದ್ಯ"
-  },
-  {
-   "id": "n1u04-11",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "un ingénieur",
-   "tr": "abhiyantara",
-   "kn": "ಅಭಿಯಂತರ"
-  },
-  {
-   "id": "n1u04-12",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "une scientifique",
-   "tr": "vijñāni",
-   "kn": "ವಿಜ್ಞಾನಿ"
-  },
-  {
-   "id": "n1u04-13",
-   "cat": "Niveau 1 · 4. Se présenter",
-   "fr": "j'ai… ans (« mon âge est… »)",
-   "tr": "nanna vayassu…",
-   "kn": "ನನ್ನ ವಯಸ್ಸು…"
-  },
-  {
-   "id": "n1u05-01",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "oui",
-   "tr": "haudu",
-   "kn": "ಹೌದು"
-  },
-  {
-   "id": "n1u05-02",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "non / il n'y en a pas",
-   "tr": "illa",
-   "kn": "ಇಲ್ಲ"
-  },
-  {
-   "id": "n1u05-03",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "ce n'est pas (ça)",
-   "tr": "alla",
-   "kn": "ಅಲ್ಲ"
-  },
-  {
-   "id": "n1u05-04",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "il y a / c'est là",
-   "tr": "ide",
-   "kn": "ಇದೆ"
-  },
-  {
-   "id": "n1u05-05",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "d'accord",
-   "tr": "sari",
-   "kn": "ಸರಿ"
-  },
-  {
-   "id": "n1u05-06",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "je sais",
-   "tr": "gottu",
-   "kn": "ಗೊತ್ತು"
-  },
-  {
-   "id": "n1u05-07",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "je ne sais pas",
-   "tr": "gottilla",
-   "kn": "ಗೊತ್ತಿಲ್ಲ"
-  },
-  {
-   "id": "n1u05-08",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "ce n'est pas du café",
-   "tr": "idu kāphi alla",
-   "kn": "ಇದು ಕಾಫಿ ಅಲ್ಲ",
-   "note": "alla nie une identité : « ceci n'est pas X »"
-  },
-  {
-   "id": "n1u05-09",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "il n'y a pas de café",
-   "tr": "kāphi illa",
-   "kn": "ಕಾಫಿ ಇಲ್ಲ",
-   "note": "illa nie une existence : « X n'existe pas, il n'y en a pas »"
-  },
-  {
-   "id": "n1u05-10",
-   "cat": "Niveau 1 · 5. Oui, non, il y a",
-   "fr": "il y a du café ?",
-   "tr": "kāphi ide?",
-   "kn": "ಕಾಫಿ ಇದೆ?",
-   "note": "pour poser la question, on monte simplement la voix"
-  },
-  {
-   "id": "n1u06-01",
-   "cat": "Niveau 1 · 6. La famille",
+   "id": "w15df6a7189",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
    "fr": "maman",
    "tr": "amma",
-   "kn": "ಅಮ್ಮ"
+   "kn": "ಅಮ್ಮ",
+   "aka": [
+    "n1u06-01"
+   ]
   },
   {
-   "id": "n1u06-02",
-   "cat": "Niveau 1 · 6. La famille",
+   "id": "w76353b138f",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
    "fr": "papa",
    "tr": "appa",
-   "kn": "ಅಪ್ಪ"
+   "kn": "ಅಪ್ಪ",
+   "aka": [
+    "n1u06-02"
+   ]
   },
   {
-   "id": "n1u06-03",
-   "cat": "Niveau 1 · 6. La famille",
+   "id": "w6be5d06743",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
    "fr": "belle-mère (mère du partenaire)",
    "tr": "atte",
    "kn": "ಅತ್ತೆ",
-   "note": "veut aussi dire « sœur du père »"
+   "aka": [
+    "n1u06-03"
+   ]
   },
   {
-   "id": "n1u06-04",
-   "cat": "Niveau 1 · 6. La famille",
+   "id": "w94ee10b025",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
    "fr": "beau-père (père du partenaire)",
    "tr": "māva",
    "kn": "ಮಾವ",
-   "note": "veut aussi dire « frère de la mère »"
+   "aka": [
+    "n1u06-04"
+   ]
   },
   {
-   "id": "n1u06-05",
-   "cat": "Niveau 1 · 6. La famille",
-   "fr": "les parents",
-   "tr": "appa-amma",
-   "kn": "ಅಪ್ಪ-ಅಮ್ಮ",
-   "note": "on dit « papa-maman »"
-  },
-  {
-   "id": "n1u06-06",
-   "cat": "Niveau 1 · 6. La famille",
-   "fr": "fils",
-   "tr": "maga",
-   "kn": "ಮಗ"
-  },
-  {
-   "id": "n1u06-07",
-   "cat": "Niveau 1 · 6. La famille",
-   "fr": "fille (enfant)",
-   "tr": "magaḷu",
-   "kn": "ಮಗಳು"
-  },
-  {
-   "id": "n1u06-08",
-   "cat": "Niveau 1 · 6. La famille",
-   "fr": "grand frère (et façon polie d'appeler un homme)",
+   "id": "w41e6c78f1d",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
+   "fr": "grand frère",
    "tr": "aṇṇa",
    "kn": "ಅಣ್ಣ",
-   "note": "on appelle ainsi un chauffeur ou un vendeur, avec respect"
+   "aka": [
+    "n1u06-08"
+   ]
   },
   {
-   "id": "n1u06-09",
-   "cat": "Niveau 1 · 6. La famille",
-   "fr": "grande sœur (et façon polie d'appeler une femme)",
+   "id": "waf59c07aa8",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
+   "fr": "grande sœur",
    "tr": "akka",
    "kn": "ಅಕ್ಕ",
-   "note": "idem pour une femme"
+   "aka": [
+    "n1u06-09"
+   ]
   },
   {
-   "id": "n1u06-10",
-   "cat": "Niveau 1 · 6. La famille",
-   "fr": "la famille",
-   "tr": "kuṭumba",
-   "kn": "ಕುಟುಂಬ"
+   "id": "we51faaa457",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
+   "fr": "petit frère",
+   "tr": "tamma",
+   "kn": "ತಮ್ಮ"
   },
   {
-   "id": "n1u07-01",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "mon / ma",
-   "tr": "nanna",
-   "kn": "ನನ್ನ"
+   "id": "wdfae4ce405",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
+   "fr": "petite sœur",
+   "tr": "tangi",
+   "kn": "ತಂಗಿ"
   },
   {
-   "id": "n1u07-02",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "ton / ta",
-   "tr": "ninna",
-   "kn": "ನಿನ್ನ"
+   "id": "w4a68343a98",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
+   "fr": "fils",
+   "tr": "maga",
+   "kn": "ಮಗ",
+   "aka": [
+    "n1u06-06"
+   ]
   },
   {
-   "id": "n1u07-03",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "votre (respect)",
-   "tr": "nimma",
-   "kn": "ನಿಮ್ಮ"
+   "id": "w6047ea9a30",
+   "cat": "Niveau 1 · Semaine 1 · la famille",
+   "fr": "fille (enfant)",
+   "tr": "magaḷu",
+   "kn": "ಮಗಳು",
+   "aka": [
+    "n1u06-07"
+   ]
   },
   {
-   "id": "n1u07-04",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "son / sa (à lui, respect : leur)",
-   "tr": "avara",
-   "kn": "ಅವರ"
-  },
-  {
-   "id": "n1u07-05",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "notre",
-   "tr": "namma",
-   "kn": "ನಮ್ಮ",
-   "note": "très utilisé : « namma Bengaḷūru », notre Bangalore"
-  },
-  {
-   "id": "n1u07-06",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "sa (à elle, familier)",
-   "tr": "avaḷa",
-   "kn": "ಅವಳ"
-  },
-  {
-   "id": "n1u07-07",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "votre maison",
-   "tr": "nimma mane",
-   "kn": "ನಿಮ್ಮ ಮನೆ",
-   "note": "le possessif se place devant, comme en français"
-  },
-  {
-   "id": "n1u07-08",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "c'est mon fils",
-   "tr": "avanu nanna maga",
-   "kn": "ಅವನು ನನ್ನ ಮಗ"
-  },
-  {
-   "id": "n1u07-09",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "le nom de votre fils",
-   "tr": "nimma magana hesaru",
-   "kn": "ನಿಮ್ಮ ಮಗನ ಹೆಸರು",
-   "note": "« de » : on ajoute -a / -na au nom (maga → magana)"
-  },
-  {
-   "id": "n1u07-10",
-   "cat": "Niveau 1 · 7. Le possessif",
-   "fr": "la maison de ma belle-mère",
-   "tr": "nanna atteya mane",
-   "kn": "ನನ್ನ ಅತ್ತೆಯ ಮನೆ",
-   "note": "atte → atteya"
-  },
-  {
-   "id": "n1u08-01",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "quoi ?",
-   "tr": "ēnu?",
-   "kn": "ಏನು?"
-  },
-  {
-   "id": "n1u08-02",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "qui ?",
-   "tr": "yāru?",
-   "kn": "ಯಾರು?"
-  },
-  {
-   "id": "n1u08-03",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "où ?",
-   "tr": "elli?",
-   "kn": "ಎಲ್ಲಿ?"
-  },
-  {
-   "id": "n1u08-04",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "quand ?",
-   "tr": "yāvāga?",
-   "kn": "ಯಾವಾಗ?"
-  },
-  {
-   "id": "n1u08-05",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "pourquoi ?",
-   "tr": "yāke?",
-   "kn": "ಯಾಕೆ?"
-  },
-  {
-   "id": "n1u08-06",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "comment ?",
-   "tr": "hēge?",
-   "kn": "ಹೇಗೆ?"
-  },
-  {
-   "id": "n1u08-07",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "combien ?",
-   "tr": "eṣṭu?",
-   "kn": "ಎಷ್ಟು?"
-  },
-  {
-   "id": "n1u08-08",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "lequel ?",
-   "tr": "yāvdu?",
-   "kn": "ಯಾವ್ದು?"
-  },
-  {
-   "id": "n1u08-09",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "qu'est-ce que c'est ?",
-   "tr": "idu ēnu?",
-   "kn": "ಇದು ಏನು?",
-   "note": "le mot interrogatif se met à la fin, à la place de la réponse"
-  },
-  {
-   "id": "n1u08-10",
-   "cat": "Niveau 1 · 8. Les questions",
-   "fr": "qui est-ce ?",
-   "tr": "avaru yāru?",
-   "kn": "ಅವರು ಯಾರು?"
-  },
-  {
-   "id": "n1u09-01",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "w3b038920bf",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "un (1)",
    "tr": "ondu",
-   "kn": "ಒಂದು"
+   "kn": "ಒಂದು",
+   "aka": [
+    "n1u09-01"
+   ]
   },
   {
-   "id": "n1u09-02",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "w5362e4b66a",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "deux (2)",
    "tr": "eraḍu",
-   "kn": "ಎರಡು"
+   "kn": "ಎರಡು",
+   "aka": [
+    "n1u09-02"
+   ]
   },
   {
-   "id": "n1u09-03",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "w7aeeb42aae",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "trois (3)",
    "tr": "mūru",
-   "kn": "ಮೂರು"
+   "kn": "ಮೂರು",
+   "aka": [
+    "n1u09-03"
+   ]
   },
   {
-   "id": "n1u09-04",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "w5c54086086",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "quatre (4)",
    "tr": "nālku",
-   "kn": "ನಾಲ್ಕು"
+   "kn": "ನಾಲ್ಕು",
+   "aka": [
+    "n1u09-04"
+   ]
   },
   {
-   "id": "n1u09-05",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "wc8542b35a8",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "cinq (5)",
    "tr": "aidu",
-   "kn": "ಐದು"
+   "kn": "ಐದು",
+   "aka": [
+    "n1u09-05"
+   ]
   },
   {
-   "id": "n1u09-06",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "w171c2ebd1f",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "six (6)",
    "tr": "āru",
-   "kn": "ಆರು"
+   "kn": "ಆರು",
+   "aka": [
+    "n1u09-06"
+   ]
   },
   {
-   "id": "n1u09-07",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "wc4a407d07a",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "sept (7)",
    "tr": "ēḷu",
-   "kn": "ಏಳು"
+   "kn": "ಏಳು",
+   "aka": [
+    "n1u09-07"
+   ]
   },
   {
-   "id": "n1u09-08",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "w9bb50af5b4",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "huit (8)",
    "tr": "eṇṭu",
-   "kn": "ಎಂಟು"
+   "kn": "ಎಂಟು",
+   "aka": [
+    "n1u09-08"
+   ]
   },
   {
-   "id": "n1u09-09",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "wf763cb1914",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "neuf (9)",
    "tr": "ombattu",
-   "kn": "ಒಂಬತ್ತು"
+   "kn": "ಒಂಬತ್ತು",
+   "aka": [
+    "n1u09-09"
+   ]
   },
   {
-   "id": "n1u09-10",
-   "cat": "Niveau 1 · 9. Les nombres de 1 à 10",
+   "id": "w7630a0bab5",
+   "cat": "Niveau 1 · Semaine 1 · compter jusqu'à 10",
    "fr": "dix (10)",
    "tr": "hattu",
-   "kn": "ಹತ್ತು"
+   "kn": "ಹತ್ತು",
+   "aka": [
+    "n1u09-10"
+   ]
   },
   {
-   "id": "n1u10-01",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "la maison",
-   "tr": "mane",
-   "kn": "ಮನೆ"
-  },
-  {
-   "id": "n1u10-02",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "la porte",
-   "tr": "bāgilu",
-   "kn": "ಬಾಗಿಲು"
-  },
-  {
-   "id": "n1u10-03",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "la fenêtre",
-   "tr": "kiṭaki",
-   "kn": "ಕಿಟಕಿ"
-  },
-  {
-   "id": "n1u10-04",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "la table",
-   "tr": "mēju",
-   "kn": "ಮೇಜು"
-  },
-  {
-   "id": "n1u10-05",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "la chaise",
-   "tr": "kurchi",
-   "kn": "ಕುರ್ಚಿ"
-  },
-  {
-   "id": "n1u10-06",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "le lit",
-   "tr": "hāsige",
-   "kn": "ಹಾಸಿಗೆ"
-  },
-  {
-   "id": "n1u10-07",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "la cuisine",
-   "tr": "aḍige mane",
-   "kn": "ಅಡಿಗೆ ಮನೆ",
-   "note": "littéralement « maison de la cuisine »"
-  },
-  {
-   "id": "n1u10-08",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "la salle de bain",
-   "tr": "snānada mane",
-   "kn": "ಸ್ನಾನದ ಮನೆ"
-  },
-  {
-   "id": "n1u10-09",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "les toilettes",
-   "tr": "śaucālaya",
-   "kn": "ಶೌಚಾಲಯ"
-  },
-  {
-   "id": "n1u10-10",
-   "cat": "Niveau 1 · 10. La maison",
-   "fr": "votre maison est très belle",
-   "tr": "nimma mane tumbā chennāgide",
-   "kn": "ನಿಮ್ಮ ಮನೆ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ"
-  },
-  {
-   "id": "n1u11-01",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "ici",
-   "tr": "illi",
-   "kn": "ಇಲ್ಲಿ"
-  },
-  {
-   "id": "n1u11-02",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "là-bas",
-   "tr": "alli",
-   "kn": "ಅಲ್ಲಿ"
-  },
-  {
-   "id": "n1u11-03",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "sur",
-   "tr": "mēle",
-   "kn": "ಮೇಲೆ"
-  },
-  {
-   "id": "n1u11-04",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "sous",
-   "tr": "keḷage",
-   "kn": "ಕೆಳಗೆ"
-  },
-  {
-   "id": "n1u11-05",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "dedans",
-   "tr": "oḷage",
-   "kn": "ಒಳಗೆ"
-  },
-  {
-   "id": "n1u11-06",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "dehors",
-   "tr": "horage",
-   "kn": "ಹೊರಗೆ"
-  },
-  {
-   "id": "n1u11-07",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "où est… ?",
-   "tr": "… elli ide?",
-   "kn": "… ಎಲ್ಲಿ ಇದೆ?"
-  },
-  {
-   "id": "n1u11-08",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "à la maison",
-   "tr": "maneyalli",
-   "kn": "ಮನೆಯಲ್ಲಿ",
-   "note": "« dans / à » : on ajoute -alli au nom (mane → maneyalli)"
-  },
-  {
-   "id": "n1u11-09",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "dans la cuisine",
-   "tr": "aḍige maneyalli",
-   "kn": "ಅಡಿಗೆ ಮನೆಯಲ್ಲಿ"
-  },
-  {
-   "id": "n1u11-10",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "j'habite à Paris",
-   "tr": "nānu Paris-alli iddīni",
-   "kn": "ನಾನು ಪ್ಯಾರಿಸ್‌ನಲ್ಲಿ ಇದ್ದೀನಿ",
-   "note": "iddīni = je suis (quelque part)"
-  },
-  {
-   "id": "n1u11-11",
-   "cat": "Niveau 1 · 11. Où ? (« dans », « à »)",
-   "fr": "le café est sur la table",
-   "tr": "kāphi mējina mēle ide",
-   "kn": "ಕಾಫಿ ಮೇಜಿನ ಮೇಲೆ ಇದೆ",
-   "note": "« sur X » : X + -a / -ina + mēle"
-  },
-  {
-   "id": "n1u12-01",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "le repas",
-   "tr": "ūṭa",
-   "kn": "ಊಟ"
-  },
-  {
-   "id": "n1u12-02",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "le riz (cuit)",
-   "tr": "anna",
-   "kn": "ಅನ್ನ"
-  },
-  {
-   "id": "n1u12-03",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "le sambar (sauce de lentilles)",
-   "tr": "sāmbāru",
-   "kn": "ಸಾಂಬಾರು"
-  },
-  {
-   "id": "n1u12-04",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "le rasam (bouillon épicé)",
-   "tr": "sāru",
-   "kn": "ಸಾರು"
-  },
-  {
-   "id": "n1u12-05",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "les légumes sautés",
-   "tr": "palya",
-   "kn": "ಪಲ್ಯ"
-  },
-  {
-   "id": "n1u12-06",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "le yaourt",
-   "tr": "mosaru",
-   "kn": "ಮೊಸರು",
-   "note": "on termine souvent le repas avec du riz au yaourt"
-  },
-  {
-   "id": "n1u12-07",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "la chapati",
-   "tr": "chapāti",
-   "kn": "ಚಪಾತಿ"
-  },
-  {
-   "id": "n1u12-08",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "la dosa",
-   "tr": "dōse",
-   "kn": "ದೋಸೆ"
-  },
-  {
-   "id": "n1u12-09",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "l'idli",
-   "tr": "iḍli",
-   "kn": "ಇಡ್ಲಿ"
-  },
-  {
-   "id": "n1u12-10",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "l'upma (semoule salée)",
-   "tr": "uppiṭṭu",
-   "kn": "ಉಪ್ಪಿಟ್ಟು"
-  },
-  {
-   "id": "n1u12-11",
-   "cat": "Niveau 1 · 12. Les plats",
-   "fr": "le sucré / le dessert",
-   "tr": "sihi",
-   "kn": "ಸಿಹಿ"
-  },
-  {
-   "id": "n1u13-01",
-   "cat": "Niveau 1 · 13. Boire et manger",
+   "id": "w9e516440ee",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
    "fr": "le café",
    "tr": "kāphi",
    "kn": "ಕಾಫಿ",
-   "note": "le café filtre est roi à Bangalore"
+   "aka": [
+    "n1u13-01"
+   ]
   },
   {
-   "id": "n1u13-02",
-   "cat": "Niveau 1 · 13. Boire et manger",
+   "id": "wf66a378132",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
    "fr": "le thé",
    "tr": "ṭī",
-   "kn": "ಟೀ"
+   "kn": "ಟೀ",
+   "aka": [
+    "n1u13-02"
+   ]
   },
   {
-   "id": "n1u13-03",
-   "cat": "Niveau 1 · 13. Boire et manger",
+   "id": "w67c8aa0309",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
    "fr": "le lait",
    "tr": "hālu",
-   "kn": "ಹಾಲು"
+   "kn": "ಹಾಲು",
+   "aka": [
+    "n1u13-03"
+   ]
   },
   {
-   "id": "n1u13-04",
-   "cat": "Niveau 1 · 13. Boire et manger",
-   "fr": "l'eau",
-   "tr": "nīru",
-   "kn": "ನೀರು"
+   "id": "w468270ec56",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
+   "fr": "le riz (cuit)",
+   "tr": "anna",
+   "kn": "ಅನ್ನ",
+   "aka": [
+    "n1u12-02"
+   ]
   },
   {
-   "id": "n1u13-05",
-   "cat": "Niveau 1 · 13. Boire et manger",
-   "fr": "le sucre",
-   "tr": "sakkare",
-   "kn": "ಸಕ್ಕರೆ"
+   "id": "wabba65944f",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
+   "fr": "la dosa",
+   "tr": "dōse",
+   "kn": "ದೋಸೆ",
+   "aka": [
+    "n1u12-08"
+   ]
   },
   {
-   "id": "n1u13-06",
-   "cat": "Niveau 1 · 13. Boire et manger",
-   "fr": "le sel",
-   "tr": "uppu",
-   "kn": "ಉಪ್ಪು"
+   "id": "wb109f3b6e9",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
+   "fr": "l'idli",
+   "tr": "iḍli",
+   "kn": "ಇಡ್ಲಿ",
+   "aka": [
+    "n1u12-09"
+   ]
   },
   {
-   "id": "n1u13-07",
-   "cat": "Niveau 1 · 13. Boire et manger",
+   "id": "w32714116d7",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
    "fr": "le fruit",
    "tr": "haṇṇu",
-   "kn": "ಹಣ್ಣು"
+   "kn": "ಹಣ್ಣು",
+   "aka": [
+    "n1u13-07"
+   ]
   },
   {
-   "id": "n1u13-08",
-   "cat": "Niveau 1 · 13. Boire et manger",
+   "id": "w23d9678fc7",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
    "fr": "les légumes",
    "tr": "tarakāri",
-   "kn": "ತರಕಾರಿ"
+   "kn": "ತರಕಾರಿ",
+   "aka": [
+    "n1u13-08"
+   ]
   },
   {
-   "id": "n1u13-09",
-   "cat": "Niveau 1 · 13. Boire et manger",
-   "fr": "la banane",
-   "tr": "bāḷehaṇṇu",
-   "kn": "ಬಾಳೆಹಣ್ಣು"
+   "id": "wf93de2b91d",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
+   "fr": "le sucre",
+   "tr": "sakkare",
+   "kn": "ಸಕ್ಕರೆ",
+   "aka": [
+    "n1u13-05"
+   ]
   },
   {
-   "id": "n1u13-10",
-   "cat": "Niveau 1 · 13. Boire et manger",
-   "fr": "la mangue",
-   "tr": "māvina haṇṇu",
-   "kn": "ಮಾವಿನ ಹಣ್ಣು"
+   "id": "w75df3d1586",
+   "cat": "Niveau 1 · Semaine 1 · à boire, à manger",
+   "fr": "le sel",
+   "tr": "uppu",
+   "kn": "ಉಪ್ಪು",
+   "aka": [
+    "n1u13-06"
+   ]
   },
   {
-   "id": "n1u14-01",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "à moi / pour moi",
-   "tr": "nanage",
-   "kn": "ನನಗೆ"
+   "id": "wd39fece7fb",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "la maison",
+   "tr": "mane",
+   "kn": "ಮನೆ",
+   "aka": [
+    "n1u10-01"
+   ]
   },
   {
-   "id": "n1u14-02",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "à toi",
-   "tr": "ninage",
-   "kn": "ನಿನಗೆ"
+   "id": "w4fbcf31450",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "le nom",
+   "tr": "hesaru",
+   "kn": "ಹೆಸರು",
+   "aka": [
+    "n1u04-01"
+   ]
   },
   {
-   "id": "n1u14-03",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "à vous (respect)",
-   "tr": "nimage",
-   "kn": "ನಿಮಗೆ"
+   "id": "wb74584b7b7",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "la ville / le village d'origine",
+   "tr": "ūru",
+   "kn": "ಊರು",
+   "aka": [
+    "n1u04-02"
+   ]
   },
   {
-   "id": "n1u14-04",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "à lui / à elle (respect)",
-   "tr": "avarige",
-   "kn": "ಅವರಿಗೆ"
+   "id": "w5822aa2e0e",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "l'ami",
+   "tr": "snēhita",
+   "kn": "ಸ್ನೇಹಿತ"
   },
   {
-   "id": "n1u14-05",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
+   "id": "w17969ac4bd",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "le travail",
+   "tr": "kelsa",
+   "kn": "ಕೆಲಸ",
+   "aka": [
+    "n1u43-01"
+   ]
+  },
+  {
+   "id": "w30e5821288",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "le jour",
+   "tr": "dina",
+   "kn": "ದಿನ",
+   "aka": [
+    "n1u32-01"
+   ]
+  },
+  {
+   "id": "waacf5576df",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "l'argent",
+   "tr": "duḍḍu",
+   "kn": "ದುಡ್ಡು"
+  },
+  {
+   "id": "w16d7988a3a",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "la porte",
+   "tr": "bāgilu",
+   "kn": "ಬಾಗಿಲು",
+   "aka": [
+    "n1u10-02"
+   ]
+  },
+  {
+   "id": "wfd8b0d4136",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "la chaise",
+   "tr": "kurchi",
+   "kn": "ಕುರ್ಚಿ",
+   "aka": [
+    "n1u10-05"
+   ]
+  },
+  {
+   "id": "wc983638799",
+   "cat": "Niveau 1 · Semaine 1 · la maison et la vie",
+   "fr": "le lit",
+   "tr": "hāsige",
+   "kn": "ಹಾಸಿಗೆ",
+   "aka": [
+    "n1u10-06"
+   ]
+  },
+  {
+   "id": "w4ae335c3ff",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "asseyez-vous",
+   "tr": "kūtkoḷḷi",
+   "kn": "ಕೂತ್ಕೊಳ್ಳಿ",
+   "aka": [
+    "n1u01-09"
+   ]
+  },
+  {
+   "id": "wdccf280764",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "mangez",
+   "tr": "tinni",
+   "kn": "ತಿನ್ನಿ"
+  },
+  {
+   "id": "w76e5bfc506",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "buvez",
+   "tr": "kuḍiyiri",
+   "kn": "ಕುಡಿಯಿರಿ"
+  },
+  {
+   "id": "wd557463157",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "regardez",
+   "tr": "nōḍi",
+   "kn": "ನೋಡಿ"
+  },
+  {
+   "id": "w7518bb836f",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "donnez",
+   "tr": "koḍi",
+   "kn": "ಕೊಡಿ"
+  },
+  {
+   "id": "w76f6aeac1f",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "prenez",
+   "tr": "tagoḷḷi",
+   "kn": "ತಗೊಳ್ಳಿ"
+  },
+  {
+   "id": "wab68774c6f",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "dites",
+   "tr": "hēḷi",
+   "kn": "ಹೇಳಿ"
+  },
+  {
+   "id": "w339440f4bc",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "attendez",
+   "tr": "kāyiri",
+   "kn": "ಕಾಯಿರಿ"
+  },
+  {
+   "id": "w1572af1798",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "allez",
+   "tr": "hōgi",
+   "kn": "ಹೋಗಿ"
+  },
+  {
+   "id": "wf626327f52",
+   "cat": "Niveau 1 · Semaine 2 · verbes polis",
+   "fr": "faites",
+   "tr": "māḍi",
+   "kn": "ಮಾಡಿ",
+   "note": "la forme polie se termine en -i"
+  },
+  {
+   "id": "wded722352d",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "c'est bien / c'est bon",
+   "tr": "chennāgide",
+   "kn": "ಚೆನ್ನಾಗಿದೆ",
+   "aka": [
+    "n1u02-07"
+   ]
+  },
+  {
+   "id": "w5697c1567a",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "grand",
+   "tr": "doḍḍa",
+   "kn": "ದೊಡ್ಡ",
+   "aka": [
+    "n1u25-01"
+   ]
+  },
+  {
+   "id": "w8c66bb150e",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "petit",
+   "tr": "chikka",
+   "kn": "ಚಿಕ್ಕ",
+   "aka": [
+    "n1u25-02"
+   ]
+  },
+  {
+   "id": "wc9dfde6624",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "chaud",
+   "tr": "bisi",
+   "kn": "ಬಿಸಿ",
+   "aka": [
+    "n1u25-07"
+   ]
+  },
+  {
+   "id": "w4df0849572",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "froid",
+   "tr": "taṇṇage",
+   "kn": "ತಣ್ಣಗೆ",
+   "aka": [
+    "n1u47-11"
+   ]
+  },
+  {
+   "id": "w0af690abbe",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "mauvais / pas bon",
+   "tr": "keṭṭa",
+   "kn": "ಕೆಟ್ಟ",
+   "aka": [
+    "n1u25-06"
+   ]
+  },
+  {
+   "id": "w3132e21ff6",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "épicé",
+   "tr": "khāra",
+   "kn": "ಖಾರ",
+   "aka": [
+    "n1u47-08"
+   ]
+  },
+  {
+   "id": "wccf9a9c79a",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "la joie",
+   "tr": "khushi",
+   "kn": "ಖುಷಿ"
+  },
+  {
+   "id": "w02715a0b60",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "un peu",
+   "tr": "svalpa",
+   "kn": "ಸ್ವಲ್ಪ",
+   "aka": [
+    "n1u02-04"
+   ]
+  },
+  {
+   "id": "wa4c532abd9",
+   "cat": "Niveau 1 · Semaine 2 · décrire",
+   "fr": "ça suffit / assez",
+   "tr": "sāku",
+   "kn": "ಸಾಕು",
+   "aka": [
+    "n1u46-05"
+   ]
+  },
+  {
+   "id": "w5323c6b758",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "je veux de l'eau",
+   "tr": "nīru bēku",
+   "kn": "ನೀರು ಬೇಕು",
+   "note": "on met juste le mot, puis bēku"
+  },
+  {
+   "id": "wba0a2d41c9",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
    "fr": "je veux du café",
-   "tr": "nanage kāphi bēku",
-   "kn": "ನನಗೆ ಕಾಫಿ ಬೇಕು",
-   "note": "en kannada on dit « à moi, café est nécessaire »"
+   "tr": "kāphi bēku",
+   "kn": "ಕಾಫಿ ಬೇಕು"
   },
   {
-   "id": "n1u14-06",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "j'ai faim",
-   "tr": "nanage hasivu āgtide",
-   "kn": "ನನಗೆ ಹಸಿವು ಆಗ್ತಿದೆ",
-   "note": "« à moi, la faim arrive »"
+   "id": "w57c8f2649a",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "je veux du lait",
+   "tr": "hālu bēku",
+   "kn": "ಹಾಲು ಬೇಕು"
   },
   {
-   "id": "n1u14-07",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "j'ai soif",
-   "tr": "nanage bāyārike āgtide",
-   "kn": "ನನಗೆ ಬಾಯಾರಿಕೆ ಆಗ್ತಿದೆ"
+   "id": "w4ee3b99747",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "pas de thé, merci",
+   "tr": "ṭī bēḍa",
+   "kn": "ಟೀ ಬೇಡ"
   },
   {
-   "id": "n1u14-08",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "j'aime la dosa",
-   "tr": "nanage dōse ishṭa",
-   "kn": "ನನಗೆ ದೋಸೆ ಇಷ್ಟ",
-   "note": "« à moi, la dosa plaît »"
+   "id": "w8d68b881ed",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "pas de sucre",
+   "tr": "sakkare bēḍa",
+   "kn": "ಸಕ್ಕರೆ ಬೇಡ"
   },
   {
-   "id": "n1u14-09",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "je ne comprends pas",
-   "tr": "nanage artha āgalla",
-   "kn": "ನನಗೆ ಅರ್ಥ ಆಗಲ್ಲ"
+   "id": "w3da348d2fb",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "je veux celui-ci",
+   "tr": "idu bēku",
+   "kn": "ಇದು ಬೇಕು",
+   "aka": [
+    "n1u31-03"
+   ]
   },
   {
-   "id": "n1u14-10",
-   "cat": "Niveau 1 · 14. « À moi » : le datif",
-   "fr": "donnez un café à mon beau-père",
-   "tr": "māvanige kāphi koḍi",
-   "kn": "ಮಾವನಿಗೆ ಕಾಫಿ ಕೊಡಿ",
-   "note": "« à X » : on ajoute -ge / -ige / -nige au nom"
+   "id": "wc916d7c673",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "je ne veux pas celui-là",
+   "tr": "adu bēḍa",
+   "kn": "ಅದು ಬೇಡ",
+   "aka": [
+    "n1u31-04"
+   ]
   },
   {
-   "id": "n1u15-01",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "viens / venez",
-   "tr": "bā / banni",
-   "kn": "ಬಾ / ಬನ್ನಿ"
+   "id": "w9c4438d2b8",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "un peu d'eau",
+   "tr": "svalpa nīru",
+   "kn": "ಸ್ವಲ್ಪ ನೀರು"
   },
   {
-   "id": "n1u15-02",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "va / allez",
-   "tr": "hōgu / hōgi",
-   "kn": "ಹೋಗು / ಹೋಗಿ"
+   "id": "we805b2be15",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "encore un peu",
+   "tr": "innu svalpa",
+   "kn": "ಇನ್ನು ಸ್ವಲ್ಪ",
+   "aka": [
+    "n1u19-05"
+   ]
   },
   {
-   "id": "n1u15-03",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "mange / mangez",
-   "tr": "tinnu / tinni",
-   "kn": "ತಿನ್ನು / ತಿನ್ನಿ"
+   "id": "w74f17224ca",
+   "cat": "Niveau 1 · Semaine 2 · je veux, je ne veux pas",
+   "fr": "je ne veux pas manger",
+   "tr": "ūṭa bēḍa",
+   "kn": "ಊಟ ಬೇಡ"
   },
   {
-   "id": "n1u15-04",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "bois / buvez",
-   "tr": "kuḍi / kuḍiyiri",
-   "kn": "ಕುಡಿ / ಕುಡಿಯಿರಿ"
+   "id": "w3ad83b8924",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "ma maison",
+   "tr": "nanna mane",
+   "kn": "ನನ್ನ ಮನೆ"
   },
   {
-   "id": "n1u15-05",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "regarde / regardez",
-   "tr": "nōḍu / nōḍi",
-   "kn": "ನೋಡು / ನೋಡಿ"
+   "id": "w5f8dc378db",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "votre maison",
+   "tr": "nimma mane",
+   "kn": "ನಿಮ್ಮ ಮನೆ",
+   "aka": [
+    "n1u07-07"
+   ]
   },
   {
-   "id": "n1u15-06",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "écoute / écoutez",
-   "tr": "kēḷu / kēḷi",
-   "kn": "ಕೇಳು / ಕೇಳಿ"
+   "id": "wb638328c69",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "ma maman",
+   "tr": "nanna amma",
+   "kn": "ನನ್ನ ಅಮ್ಮ"
   },
   {
-   "id": "n1u15-07",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "donne / donnez",
-   "tr": "koḍu / koḍi",
-   "kn": "ಕೊಡು / ಕೊಡಿ"
+   "id": "wa17ca04853",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "votre fils",
+   "tr": "nimma maga",
+   "kn": "ನಿಮ್ಮ ಮಗ"
   },
   {
-   "id": "n1u15-08",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "prends / prenez",
-   "tr": "tagō / tagoḷḷi",
-   "kn": "ತಗೋ / ತಗೊಳ್ಳಿ"
+   "id": "w59300d9777",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "je m'appelle…",
+   "tr": "nanna hesaru…",
+   "kn": "ನನ್ನ ಹೆಸರು…",
+   "note": "« mon nom … »",
+   "aka": [
+    "n1u01-05"
+   ]
   },
   {
-   "id": "n1u15-09",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "fais / faites",
-   "tr": "māḍu / māḍi",
-   "kn": "ಮಾಡು / ಮಾಡಿ"
+   "id": "wc6b24b6eff",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "qu'est-ce que c'est ?",
+   "tr": "idu ēnu?",
+   "kn": "ಇದು ಏನು?",
+   "note": "le mot interrogatif prend la place de la réponse",
+   "aka": [
+    "n1u08-09"
+   ]
   },
   {
-   "id": "n1u15-10",
-   "cat": "Niveau 1 · 15. Demander : l'impératif",
-   "fr": "regardez, s'il vous plaît",
-   "tr": "dayaviṭṭu nōḍi",
-   "kn": "ದಯವಿಟ್ಟು ನೋಡಿ",
-   "note": "familier : nōḍu ; poli : nōḍi. Avec les parents de ton partenaire, toujours -i"
+   "id": "we87cbde04d",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "qui est-ce ?",
+   "tr": "avaru yāru?",
+   "kn": "ಅವರು ಯಾರು?",
+   "aka": [
+    "n1u08-10"
+   ]
   },
   {
-   "id": "n1u16-01",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je viens",
-   "tr": "nānu bartīni",
-   "kn": "ನಾನು ಬರ್ತೀನಿ"
+   "id": "wde400fbe91",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "ça coûte combien ?",
+   "tr": "idu eṣṭu?",
+   "kn": "ಇದು ಎಷ್ಟು?",
+   "aka": [
+    "n1u31-01"
+   ]
   },
   {
-   "id": "n1u16-02",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je vais",
-   "tr": "nānu hōgtīni",
-   "kn": "ನಾನು ಹೋಗ್ತೀನಿ"
+   "id": "w8379ed6d03",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "où est la maison ?",
+   "tr": "mane elli?",
+   "kn": "ಮನೆ ಎಲ್ಲಿ?"
   },
   {
-   "id": "n1u16-03",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je mange",
-   "tr": "nānu tintīni",
-   "kn": "ನಾನು ತಿಂತೀನಿ"
+   "id": "wce49b61340",
+   "cat": "Niveau 1 · Semaine 2 · mon, votre",
+   "fr": "c'est très bien",
+   "tr": "tumbā chennāgide",
+   "kn": "ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ"
   },
   {
-   "id": "n1u16-04",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je bois",
-   "tr": "nānu kuḍītīni",
-   "kn": "ನಾನು ಕುಡೀತೀನಿ"
+   "id": "w2af0c45cce",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "il y a / c'est là",
+   "tr": "ide",
+   "kn": "ಇದೆ",
+   "aka": [
+    "n1u05-04"
+   ]
   },
   {
-   "id": "n1u16-05",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je cuisine",
-   "tr": "nānu aḍige māḍtīni",
-   "kn": "ನಾನು ಅಡಿಗೆ ಮಾಡ್ತೀನಿ"
+   "id": "w6beb79c144",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "il y a du café ?",
+   "tr": "kāphi ide?",
+   "kn": "ಕಾಫಿ ಇದೆ?",
+   "note": "pour demander, on monte la voix",
+   "aka": [
+    "n1u05-10"
+   ]
   },
   {
-   "id": "n1u16-06",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je regarde",
-   "tr": "nānu nōḍtīni",
-   "kn": "ನಾನು ನೋಡ್ತೀನಿ"
+   "id": "w4ce4cb1eea",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "il y a de l'eau",
+   "tr": "nīru ide",
+   "kn": "ನೀರು ಇದೆ"
   },
   {
-   "id": "n1u16-07",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je parle",
-   "tr": "nānu mātāḍtīni",
-   "kn": "ನಾನು ಮಾತಾಡ್ತೀನಿ"
+   "id": "wc3e8d72c88",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "il n'y a pas de lait",
+   "tr": "hālu illa",
+   "kn": "ಹಾಲು ಇಲ್ಲ"
   },
   {
-   "id": "n1u16-08",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "j'apprends",
-   "tr": "nānu kalītīni",
-   "kn": "ನಾನು ಕಲೀತೀನಿ"
+   "id": "w91a6e4b912",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "je sais",
+   "tr": "gottu",
+   "kn": "ಗೊತ್ತು",
+   "aka": [
+    "n1u05-06"
+   ]
   },
   {
-   "id": "n1u16-09",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je dors",
-   "tr": "nānu malagtīni",
-   "kn": "ನಾನು ಮಲಗ್ತೀನಿ"
+   "id": "w64d83d4f91",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "je ne sais pas",
+   "tr": "gottilla",
+   "kn": "ಗೊತ್ತಿಲ್ಲ",
+   "aka": [
+    "n1u05-07"
+   ]
   },
   {
-   "id": "n1u16-10",
-   "cat": "Niveau 1 · 16. Je fais : le présent",
-   "fr": "je viens demain",
-   "tr": "nāḷe bartīni",
-   "kn": "ನಾಳೆ ಬರ್ತೀನಿ",
-   "note": "le même temps sert pour le présent et le futur : « je viens demain »"
+   "id": "wcb75b62c8e",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "ce n'est pas grave",
+   "tr": "paravāgilla",
+   "kn": "ಪರವಾಗಿಲ್ಲ",
+   "aka": [
+    "n1u02-03"
+   ]
   },
   {
-   "id": "n1u17-01",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "je fais",
-   "tr": "nānu māḍtīni",
-   "kn": "ನಾನು ಮಾಡ್ತೀನಿ"
+   "id": "w778791ecf9",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "pardon / excusez-moi",
+   "tr": "kṣamisi",
+   "kn": "ಕ್ಷಮಿಸಿ",
+   "aka": [
+    "n1u02-02"
+   ]
   },
   {
-   "id": "n1u17-02",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "tu fais",
-   "tr": "nīnu māḍtīya",
-   "kn": "ನೀನು ಮಾಡ್ತೀಯ"
+   "id": "w0e7bedc2ed",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "s'il vous plaît",
+   "tr": "dayaviṭṭu",
+   "kn": "ದಯವಿಟ್ಟು",
+   "aka": [
+    "n1u02-01"
+   ]
   },
   {
-   "id": "n1u17-03",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "vous faites (respect)",
-   "tr": "nīvu māḍtīra",
-   "kn": "ನೀವು ಮಾಡ್ತೀರ"
+   "id": "wb9ebb6505e",
+   "cat": "Niveau 1 · Semaine 2 · il y a, il n'y a pas",
+   "fr": "une minute",
+   "tr": "ondu nimiṣa",
+   "kn": "ಒಂದು ನಿಮಿಷ",
+   "aka": [
+    "n1u02-06"
+   ]
   },
   {
-   "id": "n1u17-04",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "il fait",
-   "tr": "avanu māḍtāne",
-   "kn": "ಅವನು ಮಾಡ್ತಾನೆ"
+   "id": "w64a6e5c6d0",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
+   "fr": "comment allez-vous ?",
+   "tr": "hēgiddīra?",
+   "kn": "ಹೇಗಿದ್ದೀರ?",
+   "aka": [
+    "n1u01-02"
+   ]
   },
   {
-   "id": "n1u17-05",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "elle fait",
-   "tr": "avaḷu māḍtāḷe",
-   "kn": "ಅವಳು ಮಾಡ್ತಾಳೆ"
+   "id": "w5c3bfa593d",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
+   "fr": "je vais bien",
+   "tr": "chennāgiddīni",
+   "kn": "ಚೆನ್ನಾಗಿದ್ದೀನಿ",
+   "aka": [
+    "n1u01-03"
+   ]
   },
   {
-   "id": "n1u17-06",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "il / elle fait (respect) ; ils font",
-   "tr": "avaru māḍtāre",
-   "kn": "ಅವರು ಮಾಡ್ತಾರೆ"
+   "id": "w7b02206150",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
+   "fr": "merci beaucoup",
+   "tr": "dhanyavādagaḷu",
+   "kn": "ಧನ್ಯವಾದಗಳು",
+   "aka": [
+    "n1u01-14"
+   ]
   },
   {
-   "id": "n1u17-07",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "nous faisons",
-   "tr": "nāvu māḍtīvi",
-   "kn": "ನಾವು ಮಾಡ್ತೀವಿ"
+   "id": "w84257f0bbe",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
+   "fr": "bravo !",
+   "tr": "shabhāsh!",
+   "kn": "ಶಭಾಷ್!",
+   "aka": [
+    "n1u01-18"
+   ]
   },
   {
-   "id": "n1u17-08",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "ça fait (chose, animal)",
-   "tr": "adu māḍutte",
-   "kn": "ಅದು ಮಾಡುತ್ತೆ"
+   "id": "wa581717971",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
+   "fr": "à bientôt (« je reviens »)",
+   "tr": "bartīni",
+   "kn": "ಬರ್ತೀನಿ",
+   "aka": [
+    "n1u01-13"
+   ]
   },
   {
-   "id": "n1u17-09",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "vous venez ?",
-   "tr": "nīvu bartīra?",
-   "kn": "ನೀವು ಬರ್ತೀರ?",
-   "note": "les terminaisons : -tīni, -tīya, -tīra, -tāne, -tāḷe, -tāre, -tīvi, -utte"
+   "id": "wc77adee0ce",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
+   "fr": "au revoir (« je vais et je reviens »)",
+   "tr": "hōgbartīni",
+   "kn": "ಹೋಗ್ಬರ್ತೀನಿ",
+   "note": "on ne dit jamais « je pars »",
+   "aka": [
+    "n1u01-11"
+   ]
   },
   {
-   "id": "n1u17-10",
-   "cat": "Niveau 1 · 17. Conjuguer un verbe",
-   "fr": "ma belle-mère cuisine très bien",
-   "tr": "nanna atte tumbā chennāgi aḍige māḍtāre",
-   "kn": "ನನ್ನ ಅತ್ತೆ ತುಂಬಾ ಚೆನ್ನಾಗಿ ಅಡಿಗೆ ಮಾಡ್ತಾರೆ",
-   "note": "avaru → -tāre, même au singulier, par respect"
+   "id": "w207082f924",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
+   "fr": "au revoir (réponse)",
+   "tr": "hōgbanni",
+   "kn": "ಹೋಗ್ಬನ್ನಿ",
+   "note": "« allez et revenez »",
+   "aka": [
+    "n1u01-12"
+   ]
   },
   {
-   "id": "n1u18-01",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "je ne fais pas",
-   "tr": "nānu māḍalla",
-   "kn": "ನಾನು ಮಾಡಲ್ಲ",
-   "note": "verbe + -alla, la même forme pour toutes les personnes"
-  },
-  {
-   "id": "n1u18-02",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "je ne viens pas",
-   "tr": "nānu barolla",
-   "kn": "ನಾನು ಬರೋಲ್ಲ"
-  },
-  {
-   "id": "n1u18-03",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "je ne mange pas de viande",
-   "tr": "nānu māmsa tinnalla",
-   "kn": "ನಾನು ಮಾಂಸ ತಿನ್ನಲ್ಲ"
-  },
-  {
-   "id": "n1u18-04",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "il ne vient pas",
-   "tr": "avanu barolla",
-   "kn": "ಅವನು ಬರೋಲ್ಲ"
-  },
-  {
-   "id": "n1u18-05",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "ça ne marche pas / impossible",
-   "tr": "āgalla",
-   "kn": "ಆಗಲ್ಲ"
-  },
-  {
-   "id": "n1u18-06",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "ça marche / c'est possible",
-   "tr": "āgutte",
-   "kn": "ಆಗುತ್ತೆ"
-  },
-  {
-   "id": "n1u18-07",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "je ne veux pas",
-   "tr": "bēḍa",
-   "kn": "ಬೇಡ"
-  },
-  {
-   "id": "n1u18-08",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "je ne veux rien",
-   "tr": "ēnū bēḍa",
-   "kn": "ಏನೂ ಬೇಡ"
-  },
-  {
-   "id": "n1u18-09",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "je suis végétarienne",
-   "tr": "nānu sasyāhāri",
-   "kn": "ನಾನು ಸಸ್ಯಾಹಾರಿ"
-  },
-  {
-   "id": "n1u18-10",
-   "cat": "Niveau 1 · 18. Dire non au verbe",
-   "fr": "ce n'est rien",
-   "tr": "ēnū illa",
-   "kn": "ಏನೂ ಇಲ್ಲ"
-  },
-  {
-   "id": "n1u19-01",
-   "cat": "Niveau 1 · 19. À table",
+   "id": "wf5acf40030",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
    "fr": "vous avez mangé ?",
    "tr": "ūṭa āytā?",
    "kn": "ಊಟ ಆಯ್ತಾ?",
-   "note": "la question de tous les jours, comme « ça va ? »"
+   "note": "la question de tous les jours, comme « ça va ? »",
+   "aka": [
+    "n1u19-01"
+   ]
   },
   {
-   "id": "n1u19-02",
-   "cat": "Niveau 1 · 19. À table",
+   "id": "w98dd2aed58",
+   "cat": "Niveau 1 · Semaine 2 · saluer",
    "fr": "oui, j'ai mangé",
    "tr": "ūṭa āytu",
-   "kn": "ಊಟ ಆಯ್ತು"
+   "kn": "ಊಟ ಆಯ್ತು",
+   "aka": [
+    "n1u19-02"
+   ]
   },
   {
-   "id": "n1u19-03",
-   "cat": "Niveau 1 · 19. À table",
-   "fr": "venez manger",
-   "tr": "ūṭakke banni",
-   "kn": "ಊಟಕ್ಕೆ ಬನ್ನಿ"
-  },
-  {
-   "id": "n1u19-04",
-   "cat": "Niveau 1 · 19. À table",
+   "id": "w6c0261a8f2",
+   "cat": "Niveau 1 · Semaine 2 · à table",
    "fr": "c'est délicieux",
    "tr": "tumbā ruchiyāgide",
-   "kn": "ತುಂಬಾ ರುಚಿಯಾಗಿದೆ"
+   "kn": "ತುಂಬಾ ರುಚಿಯಾಗಿದೆ",
+   "aka": [
+    "n1u19-04"
+   ]
   },
   {
-   "id": "n1u19-05",
-   "cat": "Niveau 1 · 19. À table",
-   "fr": "encore un peu",
-   "tr": "innu svalpa",
-   "kn": "ಇನ್ನು ಸ್ವಲ್ಪ"
-  },
-  {
-   "id": "n1u19-06",
-   "cat": "Niveau 1 · 19. À table",
-   "fr": "ça suffit, merci",
-   "tr": "sāku, dhanyavāda",
-   "kn": "ಸಾಕು, ಧನ್ಯವಾದ"
-  },
-  {
-   "id": "n1u19-07",
-   "cat": "Niveau 1 · 19. À table",
-   "fr": "j'ai bien mangé (« le ventre est plein »)",
+   "id": "w84553976d9",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "j'ai bien mangé (« ventre plein »)",
    "tr": "hoṭṭe tumbitu",
    "kn": "ಹೊಟ್ಟೆ ತುಂಬಿತು",
-   "note": "très utile : on te ressert souvent !"
+   "note": "très utile : on te ressert souvent",
+   "aka": [
+    "n1u19-07"
+   ]
   },
   {
-   "id": "n1u19-08",
-   "cat": "Niveau 1 · 19. À table",
-   "fr": "pas trop épicé, s'il vous plaît",
+   "id": "w9dd0c369c1",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "pas trop épicé",
    "tr": "khāra kammi",
-   "kn": "ಖಾರ ಕಮ್ಮಿ"
+   "kn": "ಖಾರ ಕಮ್ಮಿ",
+   "aka": [
+    "n1u19-08"
+   ]
   },
   {
-   "id": "n1u19-09",
-   "cat": "Niveau 1 · 19. À table",
-   "fr": "un peu d'eau, s'il vous plaît",
-   "tr": "svalpa nīru koḍi",
-   "kn": "ಸ್ವಲ್ಪ ನೀರು ಕೊಡಿ"
+   "id": "wacd11730be",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "ça suffit, merci",
+   "tr": "sāku, dhanyavāda",
+   "kn": "ಸಾಕು, ಧನ್ಯವಾದ",
+   "aka": [
+    "n1u19-06"
+   ]
   },
   {
-   "id": "n1u19-10",
-   "cat": "Niveau 1 · 19. À table",
-   "fr": "je peux aider ?",
-   "tr": "nānu sahāya māḍlā?",
-   "kn": "ನಾನು ಸಹಾಯ ಮಾಡ್ಲಾ?",
-   "note": "très apprécié à la cuisine"
+   "id": "w3b4002a013",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "venez manger",
+   "tr": "ūṭakke banni",
+   "kn": "ಊಟಕ್ಕೆ ಬನ್ನಿ",
+   "aka": [
+    "n1u19-03"
+   ]
   },
   {
-   "id": "n1u20-01",
-   "cat": "Niveau 1 · 20. Le temps",
-   "fr": "maintenant",
-   "tr": "īga",
-   "kn": "ಈಗ"
+   "id": "w6751904f4d",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "buvez du café",
+   "tr": "kāphi kuḍiyiri",
+   "kn": "ಕಾಫಿ ಕುಡಿಯಿರಿ"
   },
   {
-   "id": "n1u20-02",
-   "cat": "Niveau 1 · 20. Le temps",
+   "id": "w0b32e92ead",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "donnez de l'eau",
+   "tr": "nīru koḍi",
+   "kn": "ನೀರು ಕೊಡಿ"
+  },
+  {
+   "id": "w0d5708ac04",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "donnez du riz",
+   "tr": "anna koḍi",
+   "kn": "ಅನ್ನ ಕೊಡಿ"
+  },
+  {
+   "id": "wbe76434bfe",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "je n'en veux plus",
+   "tr": "innu bēḍa",
+   "kn": "ಇನ್ನು ಬೇಡ"
+  },
+  {
+   "id": "w4e3da25132",
+   "cat": "Niveau 1 · Semaine 2 · à table",
+   "fr": "un café chaud",
+   "tr": "bisi kāphi",
+   "kn": "ಬಿಸಿ ಕಾಫಿ"
+  },
+  {
+   "id": "we693ebb625",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "je suis étudiante",
+   "tr": "nānu vidyārthini",
+   "kn": "ನಾನು ವಿದ್ಯಾರ್ಥಿನಿ",
+   "note": "pas de verbe « être » : « moi étudiante »",
+   "aka": [
+    "n1u04-08"
+   ]
+  },
+  {
+   "id": "w6d36226173",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "c'est ma belle-mère",
+   "tr": "avaru nanna atte",
+   "kn": "ಅವರು ನನ್ನ ಅತ್ತೆ",
+   "aka": [
+    "n1u03-12"
+   ]
+  },
+  {
+   "id": "w5dc92ba39b",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "c'est ma maison",
+   "tr": "idu nanna mane",
+   "kn": "ಇದು ನನ್ನ ಮನೆ"
+  },
+  {
+   "id": "w23b2eab6bf",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "c'est votre maison ?",
+   "tr": "adu nimma mane?",
+   "kn": "ಅದು ನಿಮ್ಮ ಮನೆ?"
+  },
+  {
+   "id": "w6ecf1cae00",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "c'est mon ami",
+   "tr": "avanu nanna snēhita",
+   "kn": "ಅವನು ನನ್ನ ಸ್ನೇಹಿತ"
+  },
+  {
+   "id": "wf4b1f51089",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "ce n'est pas du café",
+   "tr": "idu kāphi alla",
+   "kn": "ಇದು ಕಾಫಿ ಅಲ್ಲ",
+   "note": "alla = « ce n'est pas » ; illa = « il n'y a pas »",
+   "aka": [
+    "n1u05-08"
+   ]
+  },
+  {
+   "id": "wd4c57bc090",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "ce n'est pas de l'eau",
+   "tr": "adu nīru alla",
+   "kn": "ಅದು ನೀರು ಅಲ್ಲ"
+  },
+  {
+   "id": "w2372e762c9",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "comment vous appelez-vous ?",
+   "tr": "nimma hesaru ēnu?",
+   "kn": "ನಿಮ್ಮ ಹೆಸರು ಏನು?",
+   "note": "« votre nom quoi ? »",
+   "aka": [
+    "n1u01-06"
+   ]
+  },
+  {
+   "id": "w7b8ff6ad11",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "d'où êtes-vous ?",
+   "tr": "nimma ūru yāvdu?",
+   "kn": "ನಿಮ್ಮ ಊರು ಯಾವ್ದು?",
+   "aka": [
+    "n1u04-03"
+   ]
+  },
+  {
+   "id": "w938b22a18d",
+   "cat": "Niveau 1 · Semaine 3 · « c'est » sans verbe",
+   "fr": "je suis française",
+   "tr": "nānu France-navaḷu",
+   "kn": "ನಾನು ಫ್ರಾನ್ಸ್‌ನವಳು",
+   "aka": [
+    "n1u03-11"
+   ]
+  },
+  {
+   "id": "wf810d9a1bd",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "à moi / pour moi",
+   "tr": "nanage",
+   "kn": "ನನಗೆ",
+   "note": "en kannada : « à moi le café est nécessaire »",
+   "aka": [
+    "n1u14-01"
+   ]
+  },
+  {
+   "id": "w3205a59ccf",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "je veux du café (« à moi café il faut »)",
+   "tr": "nanage kāphi bēku",
+   "kn": "ನನಗೆ ಕಾಫಿ ಬೇಕು",
+   "aka": [
+    "n1u14-05"
+   ]
+  },
+  {
+   "id": "w9f37edc3a4",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "je ne sais pas (« à moi pas connu »)",
+   "tr": "nanage gottilla",
+   "kn": "ನನಗೆ ಗೊತ್ತಿಲ್ಲ"
+  },
+  {
+   "id": "wa50a151ec1",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "j'aime la dosa",
+   "tr": "nanage dōse ishṭa",
+   "kn": "ನನಗೆ ದೋಸೆ ಇಷ್ಟ",
+   "note": "« à moi la dosa plaît »",
+   "aka": [
+    "n1u14-08"
+   ]
+  },
+  {
+   "id": "wa3f7c97c42",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "je suis contente",
+   "tr": "nanage khushi āytu",
+   "kn": "ನನಗೆ ಖುಷಿ ಆಯ್ತು",
+   "note": "« à moi la joie est arrivée »",
+   "aka": [
+    "n1u23-01"
+   ]
+  },
+  {
+   "id": "w32bee54758",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "je suis fatiguée",
+   "tr": "nanage susthu āgide",
+   "kn": "ನನಗೆ ಸುಸ್ತು ಆಗಿದೆ",
+   "aka": [
+    "n1u23-02"
+   ]
+  },
+  {
+   "id": "w5308c17a12",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "j'ai faim",
+   "tr": "nanage hasivu āgtide",
+   "kn": "ನನಗೆ ಹಸಿವು ಆಗ್ತಿದೆ",
+   "note": "« à moi la faim arrive »",
+   "aka": [
+    "n1u14-06"
+   ]
+  },
+  {
+   "id": "w6c383dbe8c",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "je ne comprends pas",
+   "tr": "nanage artha āgalla",
+   "kn": "ನನಗೆ ಅರ್ಥ ಆಗಲ್ಲ",
+   "aka": [
+    "n1u14-09"
+   ]
+  },
+  {
+   "id": "w87b66afe01",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "vous voulez du café ?",
+   "tr": "nimage kāphi bēkā?",
+   "kn": "ನಿಮಗೆ ಕಾಫಿ ಬೇಕಾ?",
+   "note": "nimage = à vous ; -ā = question"
+  },
+  {
+   "id": "wcfda8527e4",
+   "cat": "Niveau 1 · Semaine 3 · « à moi » (nanage)",
+   "fr": "qu'est-ce que tu veux ?",
+   "tr": "ninage ēnu bēku?",
+   "kn": "ನಿನಗೆ ಏನು ಬೇಕು?"
+  },
+  {
+   "id": "wf321065cc9",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je viens",
+   "tr": "nānu bartīni",
+   "kn": "ನಾನು ಬರ್ತೀನಿ",
+   "note": "-tīni = je, maintenant ou bientôt",
+   "aka": [
+    "n1u16-01"
+   ]
+  },
+  {
+   "id": "w1f223271c3",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je vais (y aller)",
+   "tr": "nānu hōgtīni",
+   "kn": "ನಾನು ಹೋಗ್ತೀನಿ",
+   "aka": [
+    "n1u16-02"
+   ]
+  },
+  {
+   "id": "w69defd075d",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je mange",
+   "tr": "nānu tintīni",
+   "kn": "ನಾನು ತಿಂತೀನಿ",
+   "aka": [
+    "n1u16-03"
+   ]
+  },
+  {
+   "id": "we374e2be37",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je bois",
+   "tr": "nānu kuḍītīni",
+   "kn": "ನಾನು ಕುಡೀತೀನಿ",
+   "aka": [
+    "n1u16-04"
+   ]
+  },
+  {
+   "id": "w719cac4b7d",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je fais",
+   "tr": "nānu māḍtīni",
+   "kn": "ನಾನು ಮಾಡ್ತೀನಿ",
+   "aka": [
+    "n1u17-01"
+   ]
+  },
+  {
+   "id": "w85a0b23404",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je regarde",
+   "tr": "nānu nōḍtīni",
+   "kn": "ನಾನು ನೋಡ್ತೀನಿ",
+   "aka": [
+    "n1u16-06"
+   ]
+  },
+  {
+   "id": "w6ed5dcc114",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je parle",
+   "tr": "nānu mātāḍtīni",
+   "kn": "ನಾನು ಮಾತಾಡ್ತೀನಿ",
+   "aka": [
+    "n1u16-07"
+   ]
+  },
+  {
+   "id": "w4aed67cf10",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "j'apprends",
+   "tr": "nānu kalītīni",
+   "kn": "ನಾನು ಕಲೀತೀನಿ",
+   "aka": [
+    "n1u16-08"
+   ]
+  },
+  {
+   "id": "w3c60c95c5a",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je dors",
+   "tr": "nānu malagtīni",
+   "kn": "ನಾನು ಮಲಗ್ತೀನಿ",
+   "aka": [
+    "n1u16-09"
+   ]
+  },
+  {
+   "id": "w50bf24060a",
+   "cat": "Niveau 1 · Semaine 3 · je fais (présent)",
+   "fr": "je viens demain",
+   "tr": "nāḷe bartīni",
+   "kn": "ನಾಳೆ ಬರ್ತೀನಿ",
+   "note": "le même temps sert pour le futur",
+   "aka": [
+    "n1u16-10"
+   ]
+  },
+  {
+   "id": "wab6dc7acfa",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "vous venez ?",
+   "tr": "nīvu bartīra?",
+   "kn": "ನೀವು ಬರ್ತೀರ?",
+   "note": "-tīra = vous",
+   "aka": [
+    "n1u17-09"
+   ]
+  },
+  {
+   "id": "w915cb24934",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "tu viens ?",
+   "tr": "nīnu bartīya?",
+   "kn": "ನೀನು ಬರ್ತೀಯ?",
+   "note": "-tīya = tu"
+  },
+  {
+   "id": "w2263db2cff",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "il / elle vient (respect)",
+   "tr": "avaru bartāre",
+   "kn": "ಅವರು ಬರ್ತಾರೆ",
+   "note": "-tāre = il, elle (respect), ils"
+  },
+  {
+   "id": "wa32b5ec4a9",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "il vient",
+   "tr": "avanu bartāne",
+   "kn": "ಅವನು ಬರ್ತಾನೆ",
+   "note": "-tāne = il"
+  },
+  {
+   "id": "w8542c838ba",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "elle vient",
+   "tr": "avaḷu bartāḷe",
+   "kn": "ಅವಳು ಬರ್ತಾಳೆ",
+   "note": "-tāḷe = elle"
+  },
+  {
+   "id": "wbd4b98473d",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "nous y allons",
+   "tr": "nāvu hōgtīvi",
+   "kn": "ನಾವು ಹೋಗ್ತೀವಿ",
+   "note": "-tīvi = nous"
+  },
+  {
+   "id": "w1461c42952",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "que faites-vous ?",
+   "tr": "nīvu ēnu māḍtīra?",
+   "kn": "ನೀವು ಏನು ಮಾಡ್ತೀರ?"
+  },
+  {
+   "id": "wc069415ce8",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "il boit du café (respect)",
+   "tr": "avaru kāphi kuḍītāre",
+   "kn": "ಅವರು ಕಾಫಿ ಕುಡೀತಾರೆ"
+  },
+  {
+   "id": "w2f45a1fb82",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "maman fait la cuisine",
+   "tr": "amma aḍige māḍtāre",
+   "kn": "ಅಮ್ಮ ಅಡಿಗೆ ಮಾಡ್ತಾರೆ"
+  },
+  {
+   "id": "w4b035f848d",
+   "cat": "Niveau 1 · Semaine 3 · tu, vous, il (présent)",
+   "fr": "je bois du café",
+   "tr": "nānu kāphi kuḍītīni",
+   "kn": "ನಾನು ಕಾಫಿ ಕುಡೀತೀನಿ"
+  },
+  {
+   "id": "wbf032efd38",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "je ne viens pas",
+   "tr": "nānu barolla",
+   "kn": "ನಾನು ಬರೋಲ್ಲ",
+   "note": "verbe + -alla / -olla, la même forme pour tous",
+   "aka": [
+    "n1u18-02"
+   ]
+  },
+  {
+   "id": "w72032b0791",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "je ne mange pas",
+   "tr": "nānu tinnalla",
+   "kn": "ನಾನು ತಿನ್ನಲ್ಲ"
+  },
+  {
+   "id": "wf2b3c0280b",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "il ne vient pas",
+   "tr": "avanu barolla",
+   "kn": "ಅವನು ಬರೋಲ್ಲ",
+   "aka": [
+    "n1u18-04"
+   ]
+  },
+  {
+   "id": "w7a5947cb2e",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "ça ne marche pas / impossible",
+   "tr": "āgalla",
+   "kn": "ಆಗಲ್ಲ",
+   "aka": [
+    "n1u18-05"
+   ]
+  },
+  {
+   "id": "w780edbb169",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "ça marche / c'est possible",
+   "tr": "āgutte",
+   "kn": "ಆಗುತ್ತೆ",
+   "aka": [
+    "n1u18-06"
+   ]
+  },
+  {
+   "id": "w300bb10f99",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "je ne veux rien",
+   "tr": "ēnū bēḍa",
+   "kn": "ಏನೂ ಬೇಡ",
+   "aka": [
+    "n1u18-08"
+   ]
+  },
+  {
+   "id": "wa77576f892",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "je ne mange pas de viande",
+   "tr": "nānu māmsa tinnalla",
+   "kn": "ನಾನು ಮಾಂಸ ತಿನ್ನಲ್ಲ",
+   "aka": [
+    "n1u18-03"
+   ]
+  },
+  {
+   "id": "wc5d1891d62",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "je ne viens pas aujourd'hui",
+   "tr": "ivattu barolla",
+   "kn": "ಇವತ್ತು ಬರೋಲ್ಲ"
+  },
+  {
+   "id": "wfabd476207",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "ce n'est rien",
+   "tr": "ēnū illa",
+   "kn": "ಏನೂ ಇಲ್ಲ",
+   "aka": [
+    "n1u18-10"
+   ]
+  },
+  {
+   "id": "wdfcb5e97a2",
+   "cat": "Niveau 1 · Semaine 3 · dire non",
+   "fr": "je n'aime pas",
+   "tr": "nanage ishṭa illa",
+   "kn": "ನನಗೆ ಇಷ್ಟ ಇಲ್ಲ"
+  },
+  {
+   "id": "wb30196a279",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "à la maison",
+   "tr": "maneyalli",
+   "kn": "ಮನೆಯಲ್ಲಿ",
+   "note": "« dans, à » : -alli (mane → maneyalli)",
+   "aka": [
+    "n1u11-08"
+   ]
+  },
+  {
+   "id": "w10bf91f916",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "c'est ici",
+   "tr": "illi ide",
+   "kn": "ಇಲ್ಲಿ ಇದೆ"
+  },
+  {
+   "id": "wabbf74c359",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "c'est là-bas",
+   "tr": "alli ide",
+   "kn": "ಅಲ್ಲಿ ಇದೆ"
+  },
+  {
+   "id": "w17c6fe1666",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "où allez-vous ?",
+   "tr": "elli hōgtīra?",
+   "kn": "ಎಲ್ಲಿ ಹೋಗ್ತೀರ?"
+  },
+  {
+   "id": "w962dd13b3c",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "où est le café ?",
+   "tr": "kāphi elli ide?",
+   "kn": "ಕಾಫಿ ಎಲ್ಲಿ ಇದೆ?"
+  },
+  {
+   "id": "we5f20f8bbb",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "où êtes-vous ?",
+   "tr": "nīvu elli iddīra?",
+   "kn": "ನೀವು ಎಲ್ಲಿ ಇದ್ದೀರ?"
+  },
+  {
+   "id": "we4548b7631",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "je suis à la maison",
+   "tr": "nānu maneyalli iddīni",
+   "kn": "ನಾನು ಮನೆಯಲ್ಲಿ ಇದ್ದೀನಿ",
+   "note": "iddīni = je suis (quelque part)"
+  },
+  {
+   "id": "w4982e17b8f",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "j'habite à Paris",
+   "tr": "nānu Paris-alli iddīni",
+   "kn": "ನಾನು ಪ್ಯಾರಿಸ್‌ನಲ್ಲಿ ಇದ್ದೀನಿ",
+   "aka": [
+    "n1u11-10"
+   ]
+  },
+  {
+   "id": "w39a1fa73a7",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "dans la cuisine",
+   "tr": "aḍige maneyalli",
+   "kn": "ಅಡಿಗೆ ಮನೆಯಲ್ಲಿ",
+   "aka": [
+    "n1u11-09"
+   ]
+  },
+  {
+   "id": "w94687809a8",
+   "cat": "Niveau 1 · Semaine 3 · où ?",
+   "fr": "où sont les toilettes ?",
+   "tr": "śaucālaya elli ide?",
+   "kn": "ಶೌಚಾಲಯ ಎಲ್ಲಿ ಇದೆ?"
+  },
+  {
+   "id": "w5108da9a21",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
    "fr": "aujourd'hui",
    "tr": "ivattu",
-   "kn": "ಇವತ್ತು"
+   "kn": "ಇವತ್ತು",
+   "aka": [
+    "n1u20-02"
+   ]
   },
   {
-   "id": "n1u20-03",
-   "cat": "Niveau 1 · 20. Le temps",
+   "id": "w339603de46",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
    "fr": "demain",
    "tr": "nāḷe",
-   "kn": "ನಾಳೆ"
+   "kn": "ನಾಳೆ",
+   "aka": [
+    "n1u20-03"
+   ]
   },
   {
-   "id": "n1u20-04",
-   "cat": "Niveau 1 · 20. Le temps",
+   "id": "w2b5b3ae89c",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
    "fr": "hier",
    "tr": "ninne",
-   "kn": "ನಿನ್ನೆ"
+   "kn": "ನಿನ್ನೆ",
+   "aka": [
+    "n1u20-04"
+   ]
   },
   {
-   "id": "n1u20-05",
-   "cat": "Niveau 1 · 20. Le temps",
+   "id": "w2150e53c99",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
    "fr": "le matin",
    "tr": "beḷigge",
-   "kn": "ಬೆಳಿಗ್ಗೆ"
+   "kn": "ಬೆಳಿಗ್ಗೆ",
+   "aka": [
+    "n1u20-05"
+   ]
   },
   {
-   "id": "n1u20-06",
-   "cat": "Niveau 1 · 20. Le temps",
-   "fr": "l'après-midi",
-   "tr": "madhyāhna",
-   "kn": "ಮಧ್ಯಾಹ್ನ"
-  },
-  {
-   "id": "n1u20-07",
-   "cat": "Niveau 1 · 20. Le temps",
+   "id": "wac2c25c237",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
    "fr": "le soir",
    "tr": "sanje",
-   "kn": "ಸಂಜೆ"
+   "kn": "ಸಂಜೆ",
+   "aka": [
+    "n1u20-07"
+   ]
   },
   {
-   "id": "n1u20-08",
-   "cat": "Niveau 1 · 20. Le temps",
+   "id": "w17d7e3a67d",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
    "fr": "la nuit",
    "tr": "rātri",
-   "kn": "ರಾತ್ರಿ"
+   "kn": "ರಾತ್ರಿ",
+   "aka": [
+    "n1u20-08"
+   ]
   },
   {
-   "id": "n1u20-09",
-   "cat": "Niveau 1 · 20. Le temps",
+   "id": "wafd9df5513",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
    "fr": "après / plus tard",
    "tr": "āmēle",
-   "kn": "ಆಮೇಲೆ"
+   "kn": "ಆಮೇಲೆ",
+   "aka": [
+    "n1u20-09"
+   ]
   },
   {
-   "id": "n1u20-10",
-   "cat": "Niveau 1 · 20. Le temps",
+   "id": "w2ee6104a46",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
    "fr": "vite / tôt",
    "tr": "bēga",
-   "kn": "ಬೇಗ"
+   "kn": "ಬೇಗ",
+   "aka": [
+    "n1u20-10"
+   ]
   },
   {
-   "id": "n1u21-01",
-   "cat": "Niveau 1 · 21. Le passé",
+   "id": "we281c7b736",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
+   "fr": "ce soir",
+   "tr": "ivattu sanje",
+   "kn": "ಇವತ್ತು ಸಂಜೆ"
+  },
+  {
+   "id": "wc76a0b8619",
+   "cat": "Niveau 1 · Semaine 3 · quand ?",
+   "fr": "demain matin",
+   "tr": "nāḷe beḷigge",
+   "kn": "ನಾಳೆ ಬೆಳಿಗ್ಗೆ"
+  },
+  {
+   "id": "wbbb3dda141",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
    "fr": "je suis venue",
    "tr": "nānu bande",
-   "kn": "ನಾನು ಬಂದೆ"
+   "kn": "ನಾನು ಬಂದೆ",
+   "note": "passé « je » : terminaison -e",
+   "aka": [
+    "n1u21-01"
+   ]
   },
   {
-   "id": "n1u21-02",
-   "cat": "Niveau 1 · 21. Le passé",
+   "id": "waa788e8d0a",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
    "fr": "je suis allée",
    "tr": "nānu hōde",
-   "kn": "ನಾನು ಹೋದೆ"
+   "kn": "ನಾನು ಹೋದೆ",
+   "aka": [
+    "n1u21-02"
+   ]
   },
   {
-   "id": "n1u21-03",
-   "cat": "Niveau 1 · 21. Le passé",
+   "id": "w30654dd135",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
    "fr": "j'ai mangé",
    "tr": "nānu tinde",
-   "kn": "ನಾನು ತಿಂದೆ"
+   "kn": "ನಾನು ತಿಂದೆ",
+   "aka": [
+    "n1u21-03"
+   ]
   },
   {
-   "id": "n1u21-04",
-   "cat": "Niveau 1 · 21. Le passé",
+   "id": "w5823ba87a3",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
    "fr": "j'ai bu",
    "tr": "nānu kuḍide",
-   "kn": "ನಾನು ಕುಡಿದೆ"
+   "kn": "ನಾನು ಕುಡಿದೆ",
+   "aka": [
+    "n1u21-04"
+   ]
   },
   {
-   "id": "n1u21-05",
-   "cat": "Niveau 1 · 21. Le passé",
-   "fr": "j'ai fait",
-   "tr": "nānu māḍide",
-   "kn": "ನಾನು ಮಾಡಿದೆ"
-  },
-  {
-   "id": "n1u21-06",
-   "cat": "Niveau 1 · 21. Le passé",
+   "id": "we1b6a18d99",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
    "fr": "j'ai vu",
    "tr": "nānu nōḍide",
-   "kn": "ನಾನು ನೋಡಿದೆ"
+   "kn": "ನಾನು ನೋಡಿದೆ",
+   "aka": [
+    "n1u21-06"
+   ]
   },
   {
-   "id": "n1u21-07",
-   "cat": "Niveau 1 · 21. Le passé",
+   "id": "wfd6ba3d5af",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
+   "fr": "j'ai fait",
+   "tr": "nānu māḍide",
+   "kn": "ನಾನು ಮಾಡಿದೆ",
+   "aka": [
+    "n1u21-05"
+   ]
+  },
+  {
+   "id": "wda1cb17007",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
    "fr": "j'ai parlé",
    "tr": "nānu mātāḍide",
-   "kn": "ನಾನು ಮಾತಾಡಿದೆ"
+   "kn": "ನಾನು ಮಾತಾಡಿದೆ",
+   "aka": [
+    "n1u21-07"
+   ]
   },
   {
-   "id": "n1u21-08",
-   "cat": "Niveau 1 · 21. Le passé",
+   "id": "wced9ff9367",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
    "fr": "j'ai appris",
    "tr": "nānu kalite",
-   "kn": "ನಾನು ಕಲಿತೆ"
+   "kn": "ನಾನು ಕಲಿತೆ",
+   "aka": [
+    "n1u21-08"
+   ]
   },
   {
-   "id": "n1u21-09",
-   "cat": "Niveau 1 · 21. Le passé",
-   "fr": "hier je suis allée au temple",
-   "tr": "ninne nānu dēvasthānakke hōde",
-   "kn": "ನಿನ್ನೆ ನಾನು ದೇವಸ್ಥಾನಕ್ಕೆ ಹೋದೆ",
-   "note": "passé « je » : terminaison -e (bande, hōde, māḍide)"
+   "id": "wdc11efd83a",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
+   "fr": "hier je suis venue",
+   "tr": "ninne nānu bande",
+   "kn": "ನಿನ್ನೆ ನಾನು ಬಂದೆ"
   },
   {
-   "id": "n1u21-10",
-   "cat": "Niveau 1 · 21. Le passé",
-   "fr": "je suis venue de France",
-   "tr": "nānu France-inda bande",
-   "kn": "ನಾನು ಫ್ರಾನ್ಸ್‌ನಿಂದ ಬಂದೆ",
-   "note": "« depuis / de » : -inda"
+   "id": "we9863061e6",
+   "cat": "Niveau 1 · Semaine 4 · le passé",
+   "fr": "qu'avez-vous fait ?",
+   "tr": "nīvu ēnu māḍidri?",
+   "kn": "ನೀವು ಏನು ಮಾಡಿದ್ರಿ?"
   },
   {
-   "id": "n1u22-01",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
+   "id": "w66b12829d4",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
    "fr": "j'ai compris",
    "tr": "artha āytu",
-   "kn": "ಅರ್ಥ ಆಯ್ತು"
+   "kn": "ಅರ್ಥ ಆಯ್ತು",
+   "aka": [
+    "n1u22-01"
+   ]
   },
   {
-   "id": "n1u22-02",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
+   "id": "wd497e5e9f2",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
+   "fr": "redites-le",
+   "tr": "matte hēḷi",
+   "kn": "ಮತ್ತೆ ಹೇಳಿ",
+   "aka": [
+    "n1u22-03"
+   ]
+  },
+  {
+   "id": "w3af688aa33",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
+   "fr": "écrivez-le",
+   "tr": "bareyiri",
+   "kn": "ಬರೆಯಿರಿ",
+   "aka": [
+    "n1u22-09"
+   ]
+  },
+  {
+   "id": "wc04fbc3fc0",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
+   "fr": "corrigez-moi (« si je me trompe, dites »)",
+   "tr": "tappidre hēḷi",
+   "kn": "ತಪ್ಪಿದ್ರೆ ಹೇಳಿ",
+   "aka": [
+    "n1u22-10"
+   ]
+  },
+  {
+   "id": "w28dc198de4",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
+   "fr": "ça veut dire quoi, … ?",
+   "tr": "… andre ēnu?",
+   "kn": "… ಅಂದ್ರೆ ಏನು?",
+   "aka": [
+    "n1u22-07"
+   ]
+  },
+  {
+   "id": "w695b9be78c",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
+   "fr": "je ne connais pas ce mot",
+   "tr": "ī pada gottilla",
+   "kn": "ಈ ಪದ ಗೊತ್ತಿಲ್ಲ",
+   "aka": [
+    "n1u22-08"
+   ]
+  },
+  {
+   "id": "w12b1e1b0f3",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
    "fr": "parlez un peu plus lentement",
    "tr": "svalpa nidhāna mātāḍi",
-   "kn": "ಸ್ವಲ್ಪ ನಿಧಾನ ಮಾತಾಡಿ"
+   "kn": "ಸ್ವಲ್ಪ ನಿಧಾನ ಮಾತಾಡಿ",
+   "aka": [
+    "n1u22-02"
+   ]
   },
   {
-   "id": "n1u22-03",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
-   "fr": "redites-le, s'il vous plaît",
-   "tr": "matte hēḷi",
-   "kn": "ಮತ್ತೆ ಹೇಳಿ"
+   "id": "wa20ec6db16",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
+   "fr": "comment dit-on en kannada ?",
+   "tr": "Kannaḍadalli hēge hēḷōdu?",
+   "kn": "ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಹೇಳೋದು?"
   },
   {
-   "id": "n1u22-04",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
+   "id": "w82aeeafde1",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
    "fr": "j'apprends le kannada",
    "tr": "nānu Kannaḍa kalītā iddīni",
    "kn": "ನಾನು ಕನ್ನಡ ಕಲೀತಾ ಇದ್ದೀನಿ",
-   "note": "ça fait toujours plaisir à entendre"
+   "note": "ça fait toujours plaisir à entendre",
+   "aka": [
+    "n1u22-04"
+   ]
   },
   {
-   "id": "n1u22-05",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
+   "id": "w5645795fcf",
+   "cat": "Niveau 1 · Semaine 4 · comprendre et apprendre",
    "fr": "je parle un peu kannada",
    "tr": "nanage svalpa Kannaḍa barutte",
    "kn": "ನನಗೆ ಸ್ವಲ್ಪ ಕನ್ನಡ ಬರುತ್ತೆ",
-   "note": "« à moi, un peu de kannada vient »"
+   "note": "« à moi un peu de kannada vient »",
+   "aka": [
+    "n1u22-05"
+   ]
   },
   {
-   "id": "n1u22-06",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
-   "fr": "comment dit-on ça en kannada ?",
-   "tr": "idanna Kannaḍadalli hēge hēḷōdu?",
-   "kn": "ಇದನ್ನ ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಹೇಳೋದು?"
-  },
-  {
-   "id": "n1u22-07",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
-   "fr": "ça veut dire quoi, … ?",
-   "tr": "… andre ēnu?",
-   "kn": "… ಅಂದ್ರೆ ಏನು?"
-  },
-  {
-   "id": "n1u22-08",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
-   "fr": "je ne connais pas ce mot",
-   "tr": "ī pada gottilla",
-   "kn": "ಈ ಪದ ಗೊತ್ತಿಲ್ಲ"
-  },
-  {
-   "id": "n1u22-09",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
-   "fr": "écrivez-le, s'il vous plaît",
-   "tr": "bareyiri",
-   "kn": "ಬರೆಯಿರಿ"
-  },
-  {
-   "id": "n1u22-10",
-   "cat": "Niveau 1 · 22. Comprendre et apprendre",
-   "fr": "corrigez-moi, s'il vous plaît",
-   "tr": "tappidre hēḷi",
-   "kn": "ತಪ್ಪಿದ್ರೆ ಹೇಳಿ",
-   "note": "littéralement « si je me trompe, dites-le »"
-  },
-  {
-   "id": "n1u23-01",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "je suis contente",
-   "tr": "nanage khushi āytu",
-   "kn": "ನನಗೆ ಖುಷಿ ಆಯ್ತು"
-  },
-  {
-   "id": "n1u23-02",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "je suis fatiguée",
-   "tr": "nanage susthu āgide",
-   "kn": "ನನಗೆ ಸುಸ್ತು ಆಗಿದೆ"
-  },
-  {
-   "id": "n1u23-03",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "j'ai sommeil",
-   "tr": "nanage nidde bartide",
-   "kn": "ನನಗೆ ನಿದ್ದೆ ಬರ್ತಿದೆ"
-  },
-  {
-   "id": "n1u23-04",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "j'ai froid",
-   "tr": "nanage chaḷi āgtide",
-   "kn": "ನನಗೆ ಚಳಿ ಆಗ್ತಿದೆ"
-  },
-  {
-   "id": "n1u23-05",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "il fait chaud",
-   "tr": "sekhe ide",
-   "kn": "ಸೆಕೆ ಇದೆ"
-  },
-  {
-   "id": "n1u23-06",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "je ne me sens pas bien",
-   "tr": "nanage huṣāru illa",
-   "kn": "ನನಗೆ ಹುಷಾರಿಲ್ಲ"
-  },
-  {
-   "id": "n1u23-07",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "j'ai mal au ventre",
-   "tr": "hoṭṭe nōvu",
-   "kn": "ಹೊಟ್ಟೆ ನೋವು"
-  },
-  {
-   "id": "n1u23-08",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "j'ai mal à la tête",
-   "tr": "tale nōvu",
-   "kn": "ತಲೆ ನೋವು"
-  },
-  {
-   "id": "n1u23-09",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "la peur",
-   "tr": "bhaya",
-   "kn": "ಭಯ"
-  },
-  {
-   "id": "n1u23-10",
-   "cat": "Niveau 1 · 23. Sentiments et santé",
-   "fr": "faites attention à vous",
-   "tr": "huṣāru",
-   "kn": "ಹುಷಾರು"
-  },
-  {
-   "id": "n1u24-01",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "onze (11)",
-   "tr": "hannondu",
-   "kn": "ಹನ್ನೊಂದು"
-  },
-  {
-   "id": "n1u24-02",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "douze (12)",
-   "tr": "hanneraḍu",
-   "kn": "ಹನ್ನೆರಡು"
-  },
-  {
-   "id": "n1u24-03",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "vingt (20)",
-   "tr": "ippattu",
-   "kn": "ಇಪ್ಪತ್ತು"
-  },
-  {
-   "id": "n1u24-04",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "trente (30)",
-   "tr": "mūvattu",
-   "kn": "ಮೂವತ್ತು"
-  },
-  {
-   "id": "n1u24-05",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "cinquante (50)",
-   "tr": "aivattu",
-   "kn": "ಐವತ್ತು"
-  },
-  {
-   "id": "n1u24-06",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "cent (100)",
-   "tr": "nūru",
-   "kn": "ನೂರು"
-  },
-  {
-   "id": "n1u24-07",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "cinq cents (500)",
-   "tr": "ainūru",
-   "kn": "ಐನೂರು"
-  },
-  {
-   "id": "n1u24-08",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "mille (1000)",
-   "tr": "sāvira",
-   "kn": "ಸಾವಿರ"
-  },
-  {
-   "id": "n1u24-09",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "la moitié",
-   "tr": "ardha",
-   "kn": "ಅರ್ಧ"
-  },
-  {
-   "id": "n1u24-10",
-   "cat": "Niveau 1 · 24. Les nombres jusqu'à 1000",
-   "fr": "un et demi",
-   "tr": "ondūvare",
-   "kn": "ಒಂದೂವರೆ"
-  },
-  {
-   "id": "n1u25-01",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "grand",
-   "tr": "doḍḍa",
-   "kn": "ದೊಡ್ಡ"
-  },
-  {
-   "id": "n1u25-02",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "petit",
-   "tr": "chikka",
-   "kn": "ಚಿಕ್ಕ"
-  },
-  {
-   "id": "n1u25-03",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "neuf / nouveau",
-   "tr": "hosa",
-   "kn": "ಹೊಸ"
-  },
-  {
-   "id": "n1u25-04",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "vieux",
-   "tr": "haḷe",
-   "kn": "ಹಳೆ"
-  },
-  {
-   "id": "n1u25-05",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "bon / gentil",
-   "tr": "oḷḷeya",
-   "kn": "ಒಳ್ಳೆಯ"
-  },
-  {
-   "id": "n1u25-06",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "mauvais",
-   "tr": "keṭṭa",
-   "kn": "ಕೆಟ್ಟ"
-  },
-  {
-   "id": "n1u25-07",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "chaud (objet)",
-   "tr": "bisi",
-   "kn": "ಬಿಸಿ"
-  },
-  {
-   "id": "n1u25-08",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "difficile",
-   "tr": "kaṣṭa",
-   "kn": "ಕಷ್ಟ"
-  },
-  {
-   "id": "n1u25-09",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "facile",
-   "tr": "sulabha",
-   "kn": "ಸುಲಭ"
-  },
-  {
-   "id": "n1u25-10",
-   "cat": "Niveau 1 · 25. Décrire",
-   "fr": "le kannada est un peu difficile",
-   "tr": "Kannaḍa svalpa kaṣṭa",
-   "kn": "ಕನ್ನಡ ಸ್ವಲ್ಪ ಕಷ್ಟ",
-   "note": "encore sans verbe « être »"
-  },
-  {
-   "id": "n1u26-01",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "rouge",
-   "tr": "kempu",
-   "kn": "ಕೆಂಪು"
-  },
-  {
-   "id": "n1u26-02",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "vert",
-   "tr": "hasiru",
-   "kn": "ಹಸಿರು"
-  },
-  {
-   "id": "n1u26-03",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "bleu",
-   "tr": "nīli",
-   "kn": "ನೀಲಿ"
-  },
-  {
-   "id": "n1u26-04",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "jaune",
-   "tr": "haḷadi",
-   "kn": "ಹಳದಿ"
-  },
-  {
-   "id": "n1u26-05",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "blanc",
-   "tr": "biḷi",
-   "kn": "ಬಿಳಿ"
-  },
-  {
-   "id": "n1u26-06",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "noir",
-   "tr": "kappu",
-   "kn": "ಕಪ್ಪು"
-  },
-  {
-   "id": "n1u26-07",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "la couleur",
-   "tr": "baṇṇa",
-   "kn": "ಬಣ್ಣ"
-  },
-  {
-   "id": "n1u26-08",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "le sari",
-   "tr": "sīre",
-   "kn": "ಸೀರೆ"
-  },
-  {
-   "id": "n1u26-09",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "les fleurs",
-   "tr": "hūvu",
-   "kn": "ಹೂವು"
-  },
-  {
-   "id": "n1u26-10",
-   "cat": "Niveau 1 · 26. Les couleurs",
-   "fr": "ce sari est très beau",
-   "tr": "ī sīre tumbā chennāgide",
-   "kn": "ಈ ಸೀರೆ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ"
-  },
-  {
-   "id": "n1u27-01",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "je t'aime",
-   "tr": "nā ninna prītistīni",
-   "kn": "ನಾ ನಿನ್ನ ಪ್ರೀತಿಸ್ತೀನಿ",
-   "note": "forme parlée ; à l'écrit : nānu ninnannu prītisuttēne"
-  },
-  {
-   "id": "n1u27-02",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "mon trésor",
-   "tr": "chinna",
-   "kn": "ಚಿನ್ನ",
-   "note": "littéralement « or »"
-  },
-  {
-   "id": "n1u27-03",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "un bisou",
-   "tr": "muttu",
-   "kn": "ಮುತ್ತು"
-  },
-  {
-   "id": "n1u27-04",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "tu me manques",
-   "tr": "ninna nenapāgtide",
-   "kn": "ನಿನ್ನ ನೆನಪಾಗ್ತಿದೆ"
-  },
-  {
-   "id": "n1u27-05",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "tu es très beau / très belle",
-   "tr": "nīnu tumbā chennāgiddīya",
-   "kn": "ನೀನು ತುಂಬಾ ಚೆನ್ನಾಗಿದ್ದೀಯ"
-  },
-  {
-   "id": "n1u27-06",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "l'amour",
-   "tr": "prīti",
-   "kn": "ಪ್ರೀತಿ"
-  },
-  {
-   "id": "n1u27-07",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "viens ici",
-   "tr": "illi bā",
-   "kn": "ಇಲ್ಲಿ ಬಾ"
-  },
-  {
-   "id": "n1u27-08",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "qu'est-ce que tu veux manger ?",
-   "tr": "ninage ēnu tinnōke bēku?",
-   "kn": "ನಿನಗೆ ಏನು ತಿನ್ನೋಕೆ ಬೇಕು?"
-  },
-  {
-   "id": "n1u27-09",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "qu'est-ce que tu fais ?",
-   "tr": "ēnu māḍtā iddīya?",
-   "kn": "ಏನು ಮಾಡ್ತಾ ಇದ್ದೀಯ?"
-  },
-  {
-   "id": "n1u27-10",
-   "cat": "Niveau 1 · 27. Avec ton partenaire",
-   "fr": "dors bien",
-   "tr": "chennāgi malkō",
-   "kn": "ಚೆನ್ನಾಗಿ ಮಲ್ಕೊ"
-  },
-  {
-   "id": "n1u28-01",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
+   "id": "w803ab37c3c",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
    "fr": "allons-y",
    "tr": "hōgōṇa",
-   "kn": "ಹೋಗೋಣ"
+   "kn": "ಹೋಗೋಣ",
+   "note": "-ōṇa = « faisons »",
+   "aka": [
+    "n1u28-01"
+   ]
   },
   {
-   "id": "n1u28-02",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
+   "id": "w13959857bc",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
    "fr": "mangeons",
    "tr": "tinnōṇa",
-   "kn": "ತಿನ್ನೋಣ"
+   "kn": "ತಿನ್ನೋಣ",
+   "aka": [
+    "n1u28-02"
+   ]
   },
   {
-   "id": "n1u28-03",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
+   "id": "w50d5e31d86",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
    "fr": "regardons",
    "tr": "nōḍōṇa",
-   "kn": "ನೋಡೋಣ"
+   "kn": "ನೋಡೋಣ",
+   "aka": [
+    "n1u28-03"
+   ]
   },
   {
-   "id": "n1u28-04",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
+   "id": "w475584008d",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
    "fr": "parlons",
    "tr": "mātāḍōṇa",
-   "kn": "ಮಾತಾಡೋಣ"
+   "kn": "ಮಾತಾಡೋಣ",
+   "aka": [
+    "n1u28-04"
+   ]
   },
   {
-   "id": "n1u28-05",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
+   "id": "wead9a91607",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
    "fr": "à demain (« on se voit demain »)",
    "tr": "nāḷe sigōṇa",
-   "kn": "ನಾಳೆ ಸಿಗೋಣ"
+   "kn": "ನಾಳೆ ಸಿಗೋಣ",
+   "aka": [
+    "n1u28-05"
+   ]
   },
   {
-   "id": "n1u28-06",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
+   "id": "w30fde3b893",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
    "fr": "on se parle plus tard",
    "tr": "āmēle mātāḍōṇa",
-   "kn": "ಆಮೇಲೆ ಮಾತಾಡೋಣ"
+   "kn": "ಆಮೇಲೆ ಮಾತಾಡೋಣ",
+   "aka": [
+    "n1u28-06"
+   ]
   },
   {
-   "id": "n1u28-07",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
-   "fr": "allons au temple",
-   "tr": "dēvasthānakke hōgōṇa",
-   "kn": "ದೇವಸ್ಥಾನಕ್ಕೆ ಹೋಗೋಣ",
-   "note": "« vers » : -ge / -kke"
+   "id": "w7571e120fb",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
+   "fr": "mangeons ensemble",
+   "tr": "ūṭa māḍōṇa",
+   "kn": "ಊಟ ಮಾಡೋಣ"
   },
   {
-   "id": "n1u28-08",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
+   "id": "w8bdaa4b00b",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
    "fr": "je dois y aller",
    "tr": "nānu hōgbēku",
    "kn": "ನಾನು ಹೋಗಬೇಕು",
-   "note": "verbe + bēku = il faut / je dois"
+   "note": "verbe + bēku = je dois",
+   "aka": [
+    "n1u28-08"
+   ]
   },
   {
-   "id": "n1u28-09",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
-   "fr": "je dois apprendre",
-   "tr": "nānu kalībēku",
-   "kn": "ನಾನು ಕಲೀಬೇಕು"
-  },
-  {
-   "id": "n1u28-10",
-   "cat": "Niveau 1 · 28. Allons-y : « -ōṇa »",
+   "id": "w3113ff08ab",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
    "fr": "nous devons y aller",
    "tr": "nāvu hōgbēku",
    "kn": "ನಾವು ಹೋಗಬೇಕು",
-   "note": "nous devons y aller"
+   "aka": [
+    "n1u28-10"
+   ]
   },
   {
-   "id": "n1u29-01",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "la fête",
-   "tr": "habba",
-   "kn": "ಹಬ್ಬ"
+   "id": "w8233fa18c2",
+   "cat": "Niveau 1 · Semaine 4 · allons-y, il faut",
+   "fr": "je dois apprendre",
+   "tr": "nānu kalībēku",
+   "kn": "ನಾನು ಕಲೀಬೇಕು",
+   "aka": [
+    "n1u28-09"
+   ]
   },
   {
-   "id": "n1u29-02",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "Sankranti (fête des récoltes, vers le 14 janvier)",
-   "tr": "Sankrānti",
-   "kn": "ಸಂಕ್ರಾಂತಿ"
+   "id": "w3ac1abd3d8",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "j'aime",
+   "tr": "nanage ishṭa",
+   "kn": "ನನಗೆ ಇಷ್ಟ"
   },
   {
-   "id": "n1u29-03",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "bonne fête !",
-   "tr": "habbada shubhāśayagaḷu!",
-   "kn": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು!"
+   "id": "w939726fea1",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "très contente",
+   "tr": "tumbā khushi",
+   "kn": "ತುಂಬಾ ಖುಷಿ"
   },
   {
-   "id": "n1u29-04",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "bonne année !",
-   "tr": "hosa varṣada shubhāśayagaḷu!",
-   "kn": "ಹೊಸ ವರ್ಷದ ಶುಭಾಶಯಗಳು!"
+   "id": "wd0b8fc66fc",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "j'ai froid",
+   "tr": "nanage chaḷi āgtide",
+   "kn": "ನನಗೆ ಚಳಿ ಆಗ್ತಿದೆ",
+   "aka": [
+    "n1u23-04"
+   ]
   },
   {
-   "id": "n1u29-05",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "le mélange sésame-jaggery de Sankranti",
-   "tr": "eḷḷu bella",
-   "kn": "ಎಳ್ಳು ಬೆಲ್ಲ"
+   "id": "w8d3d47e209",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "il fait chaud",
+   "tr": "sekhe ide",
+   "kn": "ಸೆಕೆ ಇದೆ",
+   "aka": [
+    "n1u23-05"
+   ]
   },
   {
-   "id": "n1u29-06",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "« mange du eḷḷu bella et dis de belles paroles »",
-   "tr": "eḷḷu bella tindu oḷḷe mātāḍi",
-   "kn": "ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು ಒಳ್ಳೆ ಮಾತಾಡಿ",
-   "note": "la formule qu'on échange à Sankranti"
+   "id": "w48a3f27f6d",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "j'ai sommeil",
+   "tr": "nanage nidde bartide",
+   "kn": "ನನಗೆ ನಿದ್ದೆ ಬರ್ತಿದೆ",
+   "aka": [
+    "n1u23-03"
+   ]
   },
   {
-   "id": "n1u29-07",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "le cadeau",
-   "tr": "uḍugore",
-   "kn": "ಉಡುಗೊರೆ"
+   "id": "w53e030dfe5",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "je ne me sens pas bien",
+   "tr": "nanage huṣāru illa",
+   "kn": "ನನಗೆ ಹುಷಾರು ಇಲ್ಲ",
+   "aka": [
+    "n1u23-06"
+   ]
   },
   {
-   "id": "n1u29-08",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "le temple",
-   "tr": "dēvasthāna",
-   "kn": "ದೇವಸ್ಥಾನ"
+   "id": "wd70e00bd47",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "mal au ventre",
+   "tr": "hoṭṭe nōvu",
+   "kn": "ಹೊಟ್ಟೆ ನೋವು",
+   "aka": [
+    "n1u23-07"
+   ]
   },
   {
-   "id": "n1u29-09",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "la prière / le rituel",
-   "tr": "pūje",
-   "kn": "ಪೂಜೆ"
+   "id": "w64ffcdb31f",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "j'ai soif",
+   "tr": "nanage bāyārike āgtide",
+   "kn": "ನನಗೆ ಬಾಯಾರಿಕೆ ಆಗ್ತಿದೆ",
+   "aka": [
+    "n1u14-07"
+   ]
   },
   {
-   "id": "n1u29-10",
-   "cat": "Niveau 1 · 29. Fêtes",
-   "fr": "bon voyage",
-   "tr": "prayāṇa chennāgirli",
-   "kn": "ಪ್ರಯಾಣ ಚೆನ್ನಾಗಿರಲಿ"
+   "id": "w80a18743ea",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "prenez soin de vous",
+   "tr": "huṣāru",
+   "kn": "ಹುಷಾರು",
+   "aka": [
+    "n1u23-10"
+   ]
   },
   {
-   "id": "n1u30-01",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "je dois aller à…",
-   "tr": "… ge hōgbēku",
-   "kn": "… ಗೆ ಹೋಗಬೇಕು"
+   "id": "w2b55a0751e",
+   "cat": "Niveau 1 · Semaine 4 · comment je me sens",
+   "fr": "vous êtes très gentil·le",
+   "tr": "nīvu tumbā oḷḷeyavru",
+   "kn": "ನೀವು ತುಂಬಾ ಒಳ್ಳೆಯವ್ರು"
   },
   {
-   "id": "n1u30-02",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "à droite",
-   "tr": "bala",
-   "kn": "ಬಲ"
+   "id": "w4ad4e8f75e",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "mon trésor",
+   "tr": "chinna",
+   "kn": "ಚಿನ್ನ",
+   "note": "littéralement « or »",
+   "aka": [
+    "n1u27-02"
+   ]
   },
   {
-   "id": "n1u30-03",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "à gauche",
-   "tr": "eḍa",
-   "kn": "ಎಡ"
+   "id": "wc575f13e28",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "un bisou",
+   "tr": "muttu",
+   "kn": "ಮುತ್ತು",
+   "aka": [
+    "n1u27-03"
+   ]
   },
   {
-   "id": "n1u30-04",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "tout droit",
-   "tr": "nēra",
-   "kn": "ನೇರ"
+   "id": "wd1b0a77b55",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "l'amour",
+   "tr": "prīti",
+   "kn": "ಪ್ರೀತಿ",
+   "aka": [
+    "n1u27-06"
+   ]
   },
   {
-   "id": "n1u30-05",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "près",
-   "tr": "hattira",
-   "kn": "ಹತ್ತಿರ"
+   "id": "wbad58e28aa",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "viens ici",
+   "tr": "illi bā",
+   "kn": "ಇಲ್ಲಿ ಬಾ",
+   "aka": [
+    "n1u27-07"
+   ]
   },
   {
-   "id": "n1u30-06",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "loin",
-   "tr": "dūra",
-   "kn": "ದೂರ"
+   "id": "w7992f10cfd",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "avec toi",
+   "tr": "ninna jote",
+   "kn": "ನಿನ್ನ ಜೊತೆ",
+   "aka": [
+    "n1u45-07"
+   ]
   },
   {
-   "id": "n1u30-07",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "arrêtez-vous ici",
-   "tr": "illi nillisi",
-   "kn": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ"
+   "id": "we6839796eb",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "tu me manques",
+   "tr": "ninna nenapāgtide",
+   "kn": "ನಿನ್ನ ನೆನಪಾಗ್ತಿದೆ",
+   "aka": [
+    "n1u27-04"
+   ]
   },
   {
-   "id": "n1u30-08",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "tournez à droite",
-   "tr": "balakke tirugi",
-   "kn": "ಬಲಕ್ಕೆ ತಿರುಗಿ"
+   "id": "w800da268c1",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "dors bien",
+   "tr": "chennāgi malkō",
+   "kn": "ಚೆನ್ನಾಗಿ ಮಲ್ಕೊ",
+   "aka": [
+    "n1u27-10"
+   ]
   },
   {
-   "id": "n1u30-09",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "allez doucement",
-   "tr": "nidhāna hōgi",
-   "kn": "ನಿಧಾನ ಹೋಗಿ"
+   "id": "w8ee0b89cc0",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "qu'est-ce que tu fais ?",
+   "tr": "ēnu māḍtā iddīya?",
+   "kn": "ಏನು ಮಾಡ್ತಾ ಇದ್ದೀಯ?",
+   "aka": [
+    "n1u27-09"
+   ]
   },
   {
-   "id": "n1u30-10",
-   "cat": "Niveau 1 · 30. Se déplacer",
-   "fr": "le chemin",
-   "tr": "dāri",
-   "kn": "ದಾರಿ"
+   "id": "w6eb9fc73bf",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "je t'aime",
+   "tr": "nā ninna prītistīni",
+   "kn": "ನಾ ನಿನ್ನ ಪ್ರೀತಿಸ್ತೀನಿ",
+   "note": "forme parlée",
+   "aka": [
+    "n1u27-01"
+   ]
   },
   {
-   "id": "n1u31-01",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "ça coûte combien ?",
-   "tr": "idu eṣṭu?",
-   "kn": "ಇದು ಎಷ್ಟು?"
+   "id": "w971a5e2e5f",
+   "cat": "Niveau 1 · Semaine 4 · avec ton partenaire",
+   "fr": "tu es très beau / très belle",
+   "tr": "nīnu tumbā chennāgiddīya",
+   "kn": "ನೀನು ತುಂಬಾ ಚೆನ್ನಾಗಿದ್ದೀಯ",
+   "aka": [
+    "n1u27-05"
+   ]
   },
   {
-   "id": "n1u31-02",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "ça fait combien ?",
-   "tr": "eṣṭu āytu?",
-   "kn": "ಎಷ್ಟು ಆಯ್ತು?"
+   "id": "w1bf02f4cce",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "et",
+   "tr": "mattu",
+   "kn": "ಮತ್ತು",
+   "aka": [
+    "n1u45-01"
+   ]
   },
   {
-   "id": "n1u31-03",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "je veux celui-ci",
-   "tr": "idu bēku",
-   "kn": "ಇದು ಬೇಕು"
+   "id": "wa4497197f1",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "mais",
+   "tr": "ādre",
+   "kn": "ಆದ್ರೆ",
+   "aka": [
+    "n1u45-02"
+   ]
   },
   {
-   "id": "n1u31-04",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "je ne veux pas celui-là",
-   "tr": "adu bēḍa",
-   "kn": "ಅದು ಬೇಡ"
+   "id": "wc5eac2e864",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "ou",
+   "tr": "athavā",
+   "kn": "ಅಥವಾ",
+   "aka": [
+    "n1u45-03"
+   ]
   },
   {
-   "id": "n1u31-05",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "c'est trop cher",
-   "tr": "tumbā jāsti",
-   "kn": "ತುಂಬಾ ಜಾಸ್ತಿ"
+   "id": "we48362bfbe",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "parce que",
+   "tr": "yākandre",
+   "kn": "ಯಾಕಂದ್ರೆ",
+   "aka": [
+    "n1u45-04"
+   ]
   },
   {
-   "id": "n1u31-06",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "baissez un peu le prix",
-   "tr": "svalpa kammi māḍi",
-   "kn": "ಸ್ವಲ್ಪ ಕಮ್ಮಿ ಮಾಡಿ"
+   "id": "w6fdea11bd6",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "donc / c'est pour ça",
+   "tr": "adakke",
+   "kn": "ಅದಕ್ಕೆ",
+   "aka": [
+    "n1u45-05"
+   ]
   },
   {
-   "id": "n1u31-07",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "vous avez une autre couleur ?",
-   "tr": "bēre baṇṇa ide?",
-   "kn": "ಬೇರೆ ಬಣ್ಣ ಇದೆ?"
+   "id": "wd906c1c111",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "avec",
+   "tr": "jote",
+   "kn": "ಜೊತೆ",
+   "aka": [
+    "n1u45-06"
+   ]
   },
   {
-   "id": "n1u31-08",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "je n'ai pas de monnaie",
-   "tr": "chillare illa",
-   "kn": "ಚಿಲ್ಲರೆ ಇಲ್ಲ"
+   "id": "wb8b5f85349",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "sans",
+   "tr": "illade",
+   "kn": "ಇಲ್ಲದೆ",
+   "aka": [
+    "n1u45-08"
+   ]
   },
   {
-   "id": "n1u31-09",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "la roupie",
-   "tr": "rūpāyi",
-   "kn": "ರೂಪಾಯಿ"
+   "id": "w7f329e18f4",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "toujours",
+   "tr": "yāvāglū",
+   "kn": "ಯಾವಾಗ್ಲೂ",
+   "aka": [
+    "n1u45-09"
+   ]
   },
   {
-   "id": "n1u31-10",
-   "cat": "Niveau 1 · 31. Faire des courses",
-   "fr": "je regarde seulement",
-   "tr": "summane nōḍtā iddīni",
-   "kn": "ಸುಮ್ಮನೆ ನೋಡ್ತಾ ಇದ್ದೀನಿ"
+   "id": "w192f495e9a",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "parfois",
+   "tr": "kelavu sala",
+   "kn": "ಕೆಲವು ಸಲ",
+   "aka": [
+    "n1u45-10"
+   ]
   },
   {
-   "id": "n1u32-01",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
-   "fr": "le jour",
-   "tr": "dina",
-   "kn": "ದಿನ"
+   "id": "w004e3c565b",
+   "cat": "Niveau 1 · Semaine 4 · relier les idées",
+   "fr": "encore / pas encore",
+   "tr": "innū",
+   "kn": "ಇನ್ನೂ",
+   "aka": [
+    "n1u45-11"
+   ]
   },
   {
-   "id": "n1u32-02",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "wfb1f916aa7",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "asseyez-vous, je vous en prie",
+   "tr": "nīvu kūtkoḷḷi",
+   "kn": "ನೀವು ಕೂತ್ಕೊಳ್ಳಿ"
+  },
+  {
+   "id": "w6c6283c58c",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "rien, merci",
+   "tr": "ēnū bēḍa, dhanyavāda",
+   "kn": "ಏನೂ ಬೇಡ, ಧನ್ಯವಾದ"
+  },
+  {
+   "id": "w3f370e2e68",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "comment va votre famille ?",
+   "tr": "nimma kuṭumba hēgide?",
+   "kn": "ನಿಮ್ಮ ಕುಟುಂಬ ಹೇಗಿದೆ?"
+  },
+  {
+   "id": "wf4b3e76cb5",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "tout le monde va bien",
+   "tr": "ellaru chennāgiddāre",
+   "kn": "ಎಲ್ಲರು ಚೆನ್ನಾಗಿದ್ದಾರೆ"
+  },
+  {
+   "id": "wbc1f42e69e",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "je peux aider ?",
+   "tr": "nānu sahāya māḍlā?",
+   "kn": "ನಾನು ಸಹಾಯ ಮಾಡ್ಲಾ?",
+   "note": "très apprécié à la cuisine",
+   "aka": [
+    "n1u19-10"
+   ]
+  },
+  {
+   "id": "w2eb464c291",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "vous avez besoin d'aide ?",
+   "tr": "nimage sahāya bēkā?",
+   "kn": "ನಿಮಗೆ ಸಹಾಯ ಬೇಕಾ?"
+  },
+  {
+   "id": "w9fc03cc0c9",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "on fait quoi demain ?",
+   "tr": "nāḷe ēnu māḍōṇa?",
+   "kn": "ನಾಳೆ ಏನು ಮಾಡೋಣ?"
+  },
+  {
+   "id": "wa5534b4851",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "le repas était délicieux",
+   "tr": "ūṭa tumbā ruchiyāgittu",
+   "kn": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿತ್ತು"
+  },
+  {
+   "id": "wec99c566af",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "je dois apprendre la cuisine",
+   "tr": "nānu aḍige kalībēku",
+   "kn": "ನಾನು ಅಡಿಗೆ ಕಲೀಬೇಕು"
+  },
+  {
+   "id": "w97ae2f3c0b",
+   "cat": "Niveau 1 · Semaine 4 · en famille",
+   "fr": "votre maison est très belle",
+   "tr": "nimma mane tumbā chennāgide",
+   "kn": "ನಿಮ್ಮ ಮನೆ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ",
+   "aka": [
+    "n1u10-10"
+   ]
+  },
+  {
+   "id": "wb373668a43",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "j'ai… ans (« mon âge… »)",
+   "tr": "nanna vayassu…",
+   "kn": "ನನ್ನ ವಯಸ್ಸು…",
+   "aka": [
+    "n1u04-13"
+   ]
+  },
+  {
+   "id": "w62e0c3be5e",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "quel est votre travail ?",
+   "tr": "nimma kelsa ēnu?",
+   "kn": "ನಿಮ್ಮ ಕೆಲಸ ಏನು?",
+   "aka": [
+    "n1u43-09"
+   ]
+  },
+  {
+   "id": "w9954b965ed",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "je donne un cours",
+   "tr": "nānu pāṭha māḍtīni",
+   "kn": "ನಾನು ಪಾಠ ಮಾಡ್ತೀನಿ",
+   "aka": [
+    "n1u43-08"
+   ]
+  },
+  {
+   "id": "wb568ae315b",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "je fais de la recherche",
+   "tr": "nānu saṁśōdhane māḍtīni",
+   "kn": "ನಾನು ಸಂಶೋಧನೆ ಮಾಡ್ತೀನಿ"
+  },
+  {
+   "id": "wa744e3a1cb",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "je suis venue de France",
+   "tr": "nānu France-inda bande",
+   "kn": "ನಾನು ಫ್ರಾನ್ಸ್‌ನಿಂದ ಬಂದೆ",
+   "note": "« depuis » : -inda",
+   "aka": [
+    "n1u21-10"
+   ]
+  },
+  {
+   "id": "wb22a7f2ec9",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "j'aime Bangalore",
+   "tr": "nanage Bengaḷūru ishṭa",
+   "kn": "ನನಗೆ ಬೆಂಗಳೂರು ಇಷ್ಟ"
+  },
+  {
+   "id": "wda7d994451",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "j'ai une chatte",
+   "tr": "nanna hatra bekku ide",
+   "kn": "ನನ್ನ ಹತ್ರ ಬೆಕ್ಕು ಇದೆ",
+   "note": "« près de moi, un chat il y a »"
+  },
+  {
+   "id": "w5eb255cd63",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "elle s'appelle Micky",
+   "tr": "adara hesaru Micky",
+   "kn": "ಅದರ ಹೆಸರು ಮಿಕ್ಕಿ",
+   "note": "pour un animal on dit adu (« ça »)"
+  },
+  {
+   "id": "we95d02f487",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "que faites-vous comme travail ?",
+   "tr": "nīvu ēnu kelsa māḍtīra?",
+   "kn": "ನೀವು ಏನು ಕೆಲಸ ಮಾಡ್ತೀರ?"
+  },
+  {
+   "id": "wceb4a6d071",
+   "cat": "Niveau 1 · Semaine 4 · parler de moi",
+   "fr": "c'est ma première fois en Inde",
+   "tr": "India-ge idu modala sala",
+   "kn": "ಇಂಡಿಯಾಗೆ ಇದು ಮೊದಲ ಸಲ"
+  },
+  {
+   "id": "w391a589812",
+   "cat": "Niveau 1 · Semaine 4 · construire : ravie de vous rencontrer",
+   "fr": "je suis contente (« la joie est arrivée »)",
+   "tr": "khushi āytu",
+   "kn": "ಖುಷಿ ಆಯ್ತು"
+  },
+  {
+   "id": "w5712621a02",
+   "cat": "Niveau 1 · Semaine 4 · construire : ravie de vous rencontrer",
+   "fr": "je suis très contente",
+   "tr": "tumbā khushi āytu",
+   "kn": "ತುಂಬಾ ಖುಷಿ ಆಯ್ತು"
+  },
+  {
+   "id": "w780f354d16",
+   "cat": "Niveau 1 · Semaine 4 · construire : ravie de vous rencontrer",
+   "fr": "vous (complément)",
+   "tr": "nimmannu",
+   "kn": "ನಿಮ್ಮನ್ನು",
+   "note": "nimma + -annu, la marque du complément"
+  },
+  {
+   "id": "w1f46a894ce",
+   "cat": "Niveau 1 · Semaine 4 · construire : ravie de vous rencontrer",
+   "fr": "en vous voyant",
+   "tr": "nimmannu nōḍi",
+   "kn": "ನಿಮ್ಮನ್ನು ನೋಡಿ"
+  },
+  {
+   "id": "wb4c41ee469",
+   "cat": "Niveau 1 · Semaine 4 · construire : ravie de vous rencontrer",
+   "fr": "ravie de vous voir",
+   "tr": "nimmannu nōḍi khushi āytu",
+   "kn": "ನಿಮ್ಮನ್ನು ನೋಡಿ ಖುಷಿ ಆಯ್ತು"
+  },
+  {
+   "id": "wc78a3f4a45",
+   "cat": "Niveau 1 · Semaine 4 · construire : ravie de vous rencontrer",
+   "fr": "ravie de vous rencontrer",
+   "tr": "nimmannu nōḍi tumbā khushi āytu",
+   "kn": "ನಿಮ್ಮನ್ನು ನೋಡಿ ತುಂಬಾ ಖುಷಿ ಆಯ್ತು",
+   "note": "« vous voyant, très joie est arrivée »",
+   "aka": [
+    "n1u01-07"
+   ]
+  },
+  {
+   "id": "waa01168da0",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "vous parlez anglais ? (« vous connaissez l'anglais ? »)",
+   "tr": "English gottā?",
+   "kn": "ಇಂಗ್ಲಿಷ್ ಗೊತ್ತಾ?",
+   "aka": [
+    "n1u02-10"
+   ]
+  },
+  {
+   "id": "wd6878c6d0f",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "pouvez-vous m'aider ?",
+   "tr": "nanage sahāya māḍtīra?",
+   "kn": "ನನಗೆ ಸಹಾಯ ಮಾಡ್ತೀರಾ?",
+   "aka": [
+    "n1u02-08"
+   ]
+  },
+  {
+   "id": "w2e582ebe32",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "je ne connais pas le kannada",
+   "tr": "nanage Kannaḍa gottilla",
+   "kn": "ನನಗೆ ಕನ್ನಡ ಗೊತ್ತಿಲ್ಲ",
+   "aka": [
+    "n1u02-09"
+   ]
+  },
+  {
+   "id": "wa79699f236",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "bienvenue (formel)",
+   "tr": "susvāgata",
+   "kn": "ಸುಸ್ವಾಗತ",
+   "note": "plutôt écrit, sur les panneaux et les invitations",
+   "aka": [
+    "n1u01-15"
+   ]
+  },
+  {
+   "id": "w249be5176d",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "bonjour (le matin, formel)",
+   "tr": "shubhōdaya",
+   "kn": "ಶುಭೋದಯ",
+   "note": "plutôt écrit ou formel ; à l'oral on dit namaskāra",
+   "aka": [
+    "n1u01-16"
+   ]
+  },
+  {
+   "id": "w96e61c6510",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "bonne nuit (formel)",
+   "tr": "shubha rātri",
+   "kn": "ಶುಭ ರಾತ್ರಿ",
+   "note": "plutôt écrit ou formel",
+   "aka": [
+    "n1u01-17"
+   ]
+  },
+  {
+   "id": "w78e3493354",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "une personne",
+   "tr": "manuṣya",
+   "kn": "ಮನುಷ್ಯ",
+   "aka": [
+    "n1u04-04"
+   ]
+  },
+  {
+   "id": "w486f380dfe",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "un garçon",
+   "tr": "huḍuga",
+   "kn": "ಹುಡುಗ",
+   "aka": [
+    "n1u04-05"
+   ]
+  },
+  {
+   "id": "w9a9f27b340",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "une fille",
+   "tr": "huḍugi",
+   "kn": "ಹುಡುಗಿ",
+   "aka": [
+    "n1u04-06"
+   ]
+  },
+  {
+   "id": "w476079995e",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "un médecin",
+   "tr": "vaidya",
+   "kn": "ವೈದ್ಯ",
+   "aka": [
+    "n1u04-10"
+   ]
+  },
+  {
+   "id": "w52c98a9329",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "un ingénieur",
+   "tr": "abhiyantara",
+   "kn": "ಅಭಿಯಂತರ",
+   "aka": [
+    "n1u04-11"
+   ]
+  },
+  {
+   "id": "w63e4eacb25",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "une scientifique",
+   "tr": "vijñāni",
+   "kn": "ವಿಜ್ಞಾನಿ",
+   "aka": [
+    "n1u04-12"
+   ]
+  },
+  {
+   "id": "w7c72a88b29",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "un ami / une amie",
+   "tr": "snēhita / snēhite",
+   "kn": "ಸ್ನೇಹಿತ / ಸ್ನೇಹಿತೆ",
+   "aka": [
+    "n1u04-07"
+   ]
+  },
+  {
+   "id": "wafb7284f88",
+   "cat": "Niveau 1 · Les mots essentiels · Saluer …",
+   "fr": "je suis enseignante",
+   "tr": "nānu shikṣaki",
+   "kn": "ನಾನು ಶಿಕ್ಷಕಿ",
+   "note": "au masculin : shikṣaka",
+   "aka": [
+    "n1u04-09"
+   ]
+  },
+  {
+   "id": "wcd3b7afd1e",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "un (pour une personne)",
+   "tr": "obba",
+   "kn": "ಒಬ್ಬ",
+   "note": "on compte les personnes autrement que les objets : obba, ibbaru (deux personnes)…",
+   "aka": [
+    "n1u03-10"
+   ]
+  },
+  {
+   "id": "w79120772d1",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "ce n'est pas (ça)",
+   "tr": "alla",
+   "kn": "ಅಲ್ಲ",
+   "aka": [
+    "n1u05-03"
+   ]
+  },
+  {
+   "id": "w1296c6db43",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "il n'y a pas de café",
+   "tr": "kāphi illa",
+   "kn": "ಕಾಫಿ ಇಲ್ಲ",
+   "note": "illa nie une existence : « X n'existe pas, il n'y en a pas »",
+   "aka": [
+    "n1u05-09"
+   ]
+  },
+  {
+   "id": "wb1269970f1",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "les parents",
+   "tr": "appa-amma",
+   "kn": "ಅಪ್ಪ-ಅಮ್ಮ",
+   "note": "on dit « papa-maman »",
+   "aka": [
+    "n1u06-05"
+   ]
+  },
+  {
+   "id": "w389e79d5f5",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "la famille",
+   "tr": "kuṭumba",
+   "kn": "ಕುಟುಂಬ",
+   "aka": [
+    "n1u06-10"
+   ]
+  },
+  {
+   "id": "w274195fc36",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "mon / ma",
+   "tr": "nanna",
+   "kn": "ನನ್ನ",
+   "aka": [
+    "n1u07-01"
+   ]
+  },
+  {
+   "id": "w7c985b93b5",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "ton / ta",
+   "tr": "ninna",
+   "kn": "ನಿನ್ನ",
+   "aka": [
+    "n1u07-02"
+   ]
+  },
+  {
+   "id": "w9ab2630b97",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "votre (respect)",
+   "tr": "nimma",
+   "kn": "ನಿಮ್ಮ",
+   "aka": [
+    "n1u07-03"
+   ]
+  },
+  {
+   "id": "wd71240a512",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "son / sa (à lui, respect : leur)",
+   "tr": "avara",
+   "kn": "ಅವರ",
+   "aka": [
+    "n1u07-04"
+   ]
+  },
+  {
+   "id": "w2b1eacdf93",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "notre",
+   "tr": "namma",
+   "kn": "ನಮ್ಮ",
+   "note": "très utilisé : « namma Bengaḷūru », notre Bangalore",
+   "aka": [
+    "n1u07-05"
+   ]
+  },
+  {
+   "id": "w37e4381023",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "sa (à elle, familier)",
+   "tr": "avaḷa",
+   "kn": "ಅವಳ",
+   "aka": [
+    "n1u07-06"
+   ]
+  },
+  {
+   "id": "w02f591b73b",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "c'est mon fils",
+   "tr": "avanu nanna maga",
+   "kn": "ಅವನು ನನ್ನ ಮಗ",
+   "aka": [
+    "n1u07-08"
+   ]
+  },
+  {
+   "id": "we025abf297",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "le nom de votre fils",
+   "tr": "nimma magana hesaru",
+   "kn": "ನಿಮ್ಮ ಮಗನ ಹೆಸರು",
+   "note": "« de » : on ajoute -a / -na au nom (maga → magana)",
+   "aka": [
+    "n1u07-09"
+   ]
+  },
+  {
+   "id": "w9a5ef70ab1",
+   "cat": "Niveau 1 · Les pronoms · Oui, non, il y a …",
+   "fr": "la maison de ma belle-mère",
+   "tr": "nanna atteya mane",
+   "kn": "ನನ್ನ ಅತ್ತೆಯ ಮನೆ",
+   "note": "atte → atteya",
+   "aka": [
+    "n1u07-10"
+   ]
+  },
+  {
+   "id": "w095b9e95ba",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "lequel ?",
+   "tr": "yāvdu?",
+   "kn": "ಯಾವ್ದು?",
+   "aka": [
+    "n1u08-08"
+   ]
+  },
+  {
+   "id": "wf5a240b1db",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "la banane",
+   "tr": "bāḷehaṇṇu",
+   "kn": "ಬಾಳೆಹಣ್ಣು",
+   "aka": [
+    "n1u13-09"
+   ]
+  },
+  {
+   "id": "wa5f689cc00",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "la mangue",
+   "tr": "māvina haṇṇu",
+   "kn": "ಮಾವಿನ ಹಣ್ಣು",
+   "aka": [
+    "n1u13-10"
+   ]
+  },
+  {
+   "id": "waa67c40c2e",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "le sambar (sauce de lentilles)",
+   "tr": "sāmbāru",
+   "kn": "ಸಾಂಬಾರು",
+   "aka": [
+    "n1u12-03"
+   ]
+  },
+  {
+   "id": "wad533d97ca",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "le rasam (bouillon épicé)",
+   "tr": "sāru",
+   "kn": "ಸಾರು",
+   "aka": [
+    "n1u12-04"
+   ]
+  },
+  {
+   "id": "w01ec77fa7c",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "les légumes sautés",
+   "tr": "palya",
+   "kn": "ಪಲ್ಯ",
+   "aka": [
+    "n1u12-05"
+   ]
+  },
+  {
+   "id": "wea8677c0e0",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "le yaourt",
+   "tr": "mosaru",
+   "kn": "ಮೊಸರು",
+   "note": "on termine souvent le repas avec du riz au yaourt",
+   "aka": [
+    "n1u12-06"
+   ]
+  },
+  {
+   "id": "w2039fe6afb",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "la chapati",
+   "tr": "chapāti",
+   "kn": "ಚಪಾತಿ",
+   "aka": [
+    "n1u12-07"
+   ]
+  },
+  {
+   "id": "we865a302ab",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "l'upma (semoule salée)",
+   "tr": "uppiṭṭu",
+   "kn": "ಉಪ್ಪಿಟ್ಟು",
+   "aka": [
+    "n1u12-10"
+   ]
+  },
+  {
+   "id": "wd69680d9be",
+   "cat": "Niveau 1 · Les questions · Boire et manger …",
+   "fr": "le sucré / le dessert",
+   "tr": "sihi",
+   "kn": "ಸಿಹಿ",
+   "aka": [
+    "n1u12-11"
+   ]
+  },
+  {
+   "id": "w4563f3e64c",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "à toi",
+   "tr": "ninage",
+   "kn": "ನಿನಗೆ",
+   "aka": [
+    "n1u14-02"
+   ]
+  },
+  {
+   "id": "w42ee925668",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "à vous (respect)",
+   "tr": "nimage",
+   "kn": "ನಿಮಗೆ",
+   "aka": [
+    "n1u14-03"
+   ]
+  },
+  {
+   "id": "w721b55dbc8",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "à lui / à elle (respect)",
+   "tr": "avarige",
+   "kn": "ಅವರಿಗೆ",
+   "aka": [
+    "n1u14-04"
+   ]
+  },
+  {
+   "id": "w487ebc21b2",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "donnez un café à mon beau-père",
+   "tr": "māvanige kāphi koḍi",
+   "kn": "ಮಾವನಿಗೆ ಕಾಫಿ ಕೊಡಿ",
+   "note": "« à X » : on ajoute -ge / -ige / -nige au nom",
+   "aka": [
+    "n1u14-10"
+   ]
+  },
+  {
+   "id": "w58acc87156",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "la fenêtre",
+   "tr": "kiṭaki",
+   "kn": "ಕಿಟಕಿ",
+   "aka": [
+    "n1u10-03"
+   ]
+  },
+  {
+   "id": "w074ecfcb02",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "la table",
+   "tr": "mēju",
+   "kn": "ಮೇಜು",
+   "aka": [
+    "n1u10-04"
+   ]
+  },
+  {
+   "id": "w1fbcce7748",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "les toilettes",
+   "tr": "śaucālaya",
+   "kn": "ಶೌಚಾಲಯ",
+   "aka": [
+    "n1u10-09"
+   ]
+  },
+  {
+   "id": "wccc9d0043c",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "la cuisine",
+   "tr": "aḍige mane",
+   "kn": "ಅಡಿಗೆ ಮನೆ",
+   "note": "littéralement « maison de la cuisine »",
+   "aka": [
+    "n1u10-07"
+   ]
+  },
+  {
+   "id": "w2800e1f871",
+   "cat": "Niveau 1 · « À moi » : le datif · La maison",
+   "fr": "la salle de bain",
+   "tr": "snānada mane",
+   "kn": "ಸ್ನಾನದ ಮನೆ",
+   "aka": [
+    "n1u10-08"
+   ]
+  },
+  {
+   "id": "w5cb9abface",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "sur",
+   "tr": "mēle",
+   "kn": "ಮೇಲೆ",
+   "aka": [
+    "n1u11-03"
+   ]
+  },
+  {
+   "id": "w00a1e9e535",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "sous",
+   "tr": "keḷage",
+   "kn": "ಕೆಳಗೆ",
+   "aka": [
+    "n1u11-04"
+   ]
+  },
+  {
+   "id": "wd6754eb3a8",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "dedans",
+   "tr": "oḷage",
+   "kn": "ಒಳಗೆ",
+   "aka": [
+    "n1u11-05"
+   ]
+  },
+  {
+   "id": "wd77e435696",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "dehors",
+   "tr": "horage",
+   "kn": "ಹೊರಗೆ",
+   "aka": [
+    "n1u11-06"
+   ]
+  },
+  {
+   "id": "w75388b4fa3",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "où est… ?",
+   "tr": "… elli ide?",
+   "kn": "… ಎಲ್ಲಿ ಇದೆ?",
+   "aka": [
+    "n1u11-07"
+   ]
+  },
+  {
+   "id": "w18fe9af092",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "le café est sur la table",
+   "tr": "kāphi mējina mēle ide",
+   "kn": "ಕಾಫಿ ಮೇಜಿನ ಮೇಲೆ ಇದೆ",
+   "note": "« sur X » : X + -a / -ina + mēle",
+   "aka": [
+    "n1u11-11"
+   ]
+  },
+  {
+   "id": "w6049fdfa19",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "viens / venez",
+   "tr": "bā / banni",
+   "kn": "ಬಾ / ಬನ್ನಿ",
+   "aka": [
+    "n1u15-01"
+   ]
+  },
+  {
+   "id": "w334cd6722b",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "va / allez",
+   "tr": "hōgu / hōgi",
+   "kn": "ಹೋಗು / ಹೋಗಿ",
+   "aka": [
+    "n1u15-02"
+   ]
+  },
+  {
+   "id": "w696070a4bf",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "mange / mangez",
+   "tr": "tinnu / tinni",
+   "kn": "ತಿನ್ನು / ತಿನ್ನಿ",
+   "aka": [
+    "n1u15-03"
+   ]
+  },
+  {
+   "id": "wec1357f022",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "bois / buvez",
+   "tr": "kuḍi / kuḍiyiri",
+   "kn": "ಕುಡಿ / ಕುಡಿಯಿರಿ",
+   "aka": [
+    "n1u15-04"
+   ]
+  },
+  {
+   "id": "w74303b2c09",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "regarde / regardez",
+   "tr": "nōḍu / nōḍi",
+   "kn": "ನೋಡು / ನೋಡಿ",
+   "aka": [
+    "n1u15-05"
+   ]
+  },
+  {
+   "id": "w1f4da1e487",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "écoute / écoutez",
+   "tr": "kēḷu / kēḷi",
+   "kn": "ಕೇಳು / ಕೇಳಿ",
+   "aka": [
+    "n1u15-06"
+   ]
+  },
+  {
+   "id": "wac6945e1ef",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "donne / donnez",
+   "tr": "koḍu / koḍi",
+   "kn": "ಕೊಡು / ಕೊಡಿ",
+   "aka": [
+    "n1u15-07"
+   ]
+  },
+  {
+   "id": "we2b6b34576",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "prends / prenez",
+   "tr": "tagō / tagoḷḷi",
+   "kn": "ತಗೋ / ತಗೊಳ್ಳಿ",
+   "aka": [
+    "n1u15-08"
+   ]
+  },
+  {
+   "id": "web4a4b6aa6",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "fais / faites",
+   "tr": "māḍu / māḍi",
+   "kn": "ಮಾಡು / ಮಾಡಿ",
+   "aka": [
+    "n1u15-09"
+   ]
+  },
+  {
+   "id": "wfd36120320",
+   "cat": "Niveau 1 · Où ? (« dans », « à ») · Demander : l'impératif",
+   "fr": "regardez, s'il vous plaît",
+   "tr": "dayaviṭṭu nōḍi",
+   "kn": "ದಯವಿಟ್ಟು ನೋಡಿ",
+   "note": "familier : nōḍu ; poli : nōḍi. Avec les parents de ton partenaire, toujours -i",
+   "aka": [
+    "n1u15-10"
+   ]
+  },
+  {
+   "id": "w119aeefe1e",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "je cuisine",
+   "tr": "nānu aḍige māḍtīni",
+   "kn": "ನಾನು ಅಡಿಗೆ ಮಾಡ್ತೀನಿ",
+   "aka": [
+    "n1u16-05"
+   ]
+  },
+  {
+   "id": "wa5426dcc3b",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "tu fais",
+   "tr": "nīnu māḍtīya",
+   "kn": "ನೀನು ಮಾಡ್ತೀಯ",
+   "aka": [
+    "n1u17-02"
+   ]
+  },
+  {
+   "id": "we0c549c3e4",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "vous faites (respect)",
+   "tr": "nīvu māḍtīra",
+   "kn": "ನೀವು ಮಾಡ್ತೀರ",
+   "aka": [
+    "n1u17-03"
+   ]
+  },
+  {
+   "id": "w34bba98c4f",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "il fait",
+   "tr": "avanu māḍtāne",
+   "kn": "ಅವನು ಮಾಡ್ತಾನೆ",
+   "aka": [
+    "n1u17-04"
+   ]
+  },
+  {
+   "id": "wd332cfd346",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "elle fait",
+   "tr": "avaḷu māḍtāḷe",
+   "kn": "ಅವಳು ಮಾಡ್ತಾಳೆ",
+   "aka": [
+    "n1u17-05"
+   ]
+  },
+  {
+   "id": "w3f48ca79c7",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "il / elle fait (respect) ; ils font",
+   "tr": "avaru māḍtāre",
+   "kn": "ಅವರು ಮಾಡ್ತಾರೆ",
+   "aka": [
+    "n1u17-06"
+   ]
+  },
+  {
+   "id": "w84a4f3511a",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "nous faisons",
+   "tr": "nāvu māḍtīvi",
+   "kn": "ನಾವು ಮಾಡ್ತೀವಿ",
+   "aka": [
+    "n1u17-07"
+   ]
+  },
+  {
+   "id": "w24f02aaf6f",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "ça fait (chose, animal)",
+   "tr": "adu māḍutte",
+   "kn": "ಅದು ಮಾಡುತ್ತೆ",
+   "aka": [
+    "n1u17-08"
+   ]
+  },
+  {
+   "id": "w19f899d26a",
+   "cat": "Niveau 1 · Je fais : le présent · Conjuguer un verbe",
+   "fr": "ma belle-mère cuisine très bien",
+   "tr": "nanna atte tumbā chennāgi aḍige māḍtāre",
+   "kn": "ನನ್ನ ಅತ್ತೆ ತುಂಬಾ ಚೆನ್ನಾಗಿ ಅಡಿಗೆ ಮಾಡ್ತಾರೆ",
+   "note": "avaru → -tāre, même au singulier, par respect",
+   "aka": [
+    "n1u17-10"
+   ]
+  },
+  {
+   "id": "w7db06feff7",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
+   "fr": "je ne fais pas",
+   "tr": "nānu māḍalla",
+   "kn": "ನಾನು ಮಾಡಲ್ಲ",
+   "note": "verbe + -alla, la même forme pour toutes les personnes",
+   "aka": [
+    "n1u18-01"
+   ]
+  },
+  {
+   "id": "wabe6ef94e6",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
+   "fr": "je suis végétarienne",
+   "tr": "nānu sasyāhāri",
+   "kn": "ನಾನು ಸಸ್ಯಾಹಾರಿ",
+   "aka": [
+    "n1u18-09"
+   ]
+  },
+  {
+   "id": "w5936c379be",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
+   "fr": "un peu d'eau, s'il vous plaît",
+   "tr": "svalpa nīru koḍi",
+   "kn": "ಸ್ವಲ್ಪ ನೀರು ಕೊಡಿ",
+   "aka": [
+    "n1u19-09"
+   ]
+  },
+  {
+   "id": "w3fa7cff851",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
+   "fr": "l'après-midi",
+   "tr": "madhyāhna",
+   "kn": "ಮಧ್ಯಾಹ್ನ",
+   "aka": [
+    "n1u20-06"
+   ]
+  },
+  {
+   "id": "wc4f583c87b",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "la semaine",
    "tr": "vāra",
-   "kn": "ವಾರ"
+   "kn": "ವಾರ",
+   "aka": [
+    "n1u32-02"
+   ]
   },
   {
-   "id": "n1u32-03",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "wb059be6b04",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "le mois",
    "tr": "tiṅgaḷu",
-   "kn": "ತಿಂಗಳು"
+   "kn": "ತಿಂಗಳು",
+   "aka": [
+    "n1u32-03"
+   ]
   },
   {
-   "id": "n1u32-04",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "w8813d4a529",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "l'année",
    "tr": "varṣa",
-   "kn": "ವರ್ಷ"
+   "kn": "ವರ್ಷ",
+   "aka": [
+    "n1u32-04"
+   ]
   },
   {
-   "id": "n1u32-05",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "w553c3a1ba4",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "lundi",
    "tr": "sōmavāra",
-   "kn": "ಸೋಮವಾರ"
+   "kn": "ಸೋಮವಾರ",
+   "aka": [
+    "n1u32-05"
+   ]
   },
   {
-   "id": "n1u32-06",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "w52744b0833",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "mardi",
    "tr": "maṅgaḷavāra",
-   "kn": "ಮಂಗಳವಾರ"
+   "kn": "ಮಂಗಳವಾರ",
+   "aka": [
+    "n1u32-06"
+   ]
   },
   {
-   "id": "n1u32-07",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "w01b39b74b0",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "mercredi",
    "tr": "budhavāra",
-   "kn": "ಬುಧವಾರ"
+   "kn": "ಬುಧವಾರ",
+   "aka": [
+    "n1u32-07"
+   ]
   },
   {
-   "id": "n1u32-08",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "w291c33c8b5",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "jeudi",
    "tr": "guruvāra",
-   "kn": "ಗುರುವಾರ"
+   "kn": "ಗುರುವಾರ",
+   "aka": [
+    "n1u32-08"
+   ]
   },
   {
-   "id": "n1u32-09",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "w4a49aef86c",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "vendredi",
    "tr": "śukravāra",
-   "kn": "ಶುಕ್ರವಾರ"
+   "kn": "ಶುಕ್ರವಾರ",
+   "aka": [
+    "n1u32-09"
+   ]
   },
   {
-   "id": "n1u32-10",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "wcf9915b9a3",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "samedi",
    "tr": "śanivāra",
-   "kn": "ಶನಿವಾರ"
+   "kn": "ಶನಿವಾರ",
+   "aka": [
+    "n1u32-10"
+   ]
   },
   {
-   "id": "n1u32-11",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "wdb82eb08cd",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "dimanche",
    "tr": "bhānuvāra",
-   "kn": "ಭಾನುವಾರ"
+   "kn": "ಭಾನುವಾರ",
+   "aka": [
+    "n1u32-11"
+   ]
   },
   {
-   "id": "n1u32-12",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "w4942866761",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "la semaine prochaine",
    "tr": "mundina vāra",
-   "kn": "ಮುಂದಿನ ವಾರ"
+   "kn": "ಮುಂದಿನ ವಾರ",
+   "aka": [
+    "n1u32-12"
+   ]
   },
   {
-   "id": "n1u32-13",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "w597f62ecba",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "la semaine dernière",
    "tr": "kaḷeda vāra",
-   "kn": "ಕಳೆದ ವಾರ"
+   "kn": "ಕಳೆದ ವಾರ",
+   "aka": [
+    "n1u32-13"
+   ]
   },
   {
-   "id": "n1u32-14",
-   "cat": "Niveau 1 · 32. Les jours et le calendrier",
+   "id": "wc804c82859",
+   "cat": "Niveau 1 · Dire non au verbe · À table …",
    "fr": "on est quel jour aujourd'hui ?",
    "tr": "ivattu yāva vāra?",
-   "kn": "ಇವತ್ತು ಯಾವ ವಾರ?"
+   "kn": "ಇವತ್ತು ಯಾವ ವಾರ?",
+   "aka": [
+    "n1u32-14"
+   ]
   },
   {
-   "id": "n1u33-01",
-   "cat": "Niveau 1 · 33. L'heure",
+   "id": "w6a05095cb1",
+   "cat": "Niveau 1 · L'heure",
    "fr": "l'heure (durée et horaire)",
    "tr": "gaṇṭe",
-   "kn": "ಗಂಟೆ"
+   "kn": "ಗಂಟೆ",
+   "aka": [
+    "n1u33-01"
+   ]
   },
   {
-   "id": "n1u33-02",
-   "cat": "Niveau 1 · 33. L'heure",
+   "id": "w6eb1efa0e9",
+   "cat": "Niveau 1 · L'heure",
    "fr": "la minute",
    "tr": "nimiṣa",
-   "kn": "ನಿಮಿಷ"
+   "kn": "ನಿಮಿಷ",
+   "aka": [
+    "n1u33-02"
+   ]
   },
   {
-   "id": "n1u33-03",
-   "cat": "Niveau 1 · 33. L'heure",
+   "id": "wb801677584",
+   "cat": "Niveau 1 · L'heure",
    "fr": "le temps (qu'on a)",
    "tr": "samaya",
-   "kn": "ಸಮಯ"
+   "kn": "ಸಮಯ",
+   "aka": [
+    "n1u33-03"
+   ]
   },
   {
-   "id": "n1u33-04",
-   "cat": "Niveau 1 · 33. L'heure",
+   "id": "w7dbee6f949",
+   "cat": "Niveau 1 · L'heure",
+   "fr": "environ",
+   "tr": "sumāru",
+   "kn": "ಸುಮಾರು",
+   "aka": [
+    "n1u33-08"
+   ]
+  },
+  {
+   "id": "wfafb1e99fa",
+   "cat": "Niveau 1 · L'heure",
    "fr": "quelle heure est-il ?",
    "tr": "eṣṭu gaṇṭe?",
-   "kn": "ಎಷ್ಟು ಗಂಟೆ?"
+   "kn": "ಎಷ್ಟು ಗಂಟೆ?",
+   "aka": [
+    "n1u33-04"
+   ]
   },
   {
-   "id": "n1u33-05",
-   "cat": "Niveau 1 · 33. L'heure",
+   "id": "w49af53b92f",
+   "cat": "Niveau 1 · L'heure",
    "fr": "il est cinq heures",
    "tr": "aidu gaṇṭe",
-   "kn": "ಐದು ಗಂಟೆ"
+   "kn": "ಐದು ಗಂಟೆ",
+   "aka": [
+    "n1u33-05"
+   ]
   },
   {
-   "id": "n1u33-06",
-   "cat": "Niveau 1 · 33. L'heure",
+   "id": "w5e148ead85",
+   "cat": "Niveau 1 · L'heure",
    "fr": "une demi-heure",
    "tr": "ardha gaṇṭe",
-   "kn": "ಅರ್ಧ ಗಂಟೆ"
+   "kn": "ಅರ್ಧ ಗಂಟೆ",
+   "aka": [
+    "n1u33-06"
+   ]
   },
   {
-   "id": "n1u33-07",
-   "cat": "Niveau 1 · 33. L'heure",
+   "id": "w290e61ab19",
+   "cat": "Niveau 1 · L'heure",
+   "fr": "il n'y a pas le temps",
+   "tr": "samaya illa",
+   "kn": "ಸಮಯ ಇಲ್ಲ",
+   "aka": [
+    "n1u33-10"
+   ]
+  },
+  {
+   "id": "wf91efc648a",
+   "cat": "Niveau 1 · L'heure",
    "fr": "à sept heures du matin",
    "tr": "beḷigge ēḷu gaṇṭege",
    "kn": "ಬೆಳಿಗ್ಗೆ ಏಳು ಗಂಟೆಗೆ",
-   "note": "« à » une heure : -ge (gaṇṭe → gaṇṭege)"
+   "note": "« à » une heure : -ge (gaṇṭe → gaṇṭege)",
+   "aka": [
+    "n1u33-07"
+   ]
   },
   {
-   "id": "n1u33-08",
-   "cat": "Niveau 1 · 33. L'heure",
-   "fr": "environ",
-   "tr": "sumāru",
-   "kn": "ಸುಮಾರು"
-  },
-  {
-   "id": "n1u33-09",
-   "cat": "Niveau 1 · 33. L'heure",
+   "id": "wdce1cee42f",
+   "cat": "Niveau 1 · L'heure",
    "fr": "je suis en retard",
    "tr": "nanage taḍa āytu",
    "kn": "ನನಗೆ ತಡ ಆಯ್ತು",
-   "note": "littéralement « à moi le retard est arrivé »"
+   "note": "littéralement « à moi le retard est arrivé »",
+   "aka": [
+    "n1u33-09"
+   ]
   },
   {
-   "id": "n1u33-10",
-   "cat": "Niveau 1 · 33. L'heure",
-   "fr": "il n'y a pas le temps",
-   "tr": "samaya illa",
-   "kn": "ಸಮಯ ಇಲ್ಲ"
-  },
-  {
-   "id": "n1u34-01",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "se lever",
-   "tr": "ēḷu",
-   "kn": "ಏಳು",
-   "note": "même mot que « sept »"
-  },
-  {
-   "id": "n1u34-02",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "je me lève à sept heures",
-   "tr": "nānu ēḷu gaṇṭege ēḷtīni",
-   "kn": "ನಾನು ಏಳು ಗಂಟೆಗೆ ಏಳ್ತೀನಿ"
-  },
-  {
-   "id": "n1u34-03",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "je prends une douche",
-   "tr": "nānu snāna māḍtīni",
-   "kn": "ನಾನು ಸ್ನಾನ ಮಾಡ್ತೀನಿ"
-  },
-  {
-   "id": "n1u34-04",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "je me brosse les dents",
-   "tr": "nānu hallu ujjtīni",
-   "kn": "ನಾನು ಹಲ್ಲು ಉಜ್ಜ್ತೀನಿ"
-  },
-  {
-   "id": "n1u34-05",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "je m'habille",
-   "tr": "nānu baṭṭe hākkoḷḷtīni",
-   "kn": "ನಾನು ಬಟ್ಟೆ ಹಾಕ್ಕೊಳ್ತೀನಿ"
-  },
-  {
-   "id": "n1u34-06",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "le matin je bois un café",
-   "tr": "beḷigge kāphi kuḍītīni",
-   "kn": "ಬೆಳಿಗ್ಗೆ ಕಾಫಿ ಕುಡೀತೀನಿ"
-  },
-  {
-   "id": "n1u34-07",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "je vais au travail",
-   "tr": "nānu kelsakke hōgtīni",
-   "kn": "ನಾನು ಕೆಲಸಕ್ಕೆ ಹೋಗ್ತೀನಿ"
-  },
-  {
-   "id": "n1u34-08",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "le soir je rentre à la maison",
-   "tr": "sanje manege bartīni",
-   "kn": "ಸಂಜೆ ಮನೆಗೆ ಬರ್ತೀನಿ"
-  },
-  {
-   "id": "n1u34-09",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "je me repose",
-   "tr": "nānu viśrānti tagoḷḷtīni",
-   "kn": "ನಾನು ವಿಶ್ರಾಂತಿ ತಗೊಳ್ತೀನಿ"
-  },
-  {
-   "id": "n1u34-10",
-   "cat": "Niveau 1 · 34. Ma journée",
-   "fr": "je me couche à onze heures",
-   "tr": "nānu hannondu gaṇṭege malagtīni",
-   "kn": "ನಾನು ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಮಲಗ್ತೀನಿ"
-  },
-  {
-   "id": "n1u34-11",
-   "cat": "Niveau 1 · 34. Ma journée",
+   "id": "wdcce9ff977",
+   "cat": "Niveau 1 · Ma journée",
    "fr": "tous les jours",
    "tr": "dina dina",
    "kn": "ದಿನ ದಿನ",
-   "note": "on répète le mot : dina dina = chaque jour"
+   "note": "on répète le mot : dina dina = chaque jour",
+   "aka": [
+    "n1u34-11"
+   ]
   },
   {
-   "id": "n1u35-01",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "wb9af371634",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "je prends une douche",
+   "tr": "nānu snāna māḍtīni",
+   "kn": "ನಾನು ಸ್ನಾನ ಮಾಡ್ತೀನಿ",
+   "aka": [
+    "n1u34-03"
+   ]
+  },
+  {
+   "id": "w0a0f3f3877",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "je me brosse les dents",
+   "tr": "nānu hallu ujjtīni",
+   "kn": "ನಾನು ಹಲ್ಲು ಉಜ್ಜ್ತೀನಿ",
+   "aka": [
+    "n1u34-04"
+   ]
+  },
+  {
+   "id": "w92623ff2cf",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "je m'habille",
+   "tr": "nānu baṭṭe hākkoḷḷtīni",
+   "kn": "ನಾನು ಬಟ್ಟೆ ಹಾಕ್ಕೊಳ್ತೀನಿ",
+   "aka": [
+    "n1u34-05"
+   ]
+  },
+  {
+   "id": "w17df92c929",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "le matin je bois un café",
+   "tr": "beḷigge kāphi kuḍītīni",
+   "kn": "ಬೆಳಿಗ್ಗೆ ಕಾಫಿ ಕುಡೀತೀನಿ",
+   "aka": [
+    "n1u34-06"
+   ]
+  },
+  {
+   "id": "w96fc7d3792",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "je vais au travail",
+   "tr": "nānu kelsakke hōgtīni",
+   "kn": "ನಾನು ಕೆಲಸಕ್ಕೆ ಹೋಗ್ತೀನಿ",
+   "aka": [
+    "n1u34-07"
+   ]
+  },
+  {
+   "id": "w16d0222a9c",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "le soir je rentre à la maison",
+   "tr": "sanje manege bartīni",
+   "kn": "ಸಂಜೆ ಮನೆಗೆ ಬರ್ತೀನಿ",
+   "aka": [
+    "n1u34-08"
+   ]
+  },
+  {
+   "id": "w66bb8c55ea",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "je me repose",
+   "tr": "nānu viśrānti tagoḷḷtīni",
+   "kn": "ನಾನು ವಿಶ್ರಾಂತಿ ತಗೊಳ್ತೀನಿ",
+   "aka": [
+    "n1u34-09"
+   ]
+  },
+  {
+   "id": "wf60b9a5a27",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "je me lève à sept heures",
+   "tr": "nānu ēḷu gaṇṭege ēḷtīni",
+   "kn": "ನಾನು ಏಳು ಗಂಟೆಗೆ ಏಳ್ತೀನಿ",
+   "aka": [
+    "n1u34-02"
+   ]
+  },
+  {
+   "id": "w595e70ceee",
+   "cat": "Niveau 1 · Ma journée",
+   "fr": "je me couche à onze heures",
+   "tr": "nānu hannondu gaṇṭege malagtīni",
+   "kn": "ನಾನು ಹನ್ನೊಂದು ಗಂಟೆಗೆ ಮಲಗ್ತೀನಿ",
+   "aka": [
+    "n1u34-10"
+   ]
+  },
+  {
+   "id": "wc36e23dde6",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "hier je suis allée au temple",
+   "tr": "ninne nānu dēvasthānakke hōde",
+   "kn": "ನಿನ್ನೆ ನಾನು ದೇವಸ್ಥಾನಕ್ಕೆ ಹೋದೆ",
+   "note": "passé « je » : terminaison -e (bande, hōde, māḍide)",
+   "aka": [
+    "n1u21-09"
+   ]
+  },
+  {
+   "id": "w87b2d31e40",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "comment dit-on ça en kannada ?",
+   "tr": "idanna Kannaḍadalli hēge hēḷōdu?",
+   "kn": "ಇದನ್ನ ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಹೇಳೋದು?",
+   "aka": [
+    "n1u22-06"
+   ]
+  },
+  {
+   "id": "w3f2ca54a2d",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "la peur",
+   "tr": "bhaya",
+   "kn": "ಭಯ",
+   "aka": [
+    "n1u23-09"
+   ]
+  },
+  {
+   "id": "w55943d5899",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "j'ai mal à la tête",
+   "tr": "tale nōvu",
+   "kn": "ತಲೆ ನೋವು",
+   "aka": [
+    "n1u23-08"
+   ]
+  },
+  {
+   "id": "w1ad868ab9c",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "le mari",
+   "tr": "ganḍa",
+   "kn": "ಗಂಡ"
+  },
+  {
+   "id": "w4cbedb806c",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "l'épouse",
+   "tr": "hendati",
+   "kn": "ಹೆಂಡತಿ"
+  },
+  {
+   "id": "wd13cab45c8",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "comme ça / ainsi",
+   "tr": "hāge",
+   "kn": "ಹಾಗೆ"
+  },
+  {
+   "id": "w8869ae53b3",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "comme ceci",
+   "tr": "hīge",
+   "kn": "ಹೀಗೆ"
+  },
+  {
+   "id": "w2e77d50f01",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "écoutez",
+   "tr": "kēḷi",
+   "kn": "ಕೇಳಿ"
+  },
+  {
+   "id": "w2f7ca4a785",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "je pense que… (« il me semble »)",
+   "tr": "nanage anisutte…",
+   "kn": "ನನಗೆ ಅನಿಸುತ್ತೆ…"
+  },
+  {
+   "id": "waac9147322",
+   "cat": "Niveau 1 · Le passé · Comprendre et apprendre …",
+   "fr": "je ne pense pas",
+   "tr": "nanage hāge anisalla",
+   "kn": "ನನಗೆ ಹಾಗೆ ಅನಿಸಲ್ಲ"
+  },
+  {
+   "id": "w921fc0e233",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
+   "fr": "qu'est-ce que tu veux manger ?",
+   "tr": "ninage ēnu tinnōke bēku?",
+   "kn": "ನಿನಗೆ ಏನು ತಿನ್ನೋಕೆ ಬೇಕು?",
+   "aka": [
+    "n1u27-08"
+   ]
+  },
+  {
+   "id": "w1e5369d9fd",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
+   "fr": "allons au temple",
+   "tr": "dēvasthānakke hōgōṇa",
+   "kn": "ದೇವಸ್ಥಾನಕ್ಕೆ ಹೋಗೋಣ",
+   "note": "« vers » : -ge / -kke",
+   "aka": [
+    "n1u28-07"
+   ]
+  },
+  {
+   "id": "w64bc967024",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "lire / étudier",
    "tr": "ōdu",
-   "kn": "ಓದು"
+   "kn": "ಓದು",
+   "aka": [
+    "n1u35-01"
+   ]
   },
   {
-   "id": "n1u35-02",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "wa8eef986df",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "écrire",
    "tr": "bare",
-   "kn": "ಬರೆ"
+   "kn": "ಬರೆ",
+   "aka": [
+    "n1u35-02"
+   ]
   },
   {
-   "id": "n1u35-03",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w5e8004bcf2",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "marcher",
    "tr": "naḍi",
-   "kn": "ನಡಿ"
+   "kn": "ನಡಿ",
+   "aka": [
+    "n1u35-03"
+   ]
   },
   {
-   "id": "n1u35-04",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "wc5f9aab8ee",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "courir",
    "tr": "ōḍu",
-   "kn": "ಓಡು"
+   "kn": "ಓಡು",
+   "aka": [
+    "n1u35-04"
+   ]
   },
   {
-   "id": "n1u35-05",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w5d765c6181",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "attendre",
    "tr": "kāyi",
-   "kn": "ಕಾಯಿ"
+   "kn": "ಕಾಯಿ",
+   "aka": [
+    "n1u35-05"
+   ]
   },
   {
-   "id": "n1u35-06",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w958d1c66dc",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "appeler (quelqu'un)",
    "tr": "kari",
-   "kn": "ಕರಿ"
+   "kn": "ಕರಿ",
+   "aka": [
+    "n1u35-06"
+   ]
   },
   {
-   "id": "n1u35-07",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w3ce4063d69",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "acheter",
    "tr": "koḷḷu",
-   "kn": "ಕೊಳ್ಳು"
+   "kn": "ಕೊಳ್ಳು",
+   "aka": [
+    "n1u35-07"
+   ]
   },
   {
-   "id": "n1u35-08",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "wa4bbdccdff",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "ouvrir",
    "tr": "tegi",
-   "kn": "ತೆಗಿ"
+   "kn": "ತೆಗಿ",
+   "aka": [
+    "n1u35-08"
+   ]
   },
   {
-   "id": "n1u35-09",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "wffa8f2693b",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "fermer",
    "tr": "muchchu",
-   "kn": "ಮುಚ್ಚು"
+   "kn": "ಮುಚ್ಚು",
+   "aka": [
+    "n1u35-09"
+   ]
   },
   {
-   "id": "n1u35-10",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w9f4eacaa53",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "jouer",
    "tr": "āḍu",
-   "kn": "ಆಡು"
+   "kn": "ಆಡು",
+   "aka": [
+    "n1u35-10"
+   ]
   },
   {
-   "id": "n1u35-11",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w76c7a01e8c",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "chanter / la chanson",
    "tr": "hāḍu",
-   "kn": "ಹಾಡು"
+   "kn": "ಹಾಡು",
+   "aka": [
+    "n1u35-11"
+   ]
   },
   {
-   "id": "n1u35-12",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w710c43377d",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "laver",
    "tr": "toḷe",
-   "kn": "ತೊಳೆ"
+   "kn": "ತೊಳೆ",
+   "aka": [
+    "n1u35-12"
+   ]
   },
   {
-   "id": "n1u35-13",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "wa50ef2e1a8",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "rire",
    "tr": "nagu",
-   "kn": "ನಗು"
+   "kn": "ನಗು",
+   "aka": [
+    "n1u35-13"
+   ]
   },
   {
-   "id": "n1u35-14",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "we024590191",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "pleurer",
    "tr": "aḷu",
-   "kn": "ಅಳು"
+   "kn": "ಅಳು",
+   "aka": [
+    "n1u35-14"
+   ]
   },
   {
-   "id": "n1u35-15",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "wc150da2358",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "se lever (debout)",
    "tr": "eddēḷu",
-   "kn": "ಎದ್ದೇಳು"
+   "kn": "ಎದ್ದೇಳು",
+   "aka": [
+    "n1u35-15"
+   ]
   },
   {
-   "id": "n1u35-16",
-   "cat": "Niveau 1 · 35. Verbes courants",
-   "fr": "j'ai oublié",
-   "tr": "maretu hōytu",
-   "kn": "ಮರೆತು ಹೋಯ್ತು"
-  },
-  {
-   "id": "n1u35-17",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w5780c06fd7",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "je me souviens",
    "tr": "nenapide",
-   "kn": "ನೆನಪಿದೆ"
+   "kn": "ನೆನಪಿದೆ",
+   "aka": [
+    "n1u35-17"
+   ]
   },
   {
-   "id": "n1u35-18",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w76ab01a46f",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
+   "fr": "j'ai oublié",
+   "tr": "maretu hōytu",
+   "kn": "ಮರೆತು ಹೋಯ್ತು",
+   "aka": [
+    "n1u35-16"
+   ]
+  },
+  {
+   "id": "wecdb8c293f",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "attendez un peu",
    "tr": "svalpa kāyiri",
-   "kn": "ಸ್ವಲ್ಪ ಕಾಯಿರಿ"
+   "kn": "ಸ್ವಲ್ಪ ಕಾಯಿರಿ",
+   "aka": [
+    "n1u35-18"
+   ]
   },
   {
-   "id": "n1u35-19",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w6e5ea4ba9c",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "fermez la porte",
    "tr": "bāgilu muchchi",
-   "kn": "ಬಾಗಿಲು ಮುಚ್ಚಿ"
+   "kn": "ಬಾಗಿಲು ಮುಚ್ಚಿ",
+   "aka": [
+    "n1u35-19"
+   ]
   },
   {
-   "id": "n1u35-20",
-   "cat": "Niveau 1 · 35. Verbes courants",
+   "id": "w0f2531fcad",
+   "cat": "Niveau 1 · Avec ton partenaire · Allons-y : « -ōṇa » …",
    "fr": "ouvrez la fenêtre",
    "tr": "kiṭaki tegeyiri",
-   "kn": "ಕಿಟಕಿ ತೆಗೆಯಿರಿ"
+   "kn": "ಕಿಟಕಿ ತೆಗೆಯಿರಿ",
+   "aka": [
+    "n1u35-20"
+   ]
   },
   {
-   "id": "n1u36-01",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w45268c663e",
+   "cat": "Niveau 1 · Le corps",
    "fr": "la tête",
    "tr": "tale",
-   "kn": "ತಲೆ"
+   "kn": "ತಲೆ",
+   "aka": [
+    "n1u36-01"
+   ]
   },
   {
-   "id": "n1u36-02",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w6b06663a05",
+   "cat": "Niveau 1 · Le corps",
    "fr": "l'œil / les yeux",
    "tr": "kaṇṇu",
-   "kn": "ಕಣ್ಣು"
+   "kn": "ಕಣ್ಣು",
+   "aka": [
+    "n1u36-02"
+   ]
   },
   {
-   "id": "n1u36-03",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w6081c75155",
+   "cat": "Niveau 1 · Le corps",
    "fr": "l'oreille",
    "tr": "kivi",
-   "kn": "ಕಿವಿ"
+   "kn": "ಕಿವಿ",
+   "aka": [
+    "n1u36-03"
+   ]
   },
   {
-   "id": "n1u36-04",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w3f20672311",
+   "cat": "Niveau 1 · Le corps",
    "fr": "le nez",
    "tr": "mūgu",
-   "kn": "ಮೂಗು"
+   "kn": "ಮೂಗು",
+   "aka": [
+    "n1u36-04"
+   ]
   },
   {
-   "id": "n1u36-05",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "wbb5cd8c18b",
+   "cat": "Niveau 1 · Le corps",
    "fr": "la bouche",
    "tr": "bāyi",
-   "kn": "ಬಾಯಿ"
+   "kn": "ಬಾಯಿ",
+   "aka": [
+    "n1u36-05"
+   ]
   },
   {
-   "id": "n1u36-06",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w23dc89bdfa",
+   "cat": "Niveau 1 · Le corps",
    "fr": "la dent",
    "tr": "hallu",
-   "kn": "ಹಲ್ಲು"
+   "kn": "ಹಲ್ಲು",
+   "aka": [
+    "n1u36-06"
+   ]
   },
   {
-   "id": "n1u36-07",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w39342e3c35",
+   "cat": "Niveau 1 · Le corps",
    "fr": "les cheveux",
    "tr": "kūdalu",
-   "kn": "ಕೂದಲು"
+   "kn": "ಕೂದಲು",
+   "aka": [
+    "n1u36-07"
+   ]
   },
   {
-   "id": "n1u36-08",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w8cdeea492c",
+   "cat": "Niveau 1 · Le corps",
    "fr": "le visage",
    "tr": "mukha",
-   "kn": "ಮುಖ"
+   "kn": "ಮುಖ",
+   "aka": [
+    "n1u36-08"
+   ]
   },
   {
-   "id": "n1u36-09",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w411097b24c",
+   "cat": "Niveau 1 · Le corps",
    "fr": "la main / le bras",
    "tr": "kai",
-   "kn": "ಕೈ"
+   "kn": "ಕೈ",
+   "aka": [
+    "n1u36-09"
+   ]
   },
   {
-   "id": "n1u36-10",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w9f210a58b7",
+   "cat": "Niveau 1 · Le corps",
    "fr": "le doigt",
    "tr": "beraḷu",
-   "kn": "ಬೆರಳು"
+   "kn": "ಬೆರಳು",
+   "aka": [
+    "n1u36-10"
+   ]
   },
   {
-   "id": "n1u36-11",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w7289c19105",
+   "cat": "Niveau 1 · Le corps",
    "fr": "la jambe / le pied",
    "tr": "kālu",
-   "kn": "ಕಾಲು"
+   "kn": "ಕಾಲು",
+   "aka": [
+    "n1u36-11"
+   ]
   },
   {
-   "id": "n1u36-12",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "wf306afa6ad",
+   "cat": "Niveau 1 · Le corps",
    "fr": "le ventre",
    "tr": "hoṭṭe",
-   "kn": "ಹೊಟ್ಟೆ"
+   "kn": "ಹೊಟ್ಟೆ",
+   "aka": [
+    "n1u36-12"
+   ]
   },
   {
-   "id": "n1u36-13",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w82b66aef92",
+   "cat": "Niveau 1 · Le corps",
    "fr": "le dos",
    "tr": "bennu",
-   "kn": "ಬೆನ್ನು"
+   "kn": "ಬೆನ್ನು",
+   "aka": [
+    "n1u36-13"
+   ]
   },
   {
-   "id": "n1u36-14",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w69df79aa72",
+   "cat": "Niveau 1 · Le corps",
    "fr": "le cœur",
    "tr": "hṛdaya",
-   "kn": "ಹೃದಯ"
+   "kn": "ಹೃದಯ",
+   "aka": [
+    "n1u36-14"
+   ]
   },
   {
-   "id": "n1u36-15",
-   "cat": "Niveau 1 · 36. Le corps",
+   "id": "w86b5634316",
+   "cat": "Niveau 1 · Le corps",
    "fr": "j'ai mal au dos",
    "tr": "bennu nōvu",
    "kn": "ಬೆನ್ನು ನೋವು",
-   "note": "« X nōvu » = mal à X"
+   "note": "« X nōvu » = mal à X",
+   "aka": [
+    "n1u36-15"
+   ]
   },
   {
-   "id": "n1u37-01",
-   "cat": "Niveau 1 · 37. Météo et nature",
+   "id": "w664d32c858",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "neuf / nouveau",
+   "tr": "hosa",
+   "kn": "ಹೊಸ",
+   "aka": [
+    "n1u25-03"
+   ]
+  },
+  {
+   "id": "wb47439ab8d",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "vieux",
+   "tr": "haḷe",
+   "kn": "ಹಳೆ",
+   "aka": [
+    "n1u25-04"
+   ]
+  },
+  {
+   "id": "wa5115fb38e",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "bon / gentil",
+   "tr": "oḷḷeya",
+   "kn": "ಒಳ್ಳೆಯ",
+   "aka": [
+    "n1u25-05"
+   ]
+  },
+  {
+   "id": "w239c79c386",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "difficile",
+   "tr": "kaṣṭa",
+   "kn": "ಕಷ್ಟ",
+   "aka": [
+    "n1u25-08"
+   ]
+  },
+  {
+   "id": "w430381a791",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "facile",
+   "tr": "sulabha",
+   "kn": "ಸುಲಭ",
+   "aka": [
+    "n1u25-09"
+   ]
+  },
+  {
+   "id": "w497203840b",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "le kannada est un peu difficile",
+   "tr": "Kannaḍa svalpa kaṣṭa",
+   "kn": "ಕನ್ನಡ ಸ್ವಲ್ಪ ಕಷ್ಟ",
+   "note": "encore sans verbe « être »",
+   "aka": [
+    "n1u25-10"
+   ]
+  },
+  {
+   "id": "we28770c514",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "rouge",
+   "tr": "kempu",
+   "kn": "ಕೆಂಪು",
+   "aka": [
+    "n1u26-01"
+   ]
+  },
+  {
+   "id": "waa4725d5e0",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "vert",
+   "tr": "hasiru",
+   "kn": "ಹಸಿರು",
+   "aka": [
+    "n1u26-02"
+   ]
+  },
+  {
+   "id": "wf275a50576",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "bleu",
+   "tr": "nīli",
+   "kn": "ನೀಲಿ",
+   "aka": [
+    "n1u26-03"
+   ]
+  },
+  {
+   "id": "w5492cd4fa6",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "jaune",
+   "tr": "haḷadi",
+   "kn": "ಹಳದಿ",
+   "aka": [
+    "n1u26-04"
+   ]
+  },
+  {
+   "id": "w89bf785ee9",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "blanc",
+   "tr": "biḷi",
+   "kn": "ಬಿಳಿ",
+   "aka": [
+    "n1u26-05"
+   ]
+  },
+  {
+   "id": "w4ad8ba261c",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "noir",
+   "tr": "kappu",
+   "kn": "ಕಪ್ಪು",
+   "aka": [
+    "n1u26-06"
+   ]
+  },
+  {
+   "id": "w3bcf3554a9",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "la couleur",
+   "tr": "baṇṇa",
+   "kn": "ಬಣ್ಣ",
+   "aka": [
+    "n1u26-07"
+   ]
+  },
+  {
+   "id": "wd5587c3078",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "le sari",
+   "tr": "sīre",
+   "kn": "ಸೀರೆ",
+   "aka": [
+    "n1u26-08"
+   ]
+  },
+  {
+   "id": "w1dc8a46259",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "les fleurs",
+   "tr": "hūvu",
+   "kn": "ಹೂವು",
+   "aka": [
+    "n1u26-09"
+   ]
+  },
+  {
+   "id": "w6c5b6d3d3d",
+   "cat": "Niveau 1 · Décrire · Les couleurs",
+   "fr": "ce sari est très beau",
+   "tr": "ī sīre tumbā chennāgide",
+   "kn": "ಈ ಸೀರೆ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ",
+   "aka": [
+    "n1u26-10"
+   ]
+  },
+  {
+   "id": "w6efe457320",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "onze (11)",
+   "tr": "hannondu",
+   "kn": "ಹನ್ನೊಂದು",
+   "aka": [
+    "n1u24-01"
+   ]
+  },
+  {
+   "id": "w0df6c7fbac",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "douze (12)",
+   "tr": "hanneraḍu",
+   "kn": "ಹನ್ನೆರಡು",
+   "aka": [
+    "n1u24-02"
+   ]
+  },
+  {
+   "id": "w707c733ef4",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "vingt (20)",
+   "tr": "ippattu",
+   "kn": "ಇಪ್ಪತ್ತು",
+   "aka": [
+    "n1u24-03"
+   ]
+  },
+  {
+   "id": "w69dae13daa",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "trente (30)",
+   "tr": "mūvattu",
+   "kn": "ಮೂವತ್ತು",
+   "aka": [
+    "n1u24-04"
+   ]
+  },
+  {
+   "id": "w364ff0d262",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "cinquante (50)",
+   "tr": "aivattu",
+   "kn": "ಐವತ್ತು",
+   "aka": [
+    "n1u24-05"
+   ]
+  },
+  {
+   "id": "w4e57fd80b7",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "cent (100)",
+   "tr": "nūru",
+   "kn": "ನೂರು",
+   "aka": [
+    "n1u24-06"
+   ]
+  },
+  {
+   "id": "w6ac7ce9286",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "cinq cents (500)",
+   "tr": "ainūru",
+   "kn": "ಐನೂರು",
+   "aka": [
+    "n1u24-07"
+   ]
+  },
+  {
+   "id": "w0541562326",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "mille (1000)",
+   "tr": "sāvira",
+   "kn": "ಸಾವಿರ",
+   "aka": [
+    "n1u24-08"
+   ]
+  },
+  {
+   "id": "wcbc4f4a3d1",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "la moitié",
+   "tr": "ardha",
+   "kn": "ಅರ್ಧ",
+   "aka": [
+    "n1u24-09"
+   ]
+  },
+  {
+   "id": "wa6b4861968",
+   "cat": "Niveau 1 · Les nombres jusqu'à 1000",
+   "fr": "un et demi",
+   "tr": "ondūvare",
+   "kn": "ಒಂದೂವರೆ",
+   "aka": [
+    "n1u24-10"
+   ]
+  },
+  {
+   "id": "we8a9930290",
+   "cat": "Niveau 1 · Météo et nature",
    "fr": "la pluie",
    "tr": "male",
-   "kn": "ಮಳೆ"
+   "kn": "ಮಳೆ",
+   "aka": [
+    "n1u37-01"
+   ]
   },
   {
-   "id": "n1u37-02",
-   "cat": "Niveau 1 · 37. Météo et nature",
+   "id": "wdc0d95687a",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "le soleil (la chaleur du soleil)",
+   "tr": "bisilu",
+   "kn": "ಬಿಸಿಲು",
+   "aka": [
+    "n1u37-03"
+   ]
+  },
+  {
+   "id": "wa199ed8f00",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "le soleil (l'astre)",
+   "tr": "sūrya",
+   "kn": "ಸೂರ್ಯ",
+   "aka": [
+    "n1u37-04"
+   ]
+  },
+  {
+   "id": "wf264540084",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "la lune",
+   "tr": "chandra",
+   "kn": "ಚಂದ್ರ",
+   "aka": [
+    "n1u37-05"
+   ]
+  },
+  {
+   "id": "w1346c6a3ad",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "le vent",
+   "tr": "gāḷi",
+   "kn": "ಗಾಳಿ",
+   "aka": [
+    "n1u37-06"
+   ]
+  },
+  {
+   "id": "w20c1646a83",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "le nuage",
+   "tr": "mōḍa",
+   "kn": "ಮೋಡ",
+   "aka": [
+    "n1u37-07"
+   ]
+  },
+  {
+   "id": "we76fff75ea",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "le ciel",
+   "tr": "ākāśa",
+   "kn": "ಆಕಾಶ",
+   "aka": [
+    "n1u37-08"
+   ]
+  },
+  {
+   "id": "wfb745e770a",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "l'arbre",
+   "tr": "mara",
+   "kn": "ಮರ",
+   "aka": [
+    "n1u37-09"
+   ]
+  },
+  {
+   "id": "w26aeef682f",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "la plante",
+   "tr": "gida",
+   "kn": "ಗಿಡ",
+   "aka": [
+    "n1u37-10"
+   ]
+  },
+  {
+   "id": "wd2b89fe098",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "la rivière",
+   "tr": "nadi",
+   "kn": "ನದಿ",
+   "aka": [
+    "n1u37-11"
+   ]
+  },
+  {
+   "id": "wd4a856cb8f",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "la mer",
+   "tr": "samudra",
+   "kn": "ಸಮುದ್ರ",
+   "aka": [
+    "n1u37-12"
+   ]
+  },
+  {
+   "id": "wb883ed345a",
+   "cat": "Niveau 1 · Météo et nature",
+   "fr": "la colline",
+   "tr": "beṭṭa",
+   "kn": "ಬೆಟ್ಟ",
+   "aka": [
+    "n1u37-13"
+   ]
+  },
+  {
+   "id": "wda3aad28eb",
+   "cat": "Niveau 1 · Météo et nature",
    "fr": "il pleut",
    "tr": "male bartide",
    "kn": "ಮಳೆ ಬರ್ತಿದೆ",
-   "note": "« la pluie vient »"
+   "note": "« la pluie vient »",
+   "aka": [
+    "n1u37-02"
+   ]
   },
   {
-   "id": "n1u37-03",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "le soleil (la chaleur du soleil)",
-   "tr": "bisilu",
-   "kn": "ಬಿಸಿಲು"
-  },
-  {
-   "id": "n1u37-04",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "le soleil (l'astre)",
-   "tr": "sūrya",
-   "kn": "ಸೂರ್ಯ"
-  },
-  {
-   "id": "n1u37-05",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "la lune",
-   "tr": "chandra",
-   "kn": "ಚಂದ್ರ"
-  },
-  {
-   "id": "n1u37-06",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "le vent",
-   "tr": "gāḷi",
-   "kn": "ಗಾಳಿ"
-  },
-  {
-   "id": "n1u37-07",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "le nuage",
-   "tr": "mōḍa",
-   "kn": "ಮೋಡ"
-  },
-  {
-   "id": "n1u37-08",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "le ciel",
-   "tr": "ākāśa",
-   "kn": "ಆಕಾಶ"
-  },
-  {
-   "id": "n1u37-09",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "l'arbre",
-   "tr": "mara",
-   "kn": "ಮರ"
-  },
-  {
-   "id": "n1u37-10",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "la plante",
-   "tr": "gida",
-   "kn": "ಗಿಡ"
-  },
-  {
-   "id": "n1u37-11",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "la rivière",
-   "tr": "nadi",
-   "kn": "ನದಿ"
-  },
-  {
-   "id": "n1u37-12",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "la mer",
-   "tr": "samudra",
-   "kn": "ಸಮುದ್ರ"
-  },
-  {
-   "id": "n1u37-13",
-   "cat": "Niveau 1 · 37. Météo et nature",
-   "fr": "la colline",
-   "tr": "beṭṭa",
-   "kn": "ಬೆಟ್ಟ"
-  },
-  {
-   "id": "n1u37-14",
-   "cat": "Niveau 1 · 37. Météo et nature",
+   "id": "wdd25210ecd",
+   "cat": "Niveau 1 · Météo et nature",
    "fr": "il fait froid",
    "tr": "chaḷi ide",
-   "kn": "ಚಳಿ ಇದೆ"
+   "kn": "ಚಳಿ ಇದೆ",
+   "aka": [
+    "n1u37-14"
+   ]
   },
   {
-   "id": "n1u37-15",
-   "cat": "Niveau 1 · 37. Météo et nature",
+   "id": "w6423da896c",
+   "cat": "Niveau 1 · Météo et nature",
    "fr": "il fait beau aujourd'hui",
    "tr": "ivattu vātāvaraṇa chennāgide",
-   "kn": "ಇವತ್ತು ವಾತಾವರಣ ಚೆನ್ನಾಗಿದೆ"
+   "kn": "ಇವತ್ತು ವಾತಾವರಣ ಚೆನ್ನಾಗಿದೆ",
+   "aka": [
+    "n1u37-15"
+   ]
   },
   {
-   "id": "n1u38-01",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "w49a22e2316",
+   "cat": "Niveau 1 · Les gens",
    "fr": "un homme",
    "tr": "gaṇḍasu",
-   "kn": "ಗಂಡಸು"
+   "kn": "ಗಂಡಸು",
+   "aka": [
+    "n1u38-01"
+   ]
   },
   {
-   "id": "n1u38-02",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "we3db4c3db0",
+   "cat": "Niveau 1 · Les gens",
    "fr": "une femme",
    "tr": "heṅgasu",
-   "kn": "ಹೆಂಗಸು"
+   "kn": "ಹೆಂಗಸು",
+   "aka": [
+    "n1u38-02"
+   ]
   },
   {
-   "id": "n1u38-03",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "w75c12ab03d",
+   "cat": "Niveau 1 · Les gens",
    "fr": "les enfants",
    "tr": "makkaḷu",
-   "kn": "ಮಕ್ಕಳು"
+   "kn": "ಮಕ್ಕಳು",
+   "aka": [
+    "n1u38-03"
+   ]
   },
   {
-   "id": "n1u38-04",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "w6d5ada9761",
+   "cat": "Niveau 1 · Les gens",
    "fr": "les gens",
    "tr": "jana",
-   "kn": "ಜನ"
+   "kn": "ಜನ",
+   "aka": [
+    "n1u38-04"
+   ]
   },
   {
-   "id": "n1u38-05",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "w12ed88b67f",
+   "cat": "Niveau 1 · Les gens",
    "fr": "les voisins",
    "tr": "nereyavaru",
-   "kn": "ನೆರೆಯವರು"
+   "kn": "ನೆರೆಯವರು",
+   "aka": [
+    "n1u38-05"
+   ]
   },
   {
-   "id": "n1u38-06",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "w6ae51887ff",
+   "cat": "Niveau 1 · Les gens",
    "fr": "l'invité·e",
    "tr": "atithi",
-   "kn": "ಅತಿಥಿ"
+   "kn": "ಅತಿಥಿ",
+   "aka": [
+    "n1u38-06"
+   ]
   },
   {
-   "id": "n1u38-07",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "wf0f60b8044",
+   "cat": "Niveau 1 · Les gens",
    "fr": "tout le monde",
    "tr": "ellaru",
-   "kn": "ಎಲ್ಲರು"
+   "kn": "ಎಲ್ಲರು",
+   "aka": [
+    "n1u38-07"
+   ]
   },
   {
-   "id": "n1u38-08",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "w981dfea6d5",
+   "cat": "Niveau 1 · Les gens",
    "fr": "quelqu'un",
    "tr": "yārādru",
-   "kn": "ಯಾರಾದ್ರು"
+   "kn": "ಯಾರಾದ್ರು",
+   "aka": [
+    "n1u38-08"
+   ]
   },
   {
-   "id": "n1u38-09",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "wc79b4c19e8",
+   "cat": "Niveau 1 · Les gens",
    "fr": "deux personnes",
    "tr": "ibbaru",
-   "kn": "ಇಬ್ಬರು"
+   "kn": "ಇಬ್ಬರು",
+   "aka": [
+    "n1u38-09"
+   ]
   },
   {
-   "id": "n1u38-10",
-   "cat": "Niveau 1 · 38. Les gens",
+   "id": "w093ef5d7ff",
+   "cat": "Niveau 1 · Les gens",
    "fr": "combien de personnes ?",
    "tr": "eṣṭu jana?",
-   "kn": "ಎಷ್ಟು ಜನ?"
+   "kn": "ಎಷ್ಟು ಜನ?",
+   "aka": [
+    "n1u38-10"
+   ]
   },
   {
-   "id": "n1u39-01",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "wd5daa33d4f",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "le magasin",
    "tr": "angaḍi",
-   "kn": "ಅಂಗಡಿ"
+   "kn": "ಅಂಗಡಿ",
+   "aka": [
+    "n1u39-01"
+   ]
   },
   {
-   "id": "n1u39-02",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "w3069b859ff",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "le marché",
    "tr": "mārukaṭṭe",
-   "kn": "ಮಾರುಕಟ್ಟೆ"
+   "kn": "ಮಾರುಕಟ್ಟೆ",
+   "aka": [
+    "n1u39-02"
+   ]
   },
   {
-   "id": "n1u39-03",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "w5973ccaaad",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "l'hôpital",
    "tr": "āspatre",
-   "kn": "ಆಸ್ಪತ್ರೆ"
+   "kn": "ಆಸ್ಪತ್ರೆ",
+   "aka": [
+    "n1u39-03"
+   ]
   },
   {
-   "id": "n1u39-04",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "wfcd7e52eff",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "l'école",
    "tr": "śāle",
-   "kn": "ಶಾಲೆ"
+   "kn": "ಶಾಲೆ",
+   "aka": [
+    "n1u39-04"
+   ]
   },
   {
-   "id": "n1u39-05",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "wb618199516",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "l'université",
    "tr": "viśvavidyālaya",
-   "kn": "ವಿಶ್ವವಿದ್ಯಾಲಯ"
+   "kn": "ವಿಶ್ವವಿದ್ಯಾಲಯ",
+   "aka": [
+    "n1u39-05"
+   ]
   },
   {
-   "id": "n1u39-06",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "w33735d7e0f",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "le bureau (lieu de travail)",
    "tr": "kachēri",
-   "kn": "ಕಚೇರಿ"
+   "kn": "ಕಚೇರಿ",
+   "aka": [
+    "n1u39-06"
+   ]
   },
   {
-   "id": "n1u39-07",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "w384e2cc870",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "la rue / la route",
    "tr": "raste",
-   "kn": "ರಸ್ತೆ"
+   "kn": "ರಸ್ತೆ",
+   "aka": [
+    "n1u39-07"
+   ]
   },
   {
-   "id": "n1u39-08",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "wf7870a3e5d",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "le village",
    "tr": "haḷḷi",
-   "kn": "ಹಳ್ಳಿ"
+   "kn": "ಹಳ್ಳಿ",
+   "aka": [
+    "n1u39-08"
+   ]
   },
   {
-   "id": "n1u39-09",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "w0027793664",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "la ville",
    "tr": "nagara",
-   "kn": "ನಗರ"
+   "kn": "ನಗರ",
+   "aka": [
+    "n1u39-09"
+   ]
   },
   {
-   "id": "n1u39-10",
-   "cat": "Niveau 1 · 39. Les lieux",
+   "id": "w435b6775dd",
+   "cat": "Niveau 1 · Les lieux",
    "fr": "le parc / le jardin",
    "tr": "udyāna",
-   "kn": "ಉದ್ಯಾನ"
+   "kn": "ಉದ್ಯಾನ",
+   "aka": [
+    "n1u39-10"
+   ]
   },
   {
-   "id": "n1u40-01",
-   "cat": "Niveau 1 · 40. Les transports",
+   "id": "web4bee5fa1",
+   "cat": "Niveau 1 · Les transports",
    "fr": "le véhicule",
    "tr": "vāhana",
-   "kn": "ವಾಹನ"
+   "kn": "ವಾಹನ",
+   "aka": [
+    "n1u40-01"
+   ]
   },
   {
-   "id": "n1u40-02",
-   "cat": "Niveau 1 · 40. Les transports",
+   "id": "w505af83574",
+   "cat": "Niveau 1 · Les transports",
    "fr": "le train",
    "tr": "railu",
-   "kn": "ರೈಲು"
+   "kn": "ರೈಲು",
+   "aka": [
+    "n1u40-02"
+   ]
   },
   {
-   "id": "n1u40-03",
-   "cat": "Niveau 1 · 40. Les transports",
+   "id": "wb28e6cb5f1",
+   "cat": "Niveau 1 · Les transports",
    "fr": "l'avion",
    "tr": "vimāna",
-   "kn": "ವಿಮಾನ"
+   "kn": "ವಿಮಾನ",
+   "aka": [
+    "n1u40-03"
+   ]
   },
   {
-   "id": "n1u40-04",
-   "cat": "Niveau 1 · 40. Les transports",
+   "id": "wba40020edc",
+   "cat": "Niveau 1 · Les transports",
+   "fr": "le billet",
+   "tr": "chīṭi",
+   "kn": "ಚೀಟಿ",
+   "aka": [
+    "n1u40-07"
+   ]
+  },
+  {
+   "id": "w30e86252d8",
+   "cat": "Niveau 1 · Les transports",
+   "fr": "le voyage",
+   "tr": "prayāṇa",
+   "kn": "ಪ್ರಯಾಣ",
+   "aka": [
+    "n1u40-08"
+   ]
+  },
+  {
+   "id": "wca45091769",
+   "cat": "Niveau 1 · Les transports",
    "fr": "l'aéroport",
    "tr": "vimāna nildāṇa",
    "kn": "ವಿಮಾನ ನಿಲ್ದಾಣ",
-   "note": "littéralement « arrêt des avions »"
+   "note": "littéralement « arrêt des avions »",
+   "aka": [
+    "n1u40-04"
+   ]
   },
   {
-   "id": "n1u40-05",
-   "cat": "Niveau 1 · 40. Les transports",
+   "id": "wecc5294fac",
+   "cat": "Niveau 1 · Les transports",
    "fr": "la gare",
    "tr": "railu nildāṇa",
-   "kn": "ರೈಲು ನಿಲ್ದಾಣ"
+   "kn": "ರೈಲು ನಿಲ್ದಾಣ",
+   "aka": [
+    "n1u40-05"
+   ]
   },
   {
-   "id": "n1u40-06",
-   "cat": "Niveau 1 · 40. Les transports",
+   "id": "wd9a5e48d8f",
+   "cat": "Niveau 1 · Les transports",
    "fr": "la gare routière",
    "tr": "bas nildāṇa",
-   "kn": "ಬಸ್ ನಿಲ್ದಾಣ"
+   "kn": "ಬಸ್ ನಿಲ್ದಾಣ",
+   "aka": [
+    "n1u40-06"
+   ]
   },
   {
-   "id": "n1u40-07",
-   "cat": "Niveau 1 · 40. Les transports",
-   "fr": "le billet",
-   "tr": "chīṭi",
-   "kn": "ಚೀಟಿ"
-  },
-  {
-   "id": "n1u40-08",
-   "cat": "Niveau 1 · 40. Les transports",
-   "fr": "le voyage",
-   "tr": "prayāṇa",
-   "kn": "ಪ್ರಯಾಣ"
-  },
-  {
-   "id": "n1u40-09",
-   "cat": "Niveau 1 · 40. Les transports",
+   "id": "w3d1ebfb2ed",
+   "cat": "Niveau 1 · Les transports",
    "fr": "allons-y à pied",
    "tr": "naḍedukoṇḍu hōgōṇa",
-   "kn": "ನಡೆದುಕೊಂಡು ಹೋಗೋಣ"
+   "kn": "ನಡೆದುಕೊಂಡು ಹೋಗೋಣ",
+   "aka": [
+    "n1u40-09"
+   ]
   },
   {
-   "id": "n1u40-10",
-   "cat": "Niveau 1 · 40. Les transports",
+   "id": "w1d76ae0686",
+   "cat": "Niveau 1 · Les transports",
    "fr": "combien de temps ça prend ?",
    "tr": "eṣṭu hottu āgutte?",
-   "kn": "ಎಷ್ಟು ಹೊತ್ತು ಆಗುತ್ತೆ?"
+   "kn": "ಎಷ್ಟು ಹೊತ್ತು ಆಗುತ್ತೆ?",
+   "aka": [
+    "n1u40-10"
+   ]
   },
   {
-   "id": "n1u41-01",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "w98debecee0",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "les vêtements",
    "tr": "baṭṭe",
-   "kn": "ಬಟ್ಟೆ"
+   "kn": "ಬಟ್ಟೆ",
+   "aka": [
+    "n1u41-01"
+   ]
   },
   {
-   "id": "n1u41-02",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "w6fa831a020",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "la chemise",
    "tr": "aṅgi",
-   "kn": "ಅಂಗಿ"
+   "kn": "ಅಂಗಿ",
+   "aka": [
+    "n1u41-02"
+   ]
   },
   {
-   "id": "n1u41-03",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "w685a9ade62",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "les sandales",
    "tr": "chappali",
    "kn": "ಚಪ್ಪಲಿ",
-   "note": "on les enlève avant d'entrer dans la maison"
+   "note": "on les enlève avant d'entrer dans la maison",
+   "aka": [
+    "n1u41-03"
+   ]
   },
   {
-   "id": "n1u41-04",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "w3c7df1b1df",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "les bracelets",
    "tr": "baḷe",
-   "kn": "ಬಳೆ"
+   "kn": "ಬಳೆ",
+   "aka": [
+    "n1u41-04"
+   ]
   },
   {
-   "id": "n1u41-05",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "wef32652fe2",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "le collier",
    "tr": "sara",
-   "kn": "ಸರ"
+   "kn": "ಸರ",
+   "aka": [
+    "n1u41-05"
+   ]
   },
   {
-   "id": "n1u41-06",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "w11cd923110",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "le point sur le front",
    "tr": "boṭṭu",
-   "kn": "ಬೊಟ್ಟು"
+   "kn": "ಬೊಟ್ಟು",
+   "aka": [
+    "n1u41-06"
+   ]
   },
   {
-   "id": "n1u41-07",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "wfdcde4bdaa",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "les lunettes",
    "tr": "kannaḍaka",
-   "kn": "ಕನ್ನಡಕ"
+   "kn": "ಕನ್ನಡಕ",
+   "aka": [
+    "n1u41-07"
+   ]
   },
   {
-   "id": "n1u41-08",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "w60bebb6e1a",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "le sac",
    "tr": "chīla",
-   "kn": "ಚೀಲ"
+   "kn": "ಚೀಲ",
+   "aka": [
+    "n1u41-08"
+   ]
   },
   {
-   "id": "n1u41-09",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "w5fa67a8a95",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "enlevez vos sandales",
    "tr": "chappali biḍi",
    "kn": "ಚಪ್ಪಲಿ ಬಿಡಿ",
-   "note": "littéralement « laissez les sandales »"
+   "note": "littéralement « laissez les sandales »",
+   "aka": [
+    "n1u41-09"
+   ]
   },
   {
-   "id": "n1u41-10",
-   "cat": "Niveau 1 · 41. Les vêtements",
+   "id": "wc0422a905b",
+   "cat": "Niveau 1 · Les vêtements",
    "fr": "ces vêtements sont jolis",
    "tr": "ī baṭṭe chennāgide",
-   "kn": "ಈ ಬಟ್ಟೆ ಚೆನ್ನಾಗಿದೆ"
+   "kn": "ಈ ಬಟ್ಟೆ ಚೆನ್ನಾಗಿದೆ",
+   "aka": [
+    "n1u41-10"
+   ]
   },
   {
-   "id": "n1u42-01",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "w06869a4004",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "le jeu",
    "tr": "āṭa",
-   "kn": "ಆಟ"
+   "kn": "ಆಟ",
+   "aka": [
+    "n1u42-01"
+   ]
   },
   {
-   "id": "n1u42-02",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "wcef4cd8539",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "la musique",
    "tr": "saṅgīta",
-   "kn": "ಸಂಗೀತ"
+   "kn": "ಸಂಗೀತ",
+   "aka": [
+    "n1u42-02"
+   ]
   },
   {
-   "id": "n1u42-03",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "w71689b4e5b",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "le livre",
    "tr": "pustaka",
-   "kn": "ಪುಸ್ತಕ"
+   "kn": "ಪುಸ್ತಕ",
+   "aka": [
+    "n1u42-03"
+   ]
   },
   {
-   "id": "n1u42-04",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "wb27909c8e5",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "l'image / le dessin",
    "tr": "chitra",
-   "kn": "ಚಿತ್ರ"
+   "kn": "ಚಿತ್ರ",
+   "aka": [
+    "n1u42-04"
+   ]
   },
   {
-   "id": "n1u42-05",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "we48866e3b5",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "le film",
    "tr": "sinimā",
    "kn": "ಸಿನಿಮಾ",
-   "note": "mot entré dans le kannada courant"
+   "note": "mot entré dans le kannada courant",
+   "aka": [
+    "n1u42-05"
+   ]
   },
   {
-   "id": "n1u42-06",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "w316408606e",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "la promenade",
    "tr": "tirugāṭa",
-   "kn": "ತಿರುಗಾಟ"
+   "kn": "ತಿರುಗಾಟ",
+   "aka": [
+    "n1u42-06"
+   ]
   },
   {
-   "id": "n1u42-07",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "w90992ae65f",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "mon passe-temps",
    "tr": "nanna havyāsa",
-   "kn": "ನನ್ನ ಹವ್ಯಾಸ"
+   "kn": "ನನ್ನ ಹವ್ಯಾಸ",
+   "aka": [
+    "n1u42-07"
+   ]
   },
   {
-   "id": "n1u42-08",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "w229d07486f",
+   "cat": "Niveau 1 · Loisirs",
+   "fr": "on regarde un film ?",
+   "tr": "sinimā nōḍōṇa?",
+   "kn": "ಸಿನಿಮಾ ನೋಡೋಣ?",
+   "aka": [
+    "n1u42-10"
+   ]
+  },
+  {
+   "id": "wcaff4bf4d4",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "j'aime lire",
    "tr": "nanage ōdōdu ishṭa",
    "kn": "ನನಗೆ ಓದೋದು ಇಷ್ಟ",
-   "note": "verbe + -ōdu = « le fait de… » (ōdōdu = lire)"
+   "note": "verbe + -ōdu = « le fait de… » (ōdōdu = lire)",
+   "aka": [
+    "n1u42-08"
+   ]
   },
   {
-   "id": "n1u42-09",
-   "cat": "Niveau 1 · 42. Loisirs",
+   "id": "w2a53faa93e",
+   "cat": "Niveau 1 · Loisirs",
    "fr": "j'aime dessiner",
    "tr": "nanage chitra bariyōdu ishṭa",
-   "kn": "ನನಗೆ ಚಿತ್ರ ಬರಿಯೋದು ಇಷ್ಟ"
+   "kn": "ನನಗೆ ಚಿತ್ರ ಬರಿಯೋದು ಇಷ್ಟ",
+   "aka": [
+    "n1u42-09"
+   ]
   },
   {
-   "id": "n1u42-10",
-   "cat": "Niveau 1 · 42. Loisirs",
-   "fr": "on regarde un film ?",
-   "tr": "sinimā nōḍōṇa?",
-   "kn": "ಸಿನಿಮಾ ನೋಡೋಣ?"
-  },
-  {
-   "id": "n1u43-01",
-   "cat": "Niveau 1 · 43. Études et travail",
-   "fr": "le travail",
-   "tr": "kelsa",
-   "kn": "ಕೆಲಸ"
-  },
-  {
-   "id": "n1u43-02",
-   "cat": "Niveau 1 · 43. Études et travail",
+   "id": "wc93f913da6",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "la leçon",
    "tr": "pāṭha",
-   "kn": "ಪಾಠ"
+   "kn": "ಪಾಠ",
+   "aka": [
+    "n1u43-02"
+   ]
   },
   {
-   "id": "n1u43-03",
-   "cat": "Niveau 1 · 43. Études et travail",
+   "id": "w316e6dbfca",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "la question",
    "tr": "praśne",
-   "kn": "ಪ್ರಶ್ನೆ"
+   "kn": "ಪ್ರಶ್ನೆ",
+   "aka": [
+    "n1u43-03"
+   ]
   },
   {
-   "id": "n1u43-04",
-   "cat": "Niveau 1 · 43. Études et travail",
+   "id": "wf13107a602",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "la réponse",
    "tr": "uttara",
-   "kn": "ಉತ್ತರ"
+   "kn": "ಉತ್ತರ",
+   "aka": [
+    "n1u43-04"
+   ]
   },
   {
-   "id": "n1u43-05",
-   "cat": "Niveau 1 · 43. Études et travail",
+   "id": "w5b24c4c9b2",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "la recherche",
    "tr": "saṁśōdhane",
-   "kn": "ಸಂಶೋಧನೆ"
+   "kn": "ಸಂಶೋಧನೆ",
+   "aka": [
+    "n1u43-05"
+   ]
   },
   {
-   "id": "n1u43-06",
-   "cat": "Niveau 1 · 43. Études et travail",
+   "id": "wf9382ac5c7",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "la psychologie",
    "tr": "manōvijñāna",
-   "kn": "ಮನೋವಿಜ್ಞಾನ"
+   "kn": "ಮನೋವಿಜ್ಞಾನ",
+   "aka": [
+    "n1u43-06"
+   ]
   },
   {
-   "id": "n1u43-07",
-   "cat": "Niveau 1 · 43. Études et travail",
+   "id": "w9fbbc86077",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "je fais de la recherche en psychologie",
    "tr": "nānu manōvijñānadalli saṁśōdhane māḍtīni",
-   "kn": "ನಾನು ಮನೋವಿಜ್ಞಾನದಲ್ಲಿ ಸಂಶೋಧನೆ ಮಾಡ್ತೀನಿ"
+   "kn": "ನಾನು ಮನೋವಿಜ್ಞಾನದಲ್ಲಿ ಸಂಶೋಧನೆ ಮಾಡ್ತೀನಿ",
+   "aka": [
+    "n1u43-07"
+   ]
   },
   {
-   "id": "n1u43-08",
-   "cat": "Niveau 1 · 43. Études et travail",
-   "fr": "je donne un cours",
-   "tr": "nānu pāṭha māḍtīni",
-   "kn": "ನಾನು ಪಾಠ ಮಾಡ್ತೀನಿ"
-  },
-  {
-   "id": "n1u43-09",
-   "cat": "Niveau 1 · 43. Études et travail",
-   "fr": "quel est votre travail ?",
-   "tr": "nimma kelsa ēnu?",
-   "kn": "ನಿಮ್ಮ ಕೆಲಸ ಏನು?"
-  },
-  {
-   "id": "n1u43-10",
-   "cat": "Niveau 1 · 43. Études et travail",
+   "id": "wb9f8e520dd",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "j'ai beaucoup de travail",
    "tr": "nanage tumbā kelsa ide",
-   "kn": "ನನಗೆ ತುಂಬಾ ಕೆಲಸ ಇದೆ"
+   "kn": "ನನಗೆ ತುಂಬಾ ಕೆಲಸ ಇದೆ",
+   "aka": [
+    "n1u43-10"
+   ]
   },
   {
-   "id": "n1u44-01",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "w455666c584",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "le chat",
    "tr": "bekku",
-   "kn": "ಬೆಕ್ಕು"
+   "kn": "ಬೆಕ್ಕು",
+   "aka": [
+    "n1u44-01"
+   ]
   },
   {
-   "id": "n1u44-02",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "wcd70690f2d",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "le chien",
    "tr": "nāyi",
-   "kn": "ನಾಯಿ"
+   "kn": "ನಾಯಿ",
+   "aka": [
+    "n1u44-02"
+   ]
   },
   {
-   "id": "n1u44-03",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "wa47be1670b",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "la vache",
    "tr": "hasu",
-   "kn": "ಹಸು"
+   "kn": "ಹಸು",
+   "aka": [
+    "n1u44-03"
+   ]
   },
   {
-   "id": "n1u44-04",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "w53f545fd84",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "l'éléphant",
    "tr": "āne",
-   "kn": "ಆನೆ"
+   "kn": "ಆನೆ",
+   "aka": [
+    "n1u44-04"
+   ]
   },
   {
-   "id": "n1u44-05",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "wda86b52254",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "le singe",
    "tr": "kōti",
-   "kn": "ಕೋತಿ"
+   "kn": "ಕೋತಿ",
+   "aka": [
+    "n1u44-05"
+   ]
   },
   {
-   "id": "n1u44-06",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "wf423f94251",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "l'oiseau",
    "tr": "hakki",
-   "kn": "ಹಕ್ಕಿ"
+   "kn": "ಹಕ್ಕಿ",
+   "aka": [
+    "n1u44-06"
+   ]
   },
   {
-   "id": "n1u44-07",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "w1f182fb8af",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "le poisson",
    "tr": "mīnu",
-   "kn": "ಮೀನು"
+   "kn": "ಮೀನು",
+   "aka": [
+    "n1u44-07"
+   ]
   },
   {
-   "id": "n1u44-08",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "w876d6db18f",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "le serpent",
    "tr": "hāvu",
-   "kn": "ಹಾವು"
+   "kn": "ಹಾವು",
+   "aka": [
+    "n1u44-08"
+   ]
   },
   {
-   "id": "n1u44-09",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "w95feaf9df0",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "le cheval",
    "tr": "kudure",
-   "kn": "ಕುದುರೆ"
+   "kn": "ಕುದುರೆ",
+   "aka": [
+    "n1u44-09"
+   ]
   },
   {
-   "id": "n1u44-10",
-   "cat": "Niveau 1 · 44. Les animaux",
+   "id": "w481092c98d",
+   "cat": "Niveau 1 · Études et travail · Les animaux",
    "fr": "j'ai une chatte, elle s'appelle Micky",
    "tr": "nanna hatra ondu bekku ide, adara hesaru Micky",
    "kn": "ನನ್ನ ಹತ್ರ ಒಂದು ಬೆಕ್ಕು ಇದೆ, ಅದರ ಹೆಸರು ಮಿಕ್ಕಿ",
-   "note": "« chez moi il y a un chat » ; pour un animal on dit adu (« ça »)"
+   "note": "« chez moi il y a un chat » ; pour un animal on dit adu (« ça »)",
+   "aka": [
+    "n1u44-10"
+   ]
   },
   {
-   "id": "n1u45-01",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "et",
-   "tr": "mattu",
-   "kn": "ಮತ್ತು"
-  },
-  {
-   "id": "n1u45-02",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "mais",
-   "tr": "ādre",
-   "kn": "ಆದ್ರೆ"
-  },
-  {
-   "id": "n1u45-03",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "ou",
-   "tr": "athavā",
-   "kn": "ಅಥವಾ"
-  },
-  {
-   "id": "n1u45-04",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "parce que",
-   "tr": "yākandre",
-   "kn": "ಯಾಕಂದ್ರೆ"
-  },
-  {
-   "id": "n1u45-05",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "donc / c'est pour ça",
-   "tr": "adakke",
-   "kn": "ಅದಕ್ಕೆ"
-  },
-  {
-   "id": "n1u45-06",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "avec",
-   "tr": "jote",
-   "kn": "ಜೊತೆ"
-  },
-  {
-   "id": "n1u45-07",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "avec toi",
-   "tr": "ninna jote",
-   "kn": "ನಿನ್ನ ಜೊತೆ"
-  },
-  {
-   "id": "n1u45-08",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "sans",
-   "tr": "illade",
-   "kn": "ಇಲ್ಲದೆ"
-  },
-  {
-   "id": "n1u45-09",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "toujours",
-   "tr": "yāvāglū",
-   "kn": "ಯಾವಾಗ್ಲೂ"
-  },
-  {
-   "id": "n1u45-10",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "parfois",
-   "tr": "kelavu sala",
-   "kn": "ಕೆಲವು ಸಲ"
-  },
-  {
-   "id": "n1u45-11",
-   "cat": "Niveau 1 · 45. Relier les idées",
-   "fr": "encore / pas encore",
-   "tr": "innū",
-   "kn": "ಇನ್ನೂ"
-  },
-  {
-   "id": "n1u45-12",
-   "cat": "Niveau 1 · 45. Relier les idées",
+   "id": "w452b8da3ff",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "j'ai faim mais je suis fatiguée",
    "tr": "nanage hasivu āgtide, ādre susthu āgide",
-   "kn": "ನನಗೆ ಹಸಿವು ಆಗ್ತಿದೆ, ಆದ್ರೆ ಸುಸ್ತು ಆಗಿದೆ"
+   "kn": "ನನಗೆ ಹಸಿವು ಆಗ್ತಿದೆ, ಆದ್ರೆ ಸುಸ್ತು ಆಗಿದೆ",
+   "aka": [
+    "n1u45-12"
+   ]
   },
   {
-   "id": "n1u46-01",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "w9b63eb8150",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "tout",
    "tr": "ella",
-   "kn": "ಎಲ್ಲ"
+   "kn": "ಎಲ್ಲ",
+   "aka": [
+    "n1u46-01"
+   ]
   },
   {
-   "id": "n1u46-02",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "w4e69e008a7",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "quelques",
    "tr": "kelavu",
-   "kn": "ಕೆಲವು"
+   "kn": "ಕೆಲವು",
+   "aka": [
+    "n1u46-02"
+   ]
   },
   {
-   "id": "n1u46-03",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "w5a1a28710a",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "plus / trop",
    "tr": "jāsti",
-   "kn": "ಜಾಸ್ತಿ"
+   "kn": "ಜಾಸ್ತಿ",
+   "aka": [
+    "n1u46-03"
+   ]
   },
   {
-   "id": "n1u46-04",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "wff3526ef0e",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "moins",
    "tr": "kammi",
-   "kn": "ಕಮ್ಮಿ"
+   "kn": "ಕಮ್ಮಿ",
+   "aka": [
+    "n1u46-04"
+   ]
   },
   {
-   "id": "n1u46-05",
-   "cat": "Niveau 1 · 46. Quantités",
-   "fr": "assez",
-   "tr": "sāku",
-   "kn": "ಸಾಕು"
-  },
-  {
-   "id": "n1u46-06",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "w584ffae17f",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "quelque chose",
    "tr": "ēnādru",
-   "kn": "ಏನಾದ್ರು"
+   "kn": "ಏನಾದ್ರು",
+   "aka": [
+    "n1u46-06"
+   ]
   },
   {
-   "id": "n1u46-07",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "w811c9bc9b6",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "rien",
    "tr": "ēnū",
    "kn": "ಏನೂ",
-   "note": "avec un verbe négatif : ēnū bēḍa = je ne veux rien"
+   "note": "avec un verbe négatif : ēnū bēḍa = je ne veux rien",
+   "aka": [
+    "n1u46-07"
+   ]
   },
   {
-   "id": "n1u46-08",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "w7b323f2dc5",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "un autre",
    "tr": "bēre",
-   "kn": "ಬೇರೆ"
+   "kn": "ಬೇರೆ",
+   "aka": [
+    "n1u46-08"
+   ]
   },
   {
-   "id": "n1u46-09",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "w25f088379a",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "le même",
    "tr": "ade",
-   "kn": "ಅದೇ"
+   "kn": "ಅದೇ",
+   "aka": [
+    "n1u46-09"
+   ]
   },
   {
-   "id": "n1u46-10",
-   "cat": "Niveau 1 · 46. Quantités",
+   "id": "w219a38934f",
+   "cat": "Niveau 1 · Relier les idées · Quantités",
    "fr": "vous voulez quelque chose ?",
    "tr": "ēnādru bēkā?",
-   "kn": "ಏನಾದ್ರು ಬೇಕಾ?"
+   "kn": "ಏನಾದ್ರು ಬೇಕಾ?",
+   "aka": [
+    "n1u46-10"
+   ]
   },
   {
-   "id": "n1u47-01",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "w78e566c0e2",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "long",
    "tr": "udda",
-   "kn": "ಉದ್ದ"
+   "kn": "ಉದ್ದ",
+   "aka": [
+    "n1u47-01"
+   ]
   },
   {
-   "id": "n1u47-02",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "w9abdfe2639",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "court",
    "tr": "giḍḍa",
-   "kn": "ಗಿಡ್ಡ"
+   "kn": "ಗಿಡ್ಡ",
+   "aka": [
+    "n1u47-02"
+   ]
   },
   {
-   "id": "n1u47-03",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "w457b717f3b",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "épais / gros",
    "tr": "dappa",
-   "kn": "ದಪ್ಪ"
+   "kn": "ದಪ್ಪ",
+   "aka": [
+    "n1u47-03"
+   ]
   },
   {
-   "id": "n1u47-04",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "wfcca6abb3e",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "fin / petit",
    "tr": "saṇṇa",
-   "kn": "ಸಣ್ಣ"
+   "kn": "ಸಣ್ಣ",
+   "aka": [
+    "n1u47-04"
+   ]
   },
   {
-   "id": "n1u47-05",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "w0728996ed9",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "lourd",
    "tr": "bhāra",
-   "kn": "ಭಾರ"
+   "kn": "ಭಾರ",
+   "aka": [
+    "n1u47-05"
+   ]
   },
   {
-   "id": "n1u47-06",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "w5312105641",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "propre",
    "tr": "svachcha",
-   "kn": "ಸ್ವಚ್ಛ"
+   "kn": "ಸ್ವಚ್ಛ",
+   "aka": [
+    "n1u47-06"
+   ]
   },
   {
-   "id": "n1u47-07",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "wa6c473172d",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "vide",
    "tr": "khāli",
-   "kn": "ಖಾಲಿ"
+   "kn": "ಖಾಲಿ",
+   "aka": [
+    "n1u47-07"
+   ]
   },
   {
-   "id": "n1u47-08",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
-   "fr": "épicé",
-   "tr": "khāra",
-   "kn": "ಖಾರ"
-  },
-  {
-   "id": "n1u47-09",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "w1346cfa17c",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "acide",
    "tr": "huḷi",
-   "kn": "ಹುಳಿ"
+   "kn": "ಹುಳಿ",
+   "aka": [
+    "n1u47-09"
+   ]
   },
   {
-   "id": "n1u47-10",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
+   "id": "w7025fe3fbc",
+   "cat": "Niveau 1 · Décrire (suite)",
    "fr": "amer",
    "tr": "kahi",
-   "kn": "ಕಹಿ"
+   "kn": "ಕಹಿ",
+   "aka": [
+    "n1u47-10"
+   ]
   },
   {
-   "id": "n1u47-11",
-   "cat": "Niveau 1 · 47. Décrire (suite)",
-   "fr": "froid (boisson, objet)",
-   "tr": "taṇṇage",
-   "kn": "ತಣ್ಣಗೆ"
-  },
-  {
-   "id": "n1u48-01",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "w7a595e0f16",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "treize (13)",
    "tr": "hadimūru",
-   "kn": "ಹದಿಮೂರು"
+   "kn": "ಹದಿಮೂರು",
+   "aka": [
+    "n1u48-01"
+   ]
   },
   {
-   "id": "n1u48-02",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "we79c19e742",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "quatorze (14)",
    "tr": "hadinālku",
-   "kn": "ಹದಿನಾಲ್ಕು"
+   "kn": "ಹದಿನಾಲ್ಕು",
+   "aka": [
+    "n1u48-02"
+   ]
   },
   {
-   "id": "n1u48-03",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "w10fc81e9b6",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "quinze (15)",
    "tr": "hadinaidu",
-   "kn": "ಹದಿನೈದು"
+   "kn": "ಹದಿನೈದು",
+   "aka": [
+    "n1u48-03"
+   ]
   },
   {
-   "id": "n1u48-04",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "wc8bab4d63b",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "seize (16)",
    "tr": "hadināru",
-   "kn": "ಹದಿನಾರು"
+   "kn": "ಹದಿನಾರು",
+   "aka": [
+    "n1u48-04"
+   ]
   },
   {
-   "id": "n1u48-05",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "wda8ebd87f8",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "dix-sept (17)",
    "tr": "hadinēḷu",
-   "kn": "ಹದಿನೇಳು"
+   "kn": "ಹದಿನೇಳು",
+   "aka": [
+    "n1u48-05"
+   ]
   },
   {
-   "id": "n1u48-06",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "w161d5bdaa5",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "dix-huit (18)",
    "tr": "hadineṇṭu",
-   "kn": "ಹದಿನೆಂಟು"
+   "kn": "ಹದಿನೆಂಟು",
+   "aka": [
+    "n1u48-06"
+   ]
   },
   {
-   "id": "n1u48-07",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "w788baa7dab",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "dix-neuf (19)",
    "tr": "hattombattu",
-   "kn": "ಹತ್ತೊಂಬತ್ತು"
+   "kn": "ಹತ್ತೊಂಬತ್ತು",
+   "aka": [
+    "n1u48-07"
+   ]
   },
   {
-   "id": "n1u48-08",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "w63b5e4e4d1",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "quarante (40)",
    "tr": "nalavattu",
-   "kn": "ನಲವತ್ತು"
+   "kn": "ನಲವತ್ತು",
+   "aka": [
+    "n1u48-08"
+   ]
   },
   {
-   "id": "n1u48-09",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "w640dcfbc92",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "soixante (60)",
    "tr": "aravattu",
-   "kn": "ಅರವತ್ತು"
+   "kn": "ಅರವತ್ತು",
+   "aka": [
+    "n1u48-09"
+   ]
   },
   {
-   "id": "n1u48-10",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "wf15370df86",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "soixante-dix (70)",
    "tr": "eppattu",
-   "kn": "ಎಪ್ಪತ್ತು"
+   "kn": "ಎಪ್ಪತ್ತು",
+   "aka": [
+    "n1u48-10"
+   ]
   },
   {
-   "id": "n1u48-11",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "w578802103b",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "quatre-vingts (80)",
    "tr": "enbattu",
-   "kn": "ಎಂಬತ್ತು"
+   "kn": "ಎಂಬತ್ತು",
+   "aka": [
+    "n1u48-11"
+   ]
   },
   {
-   "id": "n1u48-12",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "wf1506ccd1e",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "quatre-vingt-dix (90)",
    "tr": "tombattu",
-   "kn": "ತೊಂಬತ್ತು"
+   "kn": "ತೊಂಬತ್ತು",
+   "aka": [
+    "n1u48-12"
+   ]
   },
   {
-   "id": "n1u48-13",
-   "cat": "Niveau 1 · 48. Compter (suite)",
+   "id": "wd5f6f1eff7",
+   "cat": "Niveau 1 · Compter (suite)",
    "fr": "cent mille (un lakh)",
    "tr": "lakṣa",
    "kn": "ಲಕ್ಷ",
-   "note": "on compte en lakhs : 1 lakh = 100 000"
+   "note": "on compte en lakhs : 1 lakh = 100 000",
+   "aka": [
+    "n1u48-13"
+   ]
+  },
+  {
+   "id": "w4792718572",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "la fête",
+   "tr": "habba",
+   "kn": "ಹಬ್ಬ",
+   "aka": [
+    "n1u29-01"
+   ]
+  },
+  {
+   "id": "wf27fe6e6c8",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "Sankranti (fête des récoltes, vers le 14 janvier)",
+   "tr": "Sankrānti",
+   "kn": "ಸಂಕ್ರಾಂತಿ",
+   "aka": [
+    "n1u29-02"
+   ]
+  },
+  {
+   "id": "wcfde770680",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "le cadeau",
+   "tr": "uḍugore",
+   "kn": "ಉಡುಗೊರೆ",
+   "aka": [
+    "n1u29-07"
+   ]
+  },
+  {
+   "id": "we0e55f4a99",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "le temple",
+   "tr": "dēvasthāna",
+   "kn": "ದೇವಸ್ಥಾನ",
+   "aka": [
+    "n1u29-08"
+   ]
+  },
+  {
+   "id": "w00234f9e54",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "la prière / le rituel",
+   "tr": "pūje",
+   "kn": "ಪೂಜೆ",
+   "aka": [
+    "n1u29-09"
+   ]
+  },
+  {
+   "id": "w71f8e9524e",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "bonne fête !",
+   "tr": "habbada shubhāśayagaḷu!",
+   "kn": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು!",
+   "aka": [
+    "n1u29-03"
+   ]
+  },
+  {
+   "id": "w6a72216250",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "le mélange sésame-jaggery de Sankranti",
+   "tr": "eḷḷu bella",
+   "kn": "ಎಳ್ಳು ಬೆಲ್ಲ",
+   "aka": [
+    "n1u29-05"
+   ]
+  },
+  {
+   "id": "wea696a611e",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "bon voyage",
+   "tr": "prayāṇa chennāgirli",
+   "kn": "ಪ್ರಯಾಣ ಚೆನ್ನಾಗಿರಲಿ",
+   "aka": [
+    "n1u29-10"
+   ]
+  },
+  {
+   "id": "wc513edeed8",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "bonne année !",
+   "tr": "hosa varṣada shubhāśayagaḷu!",
+   "kn": "ಹೊಸ ವರ್ಷದ ಶುಭಾಶಯಗಳು!",
+   "aka": [
+    "n1u29-04"
+   ]
+  },
+  {
+   "id": "w2ecf3d8be0",
+   "cat": "Niveau 1 · Fêtes",
+   "fr": "« mange du eḷḷu bella et dis de belles paroles »",
+   "tr": "eḷḷu bella tindu oḷḷe mātāḍi",
+   "kn": "ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು ಒಳ್ಳೆ ಮಾತಾಡಿ",
+   "note": "la formule qu'on échange à Sankranti",
+   "aka": [
+    "n1u29-06"
+   ]
+  },
+  {
+   "id": "w87d9420528",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "à droite",
+   "tr": "bala",
+   "kn": "ಬಲ",
+   "aka": [
+    "n1u30-02"
+   ]
+  },
+  {
+   "id": "w4a98c2b5c8",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "à gauche",
+   "tr": "eḍa",
+   "kn": "ಎಡ",
+   "aka": [
+    "n1u30-03"
+   ]
+  },
+  {
+   "id": "w9e6cf58efa",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "tout droit",
+   "tr": "nēra",
+   "kn": "ನೇರ",
+   "aka": [
+    "n1u30-04"
+   ]
+  },
+  {
+   "id": "w9a87c0b4fe",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "près",
+   "tr": "hattira",
+   "kn": "ಹತ್ತಿರ",
+   "aka": [
+    "n1u30-05"
+   ]
+  },
+  {
+   "id": "w7b4e40056f",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "loin",
+   "tr": "dūra",
+   "kn": "ದೂರ",
+   "aka": [
+    "n1u30-06"
+   ]
+  },
+  {
+   "id": "wf9efc32e77",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "le chemin",
+   "tr": "dāri",
+   "kn": "ದಾರಿ",
+   "aka": [
+    "n1u30-10"
+   ]
+  },
+  {
+   "id": "wd9a8e7ebd0",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "je dois aller à…",
+   "tr": "… ge hōgbēku",
+   "kn": "… ಗೆ ಹೋಗಬೇಕು",
+   "aka": [
+    "n1u30-01"
+   ]
+  },
+  {
+   "id": "wab6ea6325c",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "arrêtez-vous ici",
+   "tr": "illi nillisi",
+   "kn": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ",
+   "aka": [
+    "n1u30-07"
+   ]
+  },
+  {
+   "id": "wa2f6d62659",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "tournez à droite",
+   "tr": "balakke tirugi",
+   "kn": "ಬಲಕ್ಕೆ ತಿರುಗಿ",
+   "aka": [
+    "n1u30-08"
+   ]
+  },
+  {
+   "id": "w3ef1560310",
+   "cat": "Niveau 1 · Se déplacer",
+   "fr": "allez doucement",
+   "tr": "nidhāna hōgi",
+   "kn": "ನಿಧಾನ ಹೋಗಿ",
+   "aka": [
+    "n1u30-09"
+   ]
+  },
+  {
+   "id": "wb640ccf359",
+   "cat": "Niveau 1 · Faire des courses",
+   "fr": "la roupie",
+   "tr": "rūpāyi",
+   "kn": "ರೂಪಾಯಿ",
+   "aka": [
+    "n1u31-09"
+   ]
+  },
+  {
+   "id": "wd8fdb918a6",
+   "cat": "Niveau 1 · Faire des courses",
+   "fr": "ça fait combien ?",
+   "tr": "eṣṭu āytu?",
+   "kn": "ಎಷ್ಟು ಆಯ್ತು?",
+   "aka": [
+    "n1u31-02"
+   ]
+  },
+  {
+   "id": "wb3cbce53e5",
+   "cat": "Niveau 1 · Faire des courses",
+   "fr": "c'est trop cher",
+   "tr": "tumbā jāsti",
+   "kn": "ತುಂಬಾ ಜಾಸ್ತಿ",
+   "aka": [
+    "n1u31-05"
+   ]
+  },
+  {
+   "id": "w14cd8ed80a",
+   "cat": "Niveau 1 · Faire des courses",
+   "fr": "je n'ai pas de monnaie",
+   "tr": "chillare illa",
+   "kn": "ಚಿಲ್ಲರೆ ಇಲ್ಲ",
+   "aka": [
+    "n1u31-08"
+   ]
+  },
+  {
+   "id": "w60071b47a1",
+   "cat": "Niveau 1 · Faire des courses",
+   "fr": "baissez un peu le prix",
+   "tr": "svalpa kammi māḍi",
+   "kn": "ಸ್ವಲ್ಪ ಕಮ್ಮಿ ಮಾಡಿ",
+   "aka": [
+    "n1u31-06"
+   ]
+  },
+  {
+   "id": "w2d761a333e",
+   "cat": "Niveau 1 · Faire des courses",
+   "fr": "vous avez une autre couleur ?",
+   "tr": "bēre baṇṇa ide?",
+   "kn": "ಬೇರೆ ಬಣ್ಣ ಇದೆ?",
+   "aka": [
+    "n1u31-07"
+   ]
+  },
+  {
+   "id": "wc29541431f",
+   "cat": "Niveau 1 · Faire des courses",
+   "fr": "je regarde seulement",
+   "tr": "summane nōḍtā iddīni",
+   "kn": "ಸುಮ್ಮನೆ ನೋಡ್ತಾ ಇದ್ದೀನಿ",
+   "aka": [
+    "n1u31-10"
+   ]
   }
  ]
 }
