@@ -11,6 +11,15 @@ import re
 
 from data_n1 import NIVEAU_1
 
+# niveaux suivants, s'ils sont présents
+EXTRA = []
+for lvl, mod in ((2, "data_n2"), (3, "data_n3"), (4, "data_n4")):
+    try:
+        m = __import__(mod)
+        EXTRA.append((lvl, getattr(m, f"NIVEAU_{lvl}")))
+    except ImportError:
+        pass
+
 # Premier mois : 30 unités de 10, du mot seul à la phrase courte.
 # Semaine 1 : mots seuls · semaine 2 : verbes, adjectifs, deux mots ·
 # semaine 3 : phrases de trois mots · semaine 4 : petites conversations.
@@ -481,6 +490,12 @@ LIMITS = [(70, 1), (140, 2), (210, 3), (290, 4), (310, 6)]
 for i, w in enumerate(words[:310]):
     lim = next(m for p, m in LIMITS if i < p)
     assert nwords(w["tr"]) <= lim, (i, w["tr"], lim)
+
+# niveaux 2 à 4, à la suite, dans l'ordre d'écriture
+for lvl, units_x in EXTRA:
+    for title, items in units_x:
+        for it in items:
+            add(f"Niveau {lvl} · {title}", it)
 
 ids = [w["id"] for w in words]
 assert len(ids) == len(set(ids)), "identifiants en double"
