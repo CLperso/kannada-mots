@@ -87,7 +87,7 @@ NIVEAU_1 = [
  ("beau-père (père du partenaire)", "māva", "ಮಾವ", "veut aussi dire « frère de la mère »"),
  ("les parents", "appa-amma", "ಅಪ್ಪ-ಅಮ್ಮ", "on dit « papa-maman »"),
  ("fils", "maga", "ಮಗ", None),
- ("fille (enfant)", "magaḷu", "ಮಗಳು", None),
+ ("une fille (sa fille, daughter)", "magaḷu", "ಮಗಳು", None),
  ("grand frère (et façon polie d'appeler un homme)", "aṇṇa", "ಅಣ್ಣ", "on appelle ainsi un chauffeur ou un vendeur, avec respect"),
  ("grande sœur (et façon polie d'appeler une femme)", "akka", "ಅಕ್ಕ", "idem pour une femme"),
  ("la famille", "kuṭumba", "ಕುಟುಂಬ", None),

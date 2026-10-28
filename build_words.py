@@ -10,6 +10,7 @@ import json
 import re
 
 from data_n1 import NIVEAU_1
+from pron import pron
 
 # niveaux suivants, s'ils sont présents
 EXTRA = []
@@ -21,10 +22,10 @@ for lvl, mod in ((2, "data_n2"), (3, "data_n3"), (4, "data_n4")):
         pass
 
 # Premier mois : 30 unités de 10, du mot seul à la phrase courte.
-# Semaine 1 : mots seuls · semaine 2 : verbes, adjectifs, deux mots ·
+# Groupes 1-7 : mots seuls · 8-14 : verbes, adjectifs, deux mots ·
 # semaine 3 : phrases de trois mots · semaine 4 : petites conversations.
 DEBUT = [
-("Semaine 1 · les tout premiers mots", [
+("Groupe 1 · les tout premiers mots", [
  ("bonjour", "namaskāra", "ನಮಸ್ಕಾರ", "mains jointes ; le salut respectueux, à toute heure"),
  ("oui", "haudu", "ಹೌದು", None),
  ("non / il n'y en a pas", "illa", "ಇಲ್ಲ", None),
@@ -36,7 +37,7 @@ DEBUT = [
  ("le repas", "ūṭa", "ಊಟ", None),
  ("venez / entrez", "banni", "ಬನ್ನಿ", None),
 ]),
-("Semaine 1 · moi, toi, vous", [
+("Groupe 2 · moi, toi, vous", [
  ("je / moi", "nānu", "ನಾನು", None),
  ("tu / toi (proches)", "nīnu", "ನೀನು", None),
  ("vous (respect)", "nīvu", "ನೀವು", "avec les parents de ton partenaire"),
@@ -48,7 +49,7 @@ DEBUT = [
  ("cela (là-bas)", "adu", "ಅದು", None),
  ("qui ?", "yāru?", "ಯಾರು?", None),
 ]),
-("Semaine 1 · questions et petits mots", [
+("Groupe 3 · questions et petits mots", [
  ("quoi ?", "ēnu?", "ಏನು?", None),
  ("où ?", "elli?", "ಎಲ್ಲಿ?", None),
  ("pourquoi ?", "yāke?", "ಯಾಕೆ?", None),
@@ -60,7 +61,7 @@ DEBUT = [
  ("maintenant", "īga", "ಈಗ", None),
  ("très / beaucoup", "tumbā", "ತುಂಬಾ", None),
 ]),
-("Semaine 1 · la famille", [
+("Groupe 4 · la famille", [
  ("maman", "amma", "ಅಮ್ಮ", None),
  ("papa", "appa", "ಅಪ್ಪ", None),
  ("belle-mère (mère du partenaire)", "atte", "ಅತ್ತೆ", None),
@@ -70,9 +71,9 @@ DEBUT = [
  ("petit frère", "tamma", "ತಮ್ಮ", None),
  ("petite sœur", "tangi", "ತಂಗಿ", None),
  ("fils", "maga", "ಮಗ", None),
- ("fille (enfant)", "magaḷu", "ಮಗಳು", None),
+ ("une fille (sa fille, daughter)", "magaḷu", "ಮಗಳು", "l'enfant fille ; une jeune fille se dit huḍugi"),
 ]),
-("Semaine 1 · compter jusqu'à 10", [
+("Groupe 5 · compter jusqu'à 10", [
  ("un (1)", "ondu", "ಒಂದು", None),
  ("deux (2)", "eraḍu", "ಎರಡು", None),
  ("trois (3)", "mūru", "ಮೂರು", None),
@@ -84,7 +85,7 @@ DEBUT = [
  ("neuf (9)", "ombattu", "ಒಂಬತ್ತು", None),
  ("dix (10)", "hattu", "ಹತ್ತು", None),
 ]),
-("Semaine 1 · à boire, à manger", [
+("Groupe 6 · à boire, à manger", [
  ("le café", "kāphi", "ಕಾಫಿ", None),
  ("le thé", "ṭī", "ಟೀ", None),
  ("le lait", "hālu", "ಹಾಲು", None),
@@ -96,7 +97,7 @@ DEBUT = [
  ("le sucre", "sakkare", "ಸಕ್ಕರೆ", None),
  ("le sel", "uppu", "ಉಪ್ಪು", None),
 ]),
-("Semaine 1 · la maison et la vie", [
+("Groupe 7 · la maison et la vie", [
  ("la maison", "mane", "ಮನೆ", None),
  ("le nom", "hesaru", "ಹೆಸರು", None),
  ("la ville / le village d'origine", "ūru", "ಊರು", None),
@@ -108,7 +109,7 @@ DEBUT = [
  ("la chaise", "kurchi", "ಕುರ್ಚಿ", None),
  ("le lit", "hāsige", "ಹಾಸಿಗೆ", None),
 ]),
-("Semaine 2 · verbes polis", [
+("Groupe 8 · verbes polis", [
  ("asseyez-vous", "kūtkoḷḷi", "ಕೂತ್ಕೊಳ್ಳಿ", None),
  ("mangez", "tinni", "ತಿನ್ನಿ", None),
  ("buvez", "kuḍiyiri", "ಕುಡಿಯಿರಿ", None),
@@ -120,7 +121,7 @@ DEBUT = [
  ("allez", "hōgi", "ಹೋಗಿ", None),
  ("faites", "māḍi", "ಮಾಡಿ", "la forme polie se termine en -i"),
 ]),
-("Semaine 2 · décrire", [
+("Groupe 9 · décrire", [
  ("c'est bien / c'est bon", "chennāgide", "ಚೆನ್ನಾಗಿದೆ", None),
  ("grand", "doḍḍa", "ದೊಡ್ಡ", None),
  ("petit", "chikka", "ಚಿಕ್ಕ", None),
@@ -132,7 +133,7 @@ DEBUT = [
  ("un peu", "svalpa", "ಸ್ವಲ್ಪ", None),
  ("ça suffit / assez", "sāku", "ಸಾಕು", None),
 ]),
-("Semaine 2 · je veux, je ne veux pas", [
+("Groupe 10 · je veux, je ne veux pas", [
  ("je veux de l'eau", "nīru bēku", "ನೀರು ಬೇಕು", "on met juste le mot, puis bēku"),
  ("je veux du café", "kāphi bēku", "ಕಾಫಿ ಬೇಕು", None),
  ("je veux du lait", "hālu bēku", "ಹಾಲು ಬೇಕು", None),
@@ -144,7 +145,7 @@ DEBUT = [
  ("encore un peu", "innu svalpa", "ಇನ್ನು ಸ್ವಲ್ಪ", None),
  ("je ne veux pas manger", "ūṭa bēḍa", "ಊಟ ಬೇಡ", None),
 ]),
-("Semaine 2 · mon, votre", [
+("Groupe 11 · mon, votre", [
  ("ma maison", "nanna mane", "ನನ್ನ ಮನೆ", None),
  ("votre maison", "nimma mane", "ನಿಮ್ಮ ಮನೆ", None),
  ("ma maman", "nanna amma", "ನನ್ನ ಅಮ್ಮ", None),
@@ -156,7 +157,7 @@ DEBUT = [
  ("où est la maison ?", "mane elli?", "ಮನೆ ಎಲ್ಲಿ?", None),
  ("c'est très bien", "tumbā chennāgide", "ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ", None),
 ]),
-("Semaine 2 · il y a, il n'y a pas", [
+("Groupe 12 · il y a, il n'y a pas", [
  ("il y a / c'est là", "ide", "ಇದೆ", None),
  ("il y a du café ?", "kāphi ide?", "ಕಾಫಿ ಇದೆ?", "pour demander, on monte la voix"),
  ("il y a de l'eau", "nīru ide", "ನೀರು ಇದೆ", None),
@@ -168,7 +169,7 @@ DEBUT = [
  ("s'il vous plaît", "dayaviṭṭu", "ದಯವಿಟ್ಟು", None),
  ("une minute", "ondu nimiṣa", "ಒಂದು ನಿಮಿಷ", None),
 ]),
-("Semaine 2 · saluer", [
+("Groupe 13 · saluer", [
  ("comment allez-vous ?", "hēgiddīra?", "ಹೇಗಿದ್ದೀರ?", None),
  ("je vais bien", "chennāgiddīni", "ಚೆನ್ನಾಗಿದ್ದೀನಿ", None),
  ("et vous ?", "nīvu?", "ನೀವು?", None),
@@ -180,7 +181,7 @@ DEBUT = [
  ("vous avez mangé ?", "ūṭa āytā?", "ಊಟ ಆಯ್ತಾ?", "la question de tous les jours, comme « ça va ? »"),
  ("oui, j'ai mangé", "ūṭa āytu", "ಊಟ ಆಯ್ತು", None),
 ]),
-("Semaine 2 · à table", [
+("Groupe 14 · à table", [
  ("c'est délicieux", "tumbā ruchiyāgide", "ತುಂಬಾ ರುಚಿಯಾಗಿದೆ", None),
  ("j'ai bien mangé (« ventre plein »)", "hoṭṭe tumbitu", "ಹೊಟ್ಟೆ ತುಂಬಿತು", "très utile : on te ressert souvent"),
  ("pas trop épicé", "khāra kammi", "ಖಾರ ಕಮ್ಮಿ", None),
@@ -192,7 +193,7 @@ DEBUT = [
  ("je n'en veux plus", "innu bēḍa", "ಇನ್ನು ಬೇಡ", None),
  ("un café chaud", "bisi kāphi", "ಬಿಸಿ ಕಾಫಿ", None),
 ]),
-("Semaine 3 · « c'est » sans verbe", [
+("Groupe 15 · « c'est » sans verbe", [
  ("je suis étudiante", "nānu vidyārthini", "ನಾನು ವಿದ್ಯಾರ್ಥಿನಿ", "pas de verbe « être » : « moi étudiante »"),
  ("c'est ma belle-mère", "avaru nanna atte", "ಅವರು ನನ್ನ ಅತ್ತೆ", None),
  ("c'est ma maison", "idu nanna mane", "ಇದು ನನ್ನ ಮನೆ", None),
@@ -204,7 +205,7 @@ DEBUT = [
  ("d'où êtes-vous ?", "nimma ūru yāvdu?", "ನಿಮ್ಮ ಊರು ಯಾವ್ದು?", None),
  ("je suis française", "nānu France-navaḷu", "ನಾನು ಫ್ರಾನ್ಸ್‌ನವಳು", None),
 ]),
-("Semaine 3 · « à moi » (nanage)", [
+("Groupe 16 · « à moi » (nanage)", [
  ("à moi / pour moi", "nanage", "ನನಗೆ", "en kannada : « à moi le café est nécessaire »"),
  ("je veux du café (« à moi café il faut »)", "nanage kāphi bēku", "ನನಗೆ ಕಾಫಿ ಬೇಕು", None),
  ("je ne sais pas (« à moi pas connu »)", "nanage gottilla", "ನನಗೆ ಗೊತ್ತಿಲ್ಲ", None),
@@ -216,7 +217,7 @@ DEBUT = [
  ("vous voulez du café ?", "nimage kāphi bēkā?", "ನಿಮಗೆ ಕಾಫಿ ಬೇಕಾ?", "nimage = à vous ; -ā = question"),
  ("qu'est-ce que tu veux ?", "ninage ēnu bēku?", "ನಿನಗೆ ಏನು ಬೇಕು?", None),
 ]),
-("Semaine 3 · je fais (présent)", [
+("Groupe 17 · je fais (présent)", [
  ("je viens", "nānu bartīni", "ನಾನು ಬರ್ತೀನಿ", "-tīni = je, maintenant ou bientôt"),
  ("je vais (y aller)", "nānu hōgtīni", "ನಾನು ಹೋಗ್ತೀನಿ", None),
  ("je mange", "nānu tintīni", "ನಾನು ತಿಂತೀನಿ", None),
@@ -228,7 +229,7 @@ DEBUT = [
  ("je dors", "nānu malagtīni", "ನಾನು ಮಲಗ್ತೀನಿ", None),
  ("je viens demain", "nāḷe bartīni", "ನಾಳೆ ಬರ್ತೀನಿ", "le même temps sert pour le futur"),
 ]),
-("Semaine 3 · tu, vous, il (présent)", [
+("Groupe 18 · tu, vous, il (présent)", [
  ("vous venez ?", "nīvu bartīra?", "ನೀವು ಬರ್ತೀರ?", "-tīra = vous"),
  ("tu viens ?", "nīnu bartīya?", "ನೀನು ಬರ್ತೀಯ?", "-tīya = tu"),
  ("il / elle vient (respect)", "avaru bartāre", "ಅವರು ಬರ್ತಾರೆ", "-tāre = il, elle (respect), ils"),
@@ -240,7 +241,7 @@ DEBUT = [
  ("maman fait la cuisine", "amma aḍige māḍtāre", "ಅಮ್ಮ ಅಡಿಗೆ ಮಾಡ್ತಾರೆ", None),
  ("je bois du café", "nānu kāphi kuḍītīni", "ನಾನು ಕಾಫಿ ಕುಡೀತೀನಿ", None),
 ]),
-("Semaine 3 · dire non", [
+("Groupe 19 · dire non", [
  ("je ne viens pas", "nānu barolla", "ನಾನು ಬರೋಲ್ಲ", "verbe + -alla / -olla, la même forme pour tous"),
  ("je ne mange pas", "nānu tinnalla", "ನಾನು ತಿನ್ನಲ್ಲ", None),
  ("il ne vient pas", "avanu barolla", "ಅವನು ಬರೋಲ್ಲ", None),
@@ -252,7 +253,7 @@ DEBUT = [
  ("ce n'est rien", "ēnū illa", "ಏನೂ ಇಲ್ಲ", None),
  ("je n'aime pas", "nanage ishṭa illa", "ನನಗೆ ಇಷ್ಟ ಇಲ್ಲ", None),
 ]),
-("Semaine 3 · où ?", [
+("Groupe 20 · où ?", [
  ("à la maison", "maneyalli", "ಮನೆಯಲ್ಲಿ", "« dans, à » : -alli (mane → maneyalli)"),
  ("c'est ici", "illi ide", "ಇಲ್ಲಿ ಇದೆ", None),
  ("c'est là-bas", "alli ide", "ಅಲ್ಲಿ ಇದೆ", None),
@@ -264,7 +265,7 @@ DEBUT = [
  ("dans la cuisine", "aḍige maneyalli", "ಅಡಿಗೆ ಮನೆಯಲ್ಲಿ", None),
  ("où sont les toilettes ?", "śaucālaya elli ide?", "ಶೌಚಾಲಯ ಎಲ್ಲಿ ಇದೆ?", None),
 ]),
-("Semaine 3 · quand ?", [
+("Groupe 21 · quand ?", [
  ("aujourd'hui", "ivattu", "ಇವತ್ತು", None),
  ("demain", "nāḷe", "ನಾಳೆ", None),
  ("hier", "ninne", "ನಿನ್ನೆ", None),
@@ -276,7 +277,7 @@ DEBUT = [
  ("ce soir", "ivattu sanje", "ಇವತ್ತು ಸಂಜೆ", None),
  ("demain matin", "nāḷe beḷigge", "ನಾಳೆ ಬೆಳಿಗ್ಗೆ", None),
 ]),
-("Semaine 4 · le passé", [
+("Groupe 22 · le passé", [
  ("je suis venue", "nānu bande", "ನಾನು ಬಂದೆ", "passé « je » : terminaison -e"),
  ("je suis allée", "nānu hōde", "ನಾನು ಹೋದೆ", None),
  ("j'ai mangé", "nānu tinde", "ನಾನು ತಿಂದೆ", None),
@@ -288,7 +289,7 @@ DEBUT = [
  ("hier je suis venue", "ninne nānu bande", "ನಿನ್ನೆ ನಾನು ಬಂದೆ", None),
  ("qu'avez-vous fait ?", "nīvu ēnu māḍidri?", "ನೀವು ಏನು ಮಾಡಿದ್ರಿ?", None),
 ]),
-("Semaine 4 · comprendre et apprendre", [
+("Groupe 23 · comprendre et apprendre", [
  ("j'ai compris", "artha āytu", "ಅರ್ಥ ಆಯ್ತು", None),
  ("redites-le", "matte hēḷi", "ಮತ್ತೆ ಹೇಳಿ", None),
  ("écrivez-le", "bareyiri", "ಬರೆಯಿರಿ", None),
@@ -300,7 +301,7 @@ DEBUT = [
  ("j'apprends le kannada", "nānu Kannaḍa kalītā iddīni", "ನಾನು ಕನ್ನಡ ಕಲೀತಾ ಇದ್ದೀನಿ", "ça fait toujours plaisir à entendre"),
  ("je parle un peu kannada", "nanage svalpa Kannaḍa barutte", "ನನಗೆ ಸ್ವಲ್ಪ ಕನ್ನಡ ಬರುತ್ತೆ", "« à moi un peu de kannada vient »"),
 ]),
-("Semaine 4 · allons-y, il faut", [
+("Groupe 24 · allons-y, il faut", [
  ("allons-y", "hōgōṇa", "ಹೋಗೋಣ", "-ōṇa = « faisons »"),
  ("mangeons", "tinnōṇa", "ತಿನ್ನೋಣ", None),
  ("regardons", "nōḍōṇa", "ನೋಡೋಣ", None),
@@ -312,7 +313,7 @@ DEBUT = [
  ("nous devons y aller", "nāvu hōgbēku", "ನಾವು ಹೋಗಬೇಕು", None),
  ("je dois apprendre", "nānu kalībēku", "ನಾನು ಕಲೀಬೇಕು", None),
 ]),
-("Semaine 4 · comment je me sens", [
+("Groupe 25 · comment je me sens", [
  ("j'aime", "nanage ishṭa", "ನನಗೆ ಇಷ್ಟ", None),
  ("très contente", "tumbā khushi", "ತುಂಬಾ ಖುಷಿ", None),
  ("j'ai froid", "nanage chaḷi āgtide", "ನನಗೆ ಚಳಿ ಆಗ್ತಿದೆ", None),
@@ -324,7 +325,7 @@ DEBUT = [
  ("prenez soin de vous", "huṣāru", "ಹುಷಾರು", None),
  ("vous êtes très gentil·le", "nīvu tumbā oḷḷeyavru", "ನೀವು ತುಂಬಾ ಒಳ್ಳೆಯವ್ರು", None),
 ]),
-("Semaine 4 · avec ton partenaire", [
+("Groupe 26 · avec ton partenaire", [
  ("mon trésor", "chinna", "ಚಿನ್ನ", "littéralement « or »"),
  ("un bisou", "muttu", "ಮುತ್ತು", None),
  ("l'amour", "prīti", "ಪ್ರೀತಿ", None),
@@ -336,7 +337,7 @@ DEBUT = [
  ("je t'aime", "nā ninna prītistīni", "ನಾ ನಿನ್ನ ಪ್ರೀತಿಸ್ತೀನಿ", "forme parlée"),
  ("tu es très beau / très belle", "nīnu tumbā chennāgiddīya", "ನೀನು ತುಂಬಾ ಚೆನ್ನಾಗಿದ್ದೀಯ", None),
 ]),
-("Semaine 4 · relier les idées", [
+("Groupe 27 · relier les idées", [
  ("et", "mattu", "ಮತ್ತು", None),
  ("mais", "ādre", "ಆದ್ರೆ", None),
  ("ou", "athavā", "ಅಥವಾ", None),
@@ -348,7 +349,7 @@ DEBUT = [
  ("parfois", "kelavu sala", "ಕೆಲವು ಸಲ", None),
  ("encore / pas encore", "innū", "ಇನ್ನೂ", None),
 ]),
-("Semaine 4 · en famille", [
+("Groupe 28 · en famille", [
  ("asseyez-vous, je vous en prie", "nīvu kūtkoḷḷi", "ನೀವು ಕೂತ್ಕೊಳ್ಳಿ", None),
  ("rien, merci", "ēnū bēḍa, dhanyavāda", "ಏನೂ ಬೇಡ, ಧನ್ಯವಾದ", None),
  ("comment va votre famille ?", "nimma kuṭumba hēgide?", "ನಿಮ್ಮ ಕುಟುಂಬ ಹೇಗಿದೆ?", None),
@@ -360,7 +361,7 @@ DEBUT = [
  ("je dois apprendre la cuisine", "nānu aḍige kalībēku", "ನಾನು ಅಡಿಗೆ ಕಲೀಬೇಕು", None),
  ("votre maison est très belle", "nimma mane tumbā chennāgide", "ನಿಮ್ಮ ಮನೆ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ", None),
 ]),
-("Semaine 4 · parler de moi", [
+("Groupe 29 · parler de moi", [
  ("j'ai… ans (« mon âge… »)", "nanna vayassu…", "ನನ್ನ ವಯಸ್ಸು…", None),
  ("quel est votre travail ?", "nimma kelsa ēnu?", "ನಿಮ್ಮ ಕೆಲಸ ಏನು?", None),
  ("je donne un cours", "nānu pāṭha māḍtīni", "ನಾನು ಪಾಠ ಮಾಡ್ತೀನಿ", None),
@@ -372,7 +373,7 @@ DEBUT = [
  ("que faites-vous comme travail ?", "nīvu ēnu kelsa māḍtīra?", "ನೀವು ಏನು ಕೆಲಸ ಮಾಡ್ತೀರ?", None),
  ("c'est ma première fois en Inde", "India-ge idu modala sala", "ಇಂಡಿಯಾಗೆ ಇದು ಮೊದಲ ಸಲ", None),
 ]),
-("Semaine 4 · construire : ravie de vous rencontrer", [
+("Groupe 30 · construire : ravie de vous rencontrer", [
  ("je suis contente (« la joie est arrivée »)", "khushi āytu", "ಖುಷಿ ಆಯ್ತು", None),
  ("je suis très contente", "tumbā khushi āytu", "ತುಂಬಾ ಖುಷಿ ಆಯ್ತು", None),
  ("vous (complément)", "nimmannu", "ನಿಮ್ಮನ್ನು", "nimma + -annu, la marque du complément"),
@@ -442,7 +443,7 @@ def add(cat, item):
     if key in seen:
         return
     seen.add(key)
-    w = {"id": make_id(tr, fr), "cat": cat, "fr": fr, "tr": tr, "kn": kn}
+    w = {"id": make_id(tr, fr), "cat": cat, "fr": fr, "tr": tr, "kn": kn, "pr": pron(tr)}
     if note:
         w["note"] = note
     aka = []
